@@ -3,9 +3,11 @@
 
 Serverless Framework – Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS) – http://www.serverless.com
 
-
 The Serverless Start-Up - Down With Servers!
 http://highscalability.com/blog/2015/12/7/the-serverless-start-up-down-with-servers.html
+
+Microservices without the Servers
+https://aws.amazon.com/blogs/compute/microservices-without-the-servers/
 
 https://aws.amazon.com/lambda/details/
 
