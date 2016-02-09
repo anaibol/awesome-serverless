@@ -9,6 +9,15 @@ http://highscalability.com/blog/2015/12/7/the-serverless-start-up-down-with-serv
 Microservices without the Servers
 https://aws.amazon.com/blogs/compute/microservices-without-the-servers/
 
+A startup journey on AWS: from bare metal monolith to serverless microservices
+https://medium.com/@benorama/a-startup-journey-on-aws-from-bare-metal-monolith-to-serverless-microservices-80231624fbd9
+
+http://hood.ie/
+
+http://squirrelbin.com/
+
+http://squirrelbin.com/#/
+
 https://aws.amazon.com/lambda/details/
 
 https://github.com/stackhut/stackhut
