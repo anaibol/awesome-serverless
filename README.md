@@ -1,4 +1,4 @@
-# awesome-serverless
+# Awesome Serverless
  A collection of awesome things regarding serverless / nobackend applications.
 
 Serverless Framework – Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS) – http://www.serverless.com
