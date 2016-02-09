@@ -32,4 +32,6 @@ https://auth0.com/
 
 https://github.com/auth0/webtask-scripts/tree/master/stripe
 
+https://leanpub.com/serverless - A book 
+
 Manifiesto
