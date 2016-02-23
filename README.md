@@ -1,6 +1,18 @@
 # Awesome Serverless
  A collection of awesome things regarding serverless / nobackend applications.
 
+## Hosting
+
+## Frameworks
+
+## Authentification
+
+## Payments
+
+## Realtimes
+
+## Databases
+
 * [Serverless Framework](http://www.serverless.com) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS)
 
 
