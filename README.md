@@ -1,16 +1,14 @@
 # Awesome Serverless
  A collection of awesome things regarding serverless / nobackend applications.
 
-Serverless Framework – Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS) – http://www.serverless.com
+* [Serverless Framework](http://www.serverless.com) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS)
 
-The Serverless Start-Up - Down With Servers!
-http://highscalability.com/blog/2015/12/7/the-serverless-start-up-down-with-servers.html
 
-Microservices without the Servers
-https://aws.amazon.com/blogs/compute/microservices-without-the-servers/
+* [The Serverless Start-Up - Down With Servers!](http://highscalability.com/blog/2015/12/7/the-serverless-start-up-down-with-servers.html)
 
-A startup journey on AWS: from bare metal monolith to serverless microservices
-https://medium.com/@benorama/a-startup-journey-on-aws-from-bare-metal-monolith-to-serverless-microservices-80231624fbd9
+* [Microservices without the Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/)
+
+* [A startup journey on AWS: from bare metal monolith to serverless microservices](https://medium.com/@benorama/a-startup-journey-on-aws-from-bare-metal-monolith-to-serverless-microservices-80231624fbd9)
 
 http://hood.ie/
 
