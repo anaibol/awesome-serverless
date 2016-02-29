@@ -3,6 +3,9 @@
 
 ### Hosting
 
+* [Amazon Lamda](https://aws.amazon.com/lambda/) Run code without thinking about servers. Pay for only the compute time you consume.
+* [Peer5](https://www.peer5.com/) The Serverless CDN. Limitless, affordable video delivery. More traffic means a stronger network
+
 ### Frameworks
 
 * [Serverless Framework](http://www.serverless.com) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS)
@@ -13,12 +16,15 @@
 * [Stormpath](https://stormpath.com/) User Identity API. Launch Apps Faster. Improve User Security.
 
 ### Payments
+* https://github.com/auth0/webtask-scripts/tree/master/stripe
 
 ### Realtime
 
 ### Databases
 
-### Related articles
+### All in one
+* [Firebase](https://www.firebase.com) Build Extraordinary Apps. A powerful platform for your mobile or web application
+Firebase: realtime database, authentification, hosting
 
 ### Form endpoints
 
@@ -26,9 +32,9 @@
 
 * [FormKeep](https://formkeep.com/) Form endpoints for designers and developers. No iframes, JavaScript embeds, or CSS overrides.
 
+* http://www.formassembly.com/
 
-http://www.formassembly.com/
-https://syncano.io/
+### Related articles
 
 
 * [The Serverless Start-Up - Down With Servers!](http://highscalability.com/blog/2015/12/7/the-serverless-start-up-down-with-servers.html)
@@ -41,21 +47,13 @@ https://syncano.io/
 
 * [http://squirrelbin.com/](http://squirrelbin.com/)
 
-* [Amazon Lamda](https://aws.amazon.com/lambda/) Run code without thinking about servers. Pay for only the compute time you consume.
-
-* [StackHut](https://github.com/stackhut/stackhut)
-
-* [Peer5](https://www.peer5.com/) The Serverless CDN. Limitless, affordable video delivery. More traffic means a stronger network
-
 * [Auth0 Webtasks](https://webtask.io/) All you need is code. Run code with an HTTP call. No provisioning. No deployment.
 
-
-https://www.firebase.com
+https://syncano.io/
 
 http://nobackend.org/
 
-https://github.com/auth0/webtask-scripts/tree/master/stripe
 
-https://leanpub.com/serverless - A book 
+* https://leanpub.com/serverless - A book 
 
 Manifiesto
