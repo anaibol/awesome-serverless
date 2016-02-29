@@ -2,8 +2,8 @@
 #### A curated list of awesome services, solutions and ressources for serverless / nobackend applications.
 <img src="http://oi66.tinypic.com/jggm6f.jpg" height=300>
 ### All in one solutions
- * [Firebase](https://www.firebase.com) Realtime database, authentification, hosting. A powerful platform for your mobile or web application.
- * [Backendless](https://backendless.com/) Realtime database, authentification, hosting.
+ * [Firebase](https://www.firebase.com) Realtime database, authentication, hosting. A powerful platform for your mobile or web application.
+ * [Backendless](https://backendless.com/) Realtime database, authentication, hosting.
  * [Stamplay](https://stamplay.com/) Forget about complex infrastructure. The most advanced platform for building up your apps one brick at a time.
  * [Kinvey](http://www.kinvey.com/) Build your digital business faster with mobile Backend as a Service.
 
@@ -17,7 +17,7 @@
 ### Frameworks
 * [Serverless Framework](http://www.serverless.com) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS)
 
-### Authentification
+### Authentication
 * [Auth0](https://auth0.com/) Single Sign On & Token Based Authentication
 * [Stormpath](https://stormpath.com/) User Identity API.
 
