@@ -28,7 +28,7 @@ https://syncano.io/
 
 * [http://squirrelbin.com/](http://squirrelbin.com/)
 
-* [Amazon Lamda](https://aws.amazon.com/lambda/)
+* [Amazon Lamda: Run code without thinking about servers. Pay for only the compute time you consume.](https://aws.amazon.com/lambda/)
 
 * [StackHut](https://github.com/stackhut/stackhut)
 
