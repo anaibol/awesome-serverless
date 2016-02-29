@@ -1,23 +1,34 @@
 # Awesome Serverless
  A collection of awesome things regarding serverless / nobackend applications.
 
-## Hosting
+### Hosting
 
-## Frameworks
-
-## Authentification
-
-* [Auth0](https://auth0.com/)
-
-## Payments
-
-## Realtimes
-
-## Databases
-
-https://syncano.io/
+### Frameworks
 
 * [Serverless Framework](http://www.serverless.com) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS)
+
+### Authentification
+
+* [Auth0](https://auth0.com/) Add authentication to your web and mobile apps in under 10 minutes
+* [Stormpath](https://stormpath.com/) User Identity API. Launch Apps Faster. Improve User Security.
+
+### Payments
+
+### Realtime
+
+### Databases
+
+### Related articles
+
+### Form endpoints
+
+* [Formspree](https://formspree.io/) Functional HTML forms
+
+* [FormKeep](https://formkeep.com/) Form endpoints for designers and developers. No iframes, JavaScript embeds, or CSS overrides.
+
+
+http://www.formassembly.com/
+https://syncano.io/
 
 
 * [The Serverless Start-Up - Down With Servers!](http://highscalability.com/blog/2015/12/7/the-serverless-start-up-down-with-servers.html)
@@ -38,15 +49,10 @@ https://syncano.io/
 
 * [Auth0 Webtasks](https://webtask.io/) All you need is code. Run code with an HTTP call. No provisioning. No deployment.
 
-* [Formspree](https://formspree.io/) Functional HTML forms
-
-* [FormKeep](https://formkeep.com/) Form endpoints for designers and developers. No iframes, JavaScript embeds, or CSS overrides.
 
 https://www.firebase.com
 
 http://nobackend.org/
-
-https://github.com/serverless/serverless
 
 https://github.com/auth0/webtask-scripts/tree/master/stripe
 
