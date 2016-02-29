@@ -16,8 +16,8 @@
 * [Serverless Framework](http://www.serverless.com) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS)
 
 ### Authentification
-* [Auth0](https://auth0.com/) Add authentication to your web and mobile apps in under 10 minutes
-* [Stormpath](https://stormpath.com/) User Identity API. Launch Apps Faster. Improve User Security.
+* [Auth0](https://auth0.com/) Single Sign On & Token Based Authentication
+* [Stormpath](https://stormpath.com/) User Identity API.
 
 ### Payments
 * https://github.com/auth0/webtask-scripts/tree/master/stripe
