@@ -21,6 +21,8 @@
 ### All in one
 * [Firebase](https://www.firebase.com) Realtime database, authentification, hosting. A powerful platform for your mobile or web application.
 * [Backendless](https://backendless.com/) Realtime database, authentification, hosting. A powerful platform for your mobile or web application.
+* [Stamplay](https://stamplay.com/) Forget about complex infrastructure. The most advanced platform for building up your apps one brick at a time.
+* [Kinvey](http://www.kinvey.com/) Build your digital business faster with mobile Backend as a Service.
 
 ### Form endpoints
 
@@ -57,5 +59,12 @@
 * [Static Web Applications](https://staticapps.org/)
 
 * https://leanpub.com/serverless - A book 
+
+* https://remotestorage.io/
+remoteStorage
+An open protocol for per-user storage
+
+http://sockethub.org/
+
 
 Manifiesto
