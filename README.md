@@ -7,7 +7,7 @@
 
 ## Authentification
 
-* [Auth0](https://auth0.com/v)
+* [Auth0](https://auth0.com/)
 
 ## Payments
 
@@ -36,11 +36,17 @@ https://syncano.io/
 
 * [Peer5](https://www.peer5.com/) The Serverless CDN. Limitless, affordable video delivery. More traffic means a stronger network
 
-https://webtask.io/
+* [Auth0 Webtasks](https://webtask.io/) All you need is code. Run code with an HTTP call. No provisioning. No deployment.
+
+* [Formspree](https://formspree.io/) Functional HTML forms
+
+* [FormKeep](https://formkeep.com/) Form endpoints for designers and developers. No iframes, JavaScript embeds, or CSS overrides.
 
 https://www.firebase.com
 
 http://nobackend.org/
+
+https://github.com/serverless/serverless
 
 https://github.com/auth0/webtask-scripts/tree/master/stripe
 
