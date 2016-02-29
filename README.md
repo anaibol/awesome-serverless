@@ -3,7 +3,7 @@
 
 ### All in one solutions
  * [Firebase](https://www.firebase.com) Realtime database, authentification, hosting. A powerful platform for your mobile or web application.
- * [Backendless](https://backendless.com/) Realtime database, authentification, hosting. A powerful platform for your mobile or web application.
+ * [Backendless](https://backendless.com/) Realtime database, authentification, hosting.
  * [Stamplay](https://stamplay.com/) Forget about complex infrastructure. The most advanced platform for building up your apps one brick at a time.
  * [Kinvey](http://www.kinvey.com/) Build your digital business faster with mobile Backend as a Service.
 
@@ -23,7 +23,7 @@
 ### Payments
 * https://github.com/auth0/webtask-scripts/tree/master/stripe
 
-### Form endpoints
+### Forms
 * [Formspree](https://formspree.io/) Functional HTML forms
 * [FormKeep](https://formkeep.com/) Form endpoints for designers and developers. No iframes, JavaScript embeds, or CSS overrides.
 * [Tectite FormMail](http://www.tectite.com/)
@@ -38,6 +38,16 @@
 * [Pubnub](https://www.pubnub.com/)
 
 ### Email sending and newsletters
+
+### Push notifications
+* https://apps.ionic.io/landing/push
+* https://pushover.net/
+* https://zeropush.com/
+* https://pushwizard.com/
+* https://pushed.co/
+* http://www.plotprojects.com/ Geofencing push notifications
+* https://xtremepush.com/ Geofencing push notifications
+
 
 ### Databases
 * [Algolia](https://www.algolia.com/) Hosted cloud search as a service
@@ -60,3 +70,6 @@
 * [Serverless](https://leanpub.com/serverless) Patterns of Modern Application Design Using Microservices (Amazon Web Services Edition)
 
 ### Serverless Manifiesto
+
+
+
