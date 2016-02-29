@@ -30,6 +30,7 @@
 ### Realtime
 
 ### Databases
+* [Algolia](https://www.algolia.com/) Hosted cloud search as a service
 
 ### Related articles
 
