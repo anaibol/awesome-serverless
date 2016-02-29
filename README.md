@@ -1,8 +1,6 @@
 # Awesome Serverless
 #### A curated list of awesome services and solutions for serverless / nobackend applications.
-<p style="text-align: center">
 <img src="http://oi66.tinypic.com/jggm6f.jpg" height=300>
-</p>
 ### All in one solutions
  * [Firebase](https://www.firebase.com) Realtime database, authentification, hosting. A powerful platform for your mobile or web application.
  * [Backendless](https://backendless.com/) Realtime database, authentification, hosting.
