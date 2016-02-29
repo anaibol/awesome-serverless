@@ -12,6 +12,7 @@
 * [Peer5](https://www.peer5.com/) The Serverless CDN. Limitless, affordable video delivery. More traffic means a stronger network
 * [Auth0 Webtasks](https://webtask.io/) All you need is code. Run code with an HTTP call. No provisioning. No deployment.
 * [Webscripts](https://www.webscript.io/) Scripting on the web
+* [APItools](https://www.apitools.com/)
 
 ### Frameworks
 * [Serverless Framework](http://www.serverless.com) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS)
@@ -22,6 +23,7 @@
 
 ### Payments
 * https://github.com/auth0/webtask-scripts/tree/master/stripe
+* [serverless-stripe-webhook](https://github.com/eahefnawy/serverless-stripe-webhook) Serverless Module that creates a webhook for Stripe
 
 ### Forms
 * [Formspree](https://formspree.io/) Functional HTML forms
@@ -38,7 +40,13 @@
 * [Pubnub](https://www.pubnub.com/)
 
 ### Email sending and newsletters
+* [lambda-mailer](https://github.com/eahefnawy/lambda-mailer) AWS Lambda for sending emails
+* [serverless-mailer](https://github.com/eahefnawy/serverless-mailer) Serverless Module for sending emails
 
+
+### SMS sending
+  * [serverless-twilio](https://github.com/eahefnawy/serverless-twilio) Serverless Module to send SMS via twilio
+  
 ### Push notifications
 * https://apps.ionic.io/landing/push
 * https://pushover.net/
@@ -51,6 +59,9 @@
 
 ### Databases
 * [Algolia](https://www.algolia.com/) Hosted cloud search as a service
+
+### Others
+* [serverless-slack-webhook](https://github.com/eahefnawy/serverless-slack-webhook) Serverless Module that creates a webhook for Slack
 
 ### Related articles
 * [The Serverless Start-Up - Down With Servers!](http://highscalability.com/blog/2015/12/7/the-serverless-start-up-down-with-servers.html)
@@ -70,6 +81,3 @@
 * [Serverless](https://leanpub.com/serverless) Patterns of Modern Application Design Using Microservices (Amazon Web Services Edition)
 
 ### Serverless Manifiesto
-
-
-
