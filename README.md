@@ -19,8 +19,8 @@
 * https://github.com/auth0/webtask-scripts/tree/master/stripe
 
 ### All in one
-* [Firebase](https://www.firebase.com) Build Extraordinary Apps. A powerful platform for your mobile or web application
-Firebase: realtime database, authentification, hosting
+* [Firebase](https://www.firebase.com) Realtime database, authentification, hosting. A powerful platform for your mobile or web application.
+* [Backendless](https://backendless.com/) Realtime database, authentification, hosting. A powerful platform for your mobile or web application.
 
 ### Form endpoints
 
@@ -36,7 +36,6 @@ Firebase: realtime database, authentification, hosting
 
 ### Related articles
 
-
 * [The Serverless Start-Up - Down With Servers!](http://highscalability.com/blog/2015/12/7/the-serverless-start-up-down-with-servers.html)
 
 * [Microservices without the Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/)
@@ -49,10 +48,13 @@ Firebase: realtime database, authentification, hosting
 
 * [Auth0 Webtasks](https://webtask.io/) All you need is code. Run code with an HTTP call. No provisioning. No deployment.
 
-https://syncano.io/
+* https://syncano.io/
 
-http://nobackend.org/
+* http://nobackend.org/
 
+* https://unhosted.org/ unhosted web apps. freedom from web 2.0's monopoly platforms
+
+* [Static Web Applications](https://staticapps.org/)
 
 * https://leanpub.com/serverless - A book 
 
