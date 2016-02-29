@@ -18,10 +18,6 @@
 ### Payments
 * https://github.com/auth0/webtask-scripts/tree/master/stripe
 
-### Realtime
-
-### Databases
-
 ### All in one
 * [Firebase](https://www.firebase.com) Build Extraordinary Apps. A powerful platform for your mobile or web application
 Firebase: realtime database, authentification, hosting
@@ -33,6 +29,10 @@ Firebase: realtime database, authentification, hosting
 * [FormKeep](https://formkeep.com/) Form endpoints for designers and developers. No iframes, JavaScript embeds, or CSS overrides.
 
 * http://www.formassembly.com/
+
+### Realtime
+
+### Databases
 
 ### Related articles
 
