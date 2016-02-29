@@ -34,31 +34,18 @@
 ### Related articles
 
 * [The Serverless Start-Up - Down With Servers!](http://highscalability.com/blog/2015/12/7/the-serverless-start-up-down-with-servers.html)
-
 * [Microservices without the Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/)
-
 * [A startup journey on AWS: from bare metal monolith to serverless microservices](https://medium.com/@benorama/a-startup-journey-on-aws-from-bare-metal-monolith-to-serverless-microservices-80231624fbd9)
-
 * [http://hood.ie/](http://hood.ie/)
-
 * [http://squirrelbin.com/](http://squirrelbin.com/)
-
-
 * https://syncano.io/
-
 * http://nobackend.org/
-
 * https://unhosted.org/ unhosted web apps. freedom from web 2.0's monopoly platforms
-
 * [Static Web Applications](https://staticapps.org/)
+* [remoteStorage](https://remotestorage.io/) An open protocol for per-user storage
+* [sockethub](http://sockethub.org/) 
 
-* https://leanpub.com/serverless - A book 
+### Books
+* [Serverless](https://leanpub.com/serverless) Patterns of Modern Application Design Using Microservices (Amazon Web Services Edition)
 
-* https://remotestorage.io/
-remoteStorage
-An open protocol for per-user storage
-
-http://sockethub.org/
-
-
-Manifiesto
+### Serverless Manifiesto
