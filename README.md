@@ -7,6 +7,8 @@
 
 ## Authentification
 
+* [Auth0](https://auth0.com/v)
+
 ## Payments
 
 ## Realtimes
@@ -28,17 +30,17 @@ https://syncano.io/
 
 * [http://squirrelbin.com/](http://squirrelbin.com/)
 
-* [Amazon Lamda: Run code without thinking about servers. Pay for only the compute time you consume.](https://aws.amazon.com/lambda/)
+* [Amazon Lamda](https://aws.amazon.com/lambda/) Run code without thinking about servers. Pay for only the compute time you consume.
 
 * [StackHut](https://github.com/stackhut/stackhut)
+
+* [Peer5](https://www.peer5.com/) The Serverless CDN. Limitless, affordable video delivery. More traffic means a stronger network
 
 https://webtask.io/
 
 https://www.firebase.com
 
 http://nobackend.org/
-
-https://auth0.com/
 
 https://github.com/auth0/webtask-scripts/tree/master/stripe
 
