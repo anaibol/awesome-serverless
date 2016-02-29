@@ -24,15 +24,13 @@ https://syncano.io/
 
 * [A startup journey on AWS: from bare metal monolith to serverless microservices](https://medium.com/@benorama/a-startup-journey-on-aws-from-bare-metal-monolith-to-serverless-microservices-80231624fbd9)
 
-http://hood.ie/
+* [http://hood.ie/](http://hood.ie/)
 
-http://squirrelbin.com/
+* [http://squirrelbin.com/](http://squirrelbin.com/)
 
-http://squirrelbin.com/#/
+* [Amazon Lamda](https://aws.amazon.com/lambda/)
 
-https://aws.amazon.com/lambda/details/
-
-https://github.com/stackhut/stackhut
+* [StackHut](https://github.com/stackhut/stackhut)
 
 https://webtask.io/
 
