@@ -1,11 +1,11 @@
-### All in one solutions
-* [Firebase](https://www.firebase.com) Realtime database, authentification, hosting. A powerful platform for your mobile or web application.
-* [Backendless](https://backendless.com/) Realtime database, authentification, hosting. A powerful platform for your mobile or web application.
-* [Stamplay](https://stamplay.com/) Forget about complex infrastructure. The most advanced platform for building up your apps one brick at a time.
-* [Kinvey](http://www.kinvey.com/) Build your digital business faster with mobile Backend as a Service.
-
 # Awesome Serverless
- A collection of awesome things regarding serverless / nobackend applications.
+ A curated list of awesome services and solutions for serverless / nobackend applications.
+
+### All in one solutions
+ * [Firebase](https://www.firebase.com) Realtime database, authentification, hosting. A powerful platform for your mobile or web application.
+ * [Backendless](https://backendless.com/) Realtime database, authentification, hosting. A powerful platform for your mobile or web application.
+ * [Stamplay](https://stamplay.com/) Forget about complex infrastructure. The most advanced platform for building up your apps one brick at a time.
+ * [Kinvey](http://www.kinvey.com/) Build your digital business faster with mobile Backend as a Service.
 
 ### Hosting and code execution in the cloud 
 * [Amazon Lamda](https://aws.amazon.com/lambda/) Run code without thinking about servers. Pay for only the compute time you consume.
