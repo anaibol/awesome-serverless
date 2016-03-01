@@ -15,6 +15,7 @@ https://www.quora.com/What-is-Serverless-Computing
  * [Backendless](https://backendless.com/) Realtime database, authentication, hosting.
  * [Stamplay](https://stamplay.com/) Forget about complex infrastructure. The most advanced platform for building up your apps one brick at a time.
  * [Kinvey](http://www.kinvey.com/) Build your digital business faster with mobile Backend as a Service.
+ * [Syncano](https://syncano.io/) An all-in-one platform to create realtime apps without a server.
 
 ### Hosting and code execution in the cloud 
 * [Amazon Lamda](https://aws.amazon.com/lambda/) Run code without thinking about servers. Pay for only the compute time you consume.
@@ -85,7 +86,6 @@ https://www.quora.com/What-is-Serverless-Computing
 * [A startup journey on AWS: from bare metal monolith to serverless microservices](https://medium.com/@benorama/a-startup-journey-on-aws-from-bare-metal-monolith-to-serverless-microservices-80231624fbd9)
 * [http://hood.ie/](http://hood.ie/)
 * [http://squirrelbin.com/](http://squirrelbin.com/)
-* https://syncano.io/
 * http://nobackend.org/
 * https://unhosted.org/ unhosted web apps. freedom from web 2.0's monopoly platforms
 * [Static Web Applications](https://staticapps.org/)
