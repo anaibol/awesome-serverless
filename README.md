@@ -17,13 +17,15 @@ https://www.quora.com/What-is-Serverless-Computing
  * [Kinvey](http://www.kinvey.com/) Build your digital business faster with mobile Backend as a Service.
  * [Syncano](https://syncano.io/) An all-in-one platform to create realtime apps without a server.
 
-### Hosting and code execution in the cloud 
+### Hosting and code execution in the cloud
 * [Amazon Lamda](https://aws.amazon.com/lambda/) Run code without thinking about servers. Pay for only the compute time you consume.
 * [Peer5](https://www.peer5.com/) The Serverless CDN. Limitless, affordable video delivery. More traffic means a stronger network
 * [Auth0 Webtasks](https://webtask.io/) All you need is code. Run code with an HTTP call. No provisioning. No deployment.
 * [Webscripts](https://www.webscript.io/) Scripting on the web
 * [APItools](https://www.apitools.com/)
 * [ClaudiaJS](https://github.com/claudiajs/claudia) Deploy Node.js microservices to AWS easily
+* [Surge](http://surge.sh) Deploy static sites from the command line
+* [Netlify](https://netlify.com) Generate & deploy static sites from git repositories
 
 ### Frameworks
 * [Serverless Framework](http://www.serverless.com) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS)
@@ -63,7 +65,7 @@ https://www.quora.com/What-is-Serverless-Computing
 
 ### SMS sending
   * [serverless-twilio](https://github.com/eahefnawy/serverless-twilio) Serverless Module to send SMS via twilio
-  
+
 ### Push notifications
 * https://apps.ionic.io/landing/push
 * https://pushover.net/
@@ -90,8 +92,8 @@ https://www.quora.com/What-is-Serverless-Computing
 * https://unhosted.org/ unhosted web apps. freedom from web 2.0's monopoly platforms
 * [Static Web Applications](https://staticapps.org/)
 * [remoteStorage](https://remotestorage.io/) An open protocol for per-user storage
-* [Sockethub](http://sockethub.org/) 
-* [Serverlesscode](https://serverlesscode.com/) 
+* [Sockethub](http://sockethub.org/)
+* [Serverlesscode](https://serverlesscode.com/)
 
 ### Books
 * [Serverless](https://leanpub.com/serverless) Patterns of Modern Application Design Using Microservices (Amazon Web Services Edition)
