@@ -13,6 +13,7 @@
 * [Auth0 Webtasks](https://webtask.io/) All you need is code. Run code with an HTTP call. No provisioning. No deployment.
 * [Webscripts](https://www.webscript.io/) Scripting on the web
 * [APItools](https://www.apitools.com/)
+* [ClaudiaJS](https://github.com/claudiajs/claudia) Deploy Node.js microservices to AWS easily
 
 ### Frameworks
 * [Serverless Framework](http://www.serverless.com) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS)
