@@ -16,6 +16,8 @@
 
 ### Frameworks
 * [Serverless Framework](http://www.serverless.com) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS)
+* [Apex](http://apex.run/) - Minimal AWS Lambda function manager with Go support
+* [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python WSGI with AWS Lambda + API Gateway
 
 ### Authentication
 * [Auth0](https://auth0.com/) Single Sign On & Token Based Authentication
