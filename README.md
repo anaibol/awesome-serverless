@@ -16,7 +16,7 @@ https://www.quora.com/What-is-Serverless-Computing
  * [Stamplay](https://stamplay.com/) Forget about complex infrastructure. The most advanced platform for building up your apps one brick at a time.
  * [Kinvey](http://www.kinvey.com/) Build your digital business faster with mobile Backend as a Service.
  * [Syncano](https://syncano.io/) An all-in-one platform to create realtime apps without a server.
-
+* [Hoodie](http://hood.ie/) Hoodie is a complete backend for your apps: develop your frontend code.
 ### Hosting and code execution in the cloud
 * [Amazon Lamda](https://aws.amazon.com/lambda/) Run code without thinking about servers. Pay for only the compute time you consume.
 * [Peer5](https://www.peer5.com/) The Serverless CDN. Limitless, affordable video delivery. More traffic means a stronger network
@@ -86,7 +86,6 @@ https://www.quora.com/What-is-Serverless-Computing
 * [The Serverless Start-Up - Down With Servers!](http://highscalability.com/blog/2015/12/7/the-serverless-start-up-down-with-servers.html)
 * [Microservices without the Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/)
 * [A startup journey on AWS: from bare metal monolith to serverless microservices](https://medium.com/@benorama/a-startup-journey-on-aws-from-bare-metal-monolith-to-serverless-microservices-80231624fbd9)
-* [http://hood.ie/](http://hood.ie/)
 * [http://squirrelbin.com/](http://squirrelbin.com/)
 * http://nobackend.org/
 * https://unhosted.org/ unhosted web apps. freedom from web 2.0's monopoly platforms
