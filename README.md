@@ -1,6 +1,15 @@
 # Awesome Serverless
 #### A curated list of awesome services, solutions and ressources for serverless / nobackend applications.
 <img src="http://oi66.tinypic.com/jggm6f.jpg" height=300>
+
+### What is Serverless Computing?
+
+The phrase “serverless” doesn’t mean servers are no longer involved. It simply means that developers no longer have to think "that much" about them. Computing resources get used as services without having to manage around physical capacities or limits.
+
+Let's take for example AWS Lambda. "Lambda allows you to NOT think about servers. Which means you no longer have to deal with over/under capacity, deployments, scaling and fault tolerance, OS or language updates, metrics, and logging."
+
+https://www.quora.com/What-is-Serverless-Computing
+
 ### All in one solutions
  * [Firebase](https://www.firebase.com) Realtime database, authentication, hosting. A powerful platform for your mobile or web application.
  * [Backendless](https://backendless.com/) Realtime database, authentication, hosting.
