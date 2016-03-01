@@ -1,5 +1,5 @@
 # Awesome Serverless
-#### A curated list of awesome services, solutions and ressources for serverless / nobackend applications.
+#### A curated list of awesome services, solutions and resources for serverless / nobackend applications.
 <img src="http://oi66.tinypic.com/jggm6f.jpg" height=300>
 
 ### What is Serverless Computing?
