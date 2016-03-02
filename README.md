@@ -99,4 +99,6 @@ https://www.quora.com/What-is-Serverless-Computing
 * [Serverless](https://leanpub.com/serverless) Patterns of Modern Application Design Using Microservices (Amazon Web Services Edition)
 * [Serverless Single Page Apps](https://pragprog.com/book/brapps/serverless-single-page-apps) @ The Pragmatic Bookshelf
 
+<!---
 ### Serverless Manifiesto
+-->
