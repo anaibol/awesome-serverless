@@ -13,10 +13,10 @@ https://www.quora.com/What-is-Serverless-Computing
 ### All in one solutions
 * [Firebase](https://www.firebase.com/) - Realtime database, authentication, hosting. A powerful platform for your mobile or web application.
 * [Backendless](https://backendless.com/) - Realtime database, authentication, hosting.
-* [Stamplay](https://stamplay.com/) -Forget about complex infrastructure. The most advanced platform for building up your apps one brick at a time.
-* [Kinvey](http://www.kinvey.com/) -Build your digital business faster with mobile Backend as a Service.
-* [Syncano](https://syncano.io/) -An all-in-one platform to create realtime apps without a server.
-* [Hoodie](http://hood.ie/) -Hoodie is a complete backend for your apps: develop your frontend code.
+* [Stamplay](https://stamplay.com/) - Forget about complex infrastructure. The most advanced platform for building up your apps one brick at a time.
+* [Kinvey](http://www.kinvey.com/) - Build your digital business faster with mobile Backend as a Service.
+* [Syncano](https://syncano.io/) - An all-in-one platform to create realtime apps without a server.
+* [Hoodie](http://hood.ie/) - Hoodie is a complete backend for your apps: develop your frontend code.
 
 ### Hosting and code execution in the cloud
 * [Amazon Lamda](https://aws.amazon.com/lambda/) - Run code without thinking about servers. Pay for only the compute time you consume.
