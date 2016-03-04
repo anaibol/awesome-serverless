@@ -94,10 +94,12 @@ https://www.quora.com/What-is-Serverless-Computing
 * https://unhosted.org/ unhosted web apps. freedom from web 2.0's monopoly platforms
 * [Static Web Applications](https://staticapps.org/)
 * [Serverlesscode](https://serverlesscode.com/)
+* [Just Serverless](http://justserverless.com/blog)
 
 ### Books
 * [Serverless](https://leanpub.com/serverless/) - Patterns of Modern Application Design Using Microservices (Amazon Web Services Edition)
 * [Serverless Single Page Apps](https://pragprog.com/book/brapps/serverless-single-page-apps/) - The Pragmatic Bookshelf
+* [Learn Serverless](http://learnserverless.club) - Book about the [Serverless framework](http://serverless.com)
 
 <!---
 ### Serverless Manifiesto
