@@ -90,7 +90,6 @@ https://www.quora.com/What-is-Serverless-Computing
 * [The Serverless Start-Up - Down With Servers!](http://highscalability.com/blog/2015/12/7/the-serverless-start-up-down-with-servers.html)
 * [Microservices without the Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/)
 * [A startup journey on AWS: from bare metal monolith to serverless microservices](https://medium.com/@benorama/a-startup-journey-on-aws-from-bare-metal-monolith-to-serverless-microservices-80231624fbd9)
-* [http://squirrelbin.com/](http://squirrelbin.com/)
 * http://nobackend.org/
 * https://unhosted.org/ unhosted web apps. freedom from web 2.0's monopoly platforms
 * [Static Web Applications](https://staticapps.org/)
