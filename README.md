@@ -81,6 +81,8 @@ https://www.quora.com/What-is-Serverless-Computing
 * [Algolia](https://www.algolia.com/) - Hosted cloud search as a service
 
 ### Others
+* [remoteStorage](https://remotestorage.io/) - An open protocol for per-user storage
+* [Sockethub](http://sockethub.org/)
 * [serverless-slack-webhook](https://github.com/eahefnawy/serverless-slack-webhook) - Serverless Module that creates a webhook for Slack
 
 ### Related articles
@@ -92,8 +94,6 @@ https://www.quora.com/What-is-Serverless-Computing
 * http://nobackend.org/
 * https://unhosted.org/ unhosted web apps. freedom from web 2.0's monopoly platforms
 * [Static Web Applications](https://staticapps.org/)
-* [remoteStorage](https://remotestorage.io/) - An open protocol for per-user storage
-* [Sockethub](http://sockethub.org/)
 * [Serverlesscode](https://serverlesscode.com/)
 
 ### Books
