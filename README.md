@@ -105,5 +105,7 @@ https://www.quora.com/What-is-Serverless-Computing
 ### Serverless Manifiesto
 https://github.com/exis-io/Exis
 https://www.imgix.com/
+https://github.com/localytics/serverless-slackbot-scaffold
+http://eng.localytics.com/serverless-slackbots-powered-by-aws/
 Ionic Auth
 -->
