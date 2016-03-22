@@ -27,6 +27,7 @@ https://www.quora.com/What-is-Serverless-Computing
 * [ClaudiaJS](https://github.com/claudiajs/claudia/) - Deploy Node.js microservices to AWS easily
 * [Surge](http://surge.sh/) - Deploy static sites from the command line
 * [Netlify](https://netlify.com/) - Generate & deploy static sites from git repositories
+* [Effe](https://github.com/siscia/effe) - a simple Open Source building block to emulate AWS Lambda
 
 ### Frameworks
 * [Serverless Framework](http://www.serverless.com/) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS)
