@@ -24,7 +24,6 @@ https://www.quora.com/What-is-Serverless-Computing
 * [Auth0 Webtasks](https://webtask.io/) - All you need is code. Run code with an HTTP call. No provisioning. No deployment.
 * [Webscripts](https://www.webscript.io/) - Scripting on the web
 * [APItools](https://www.apitools.com/)
-* [ClaudiaJS](https://github.com/claudiajs/claudia/) - Deploy Node.js microservices to AWS easily
 * [Surge](http://surge.sh/) - Deploy static sites from the command line
 * [Netlify](https://netlify.com/) - Generate & deploy static sites from git repositories
 
@@ -32,6 +31,7 @@ https://www.quora.com/What-is-Serverless-Computing
 * [Serverless Framework](http://www.serverless.com/) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS)
 * [Apex](http://apex.run/) - Minimal AWS Lambda function manager with Go support
 * [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python WSGI with AWS Lambda + API Gateway
+* [ClaudiaJS](https://github.com/claudiajs/claudia/) - Deploy Node.js microservices to AWS easily
 
 ### Authentication
 * [Auth0](https://auth0.com/) - Single Sign On & Token Based Authentication
