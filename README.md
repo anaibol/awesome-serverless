@@ -20,6 +20,9 @@ https://www.quora.com/What-is-Serverless-Computing
 
 ### Hosting and code execution in the cloud
 * [Amazon Lamda](https://aws.amazon.com/lambda/) - Run code without thinking about servers. Pay for only the compute time you consume.
+* [Google Cloud Functions](https://cloud.google.com/functions/docs) - Lightweight, event-based, asynchronous compute solution that allows you to create small, single-purpose functions that respond to cloud events without the need to manage a server or a runtime environment.
+* [Azure Functions](https://azure.microsoft.com/en-us/services/functions/) - Listen and react to events across your stack
+* [weblab.io](https://weblab.io/) - Microservices at your fingertips
 * [Peer5](https://www.peer5.com/) - The Serverless CDN. Limitless, affordable video delivery. More traffic means a stronger network
 * [Auth0 Webtasks](https://webtask.io/) - All you need is code. Run code with an HTTP call. No provisioning. No deployment.
 * [Webscripts](https://www.webscript.io/) - Scripting on the web
