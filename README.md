@@ -31,6 +31,9 @@ https://www.quora.com/What-is-Serverless-Computing
 * [Surge](http://surge.sh/) - Deploy static sites from the command line
 * [Netlify](https://netlify.com/) - Generate & deploy static sites from git repositories
 
+### Isomorphic Engines
+* [lycheeJS](http://lycheejs.org) - Isomorphic adapters allow peer-to-peer event-graphed WebSockets and HTTP1.1, SPDY and HTTP2.0 sockets for node, node-sdl, html, html-nwjs and html-webview (both native and embedded).
+
 ### Frameworks
 * [Serverless Framework](http://www.serverless.com/) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS)
 * [Apex](http://apex.run/) - Minimal AWS Lambda function manager with Go support
