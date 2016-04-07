@@ -33,9 +33,10 @@ https://www.quora.com/What-is-Serverless-Computing
 * [Apex](http://apex.run/) - Minimal AWS Lambda function manager with Go support
 * [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python WSGI with AWS Lambda + API Gateway
 
-### Authentication
+### Authentication and authorization
 * [Auth0](https://auth0.com/) - Single Sign On & Token Based Authentication
 * [Stormpath](https://stormpath.com/) - User Identity API.
+* (also [Firebase](https://firebase.com/))
 
 ### Payments
 * https://github.com/auth0/webtask-scripts/tree/master/stripe
@@ -68,14 +69,13 @@ https://www.quora.com/What-is-Serverless-Computing
   * [serverless-twilio](https://github.com/eahefnawy/serverless-twilio) - Serverless Module to send SMS via twilio
 
 ### Push notifications
-* https://apps.ionic.io/landing/push
-* https://pushover.net/
-* https://zeropush.com/
-* https://pushwizard.com/
-* https://pushed.co/
-* http://www.plotprojects.com/ Geofencing push notifications
-* https://xtremepush.com/ Geofencing push notifications
-
+* [Ionic Push](https://apps.ionic.io/landing/push)
+* [Pushover](https://pushover.net/) Notifications for Android, iOS, and Desktop
+* [ZeroPush](https://zeropush.com) Transactional Push Notifications for Developers
+* [PushWizard](https://pushwizard.com/) Multi-platform Push Notification Service
+* [Pushed](https://pushed.co/) Send push notifications without developing your own app
+* [Plot Projects](http://www.plotprojects.com/) Geofencing push notifications
+* [Ionic Push](https://xtremepush.com/) Geofencing push notifications
 
 ### Databases
 * [Algolia](https://www.algolia.com/) - Hosted cloud search as a service
