@@ -82,7 +82,8 @@ https://www.quora.com/What-is-Serverless-Computing
 * [PushWizard](https://pushwizard.com/) Multi-platform Push Notification Service
 * [Pushed](https://pushed.co/) Send push notifications without developing your own app
 * [Plot Projects](http://www.plotprojects.com/) Geofencing push notifications
-* [Ionic Push](https://xtremepush.com/) Geofencing push notifications
+* [XtremePush](https://xtremepush.com/) Web Push Notifications
+* [Push Apps](https://www.pushapps.mobi/) Push Notifications Enrichment Platform
 
 ### Databases
 * [Algolia](https://www.algolia.com/) - Hosted cloud search as a service
@@ -114,5 +115,4 @@ https://github.com/exis-io/Exis
 https://www.imgix.com/
 https://github.com/localytics/serverless-slackbot-scaffold
 http://eng.localytics.com/serverless-slackbots-powered-by-aws/
-Ionic Auth
 -->
