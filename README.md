@@ -25,9 +25,8 @@ https://www.quora.com/What-is-Serverless-Computing
 * [IBM OpenWhisk](https://developer.ibm.com/openwhisk/) - Distributed compute service to execute application logic in response to events
 * [iron.io](https://www.iron.io/platform/ironworker/) - Isolates code and dependencies of individual tasks so they can be processed on demand
 * [weblab.io](https://weblab.io/) - Microservices at your fingertips
-* [webtask.io](https://webtask.io/) - Run code with an HTTP call. No provisioning. No deployment.
 * [Peer5](https://www.peer5.com/) - The Serverless CDN. Limitless, affordable video delivery. More traffic means a stronger network
-* [Auth0 Webtasks](https://webtask.io/) - All you need is code. Run code with an HTTP call. No provisioning. No deployment.
+* [Auth0 Webtasks](https://webtask.io/) - Run code with an HTTP call. No provisioning. No deployment.
 * [Webscripts](https://www.webscript.io/) - Scripting on the web
 * [APItools](https://www.apitools.com/)
 * [Surge](http://surge.sh/) - Deploy static sites from the command line
