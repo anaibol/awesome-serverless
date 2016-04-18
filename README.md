@@ -113,6 +113,10 @@ https://www.quora.com/What-is-Serverless-Computing
 * [Serverless Single Page Apps](https://pragprog.com/book/brapps/serverless-single-page-apps/) - The Pragmatic Bookshelf
 * [Learn Serverless](http://learnserverless.club) - Book about the [Serverless framework](http://serverless.com)
 
+
+### License
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 <!---
 ### Serverless Manifiesto
 https://github.com/exis-io/Exis
