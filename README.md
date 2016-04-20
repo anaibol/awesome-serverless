@@ -62,6 +62,7 @@ https://www.quora.com/What-is-Serverless-Computing
 * [Apex](http://apex.run/) - Minimal AWS Lambda function manager with Go support
 * [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python WSGI with AWS Lambda + API Gateway
 * [ClaudiaJS](https://github.com/claudiajs/claudia/) - Deploy Node.js microservices to AWS easily
+* [Sparta](http://gosparta.io/) - A framework that transforms a Go application into an AWS Lambda powered microservice
 
 ### Authentication and authorization
 * [Auth0](https://auth0.com/) - Single Sign On & Token Based Authentication
