@@ -149,4 +149,5 @@ http://eng.localytics.com/serverless-slackbots-powered-by-aws/
 
 http://www.imgix.com/ Real-time Image Processing. Resize, crop, and process images on the fly, simply by changing their URLs.
 https://blitline.com/
+Cloudinary
 -->
