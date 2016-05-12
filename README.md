@@ -2,7 +2,7 @@
 #### A curated list of awesome services, solutions and resources for serverless / nobackend applications.
 <img src="http://oi66.tinypic.com/jggm6f.jpg" align="right" height=300>
 
-### Table of Contents
+### Table of contents
 
 - [What is serverless Computing?](#what-is-serverless-computing)
 - [All in one solutions](#all-in-one-solutions)
