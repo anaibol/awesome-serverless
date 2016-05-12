@@ -157,4 +157,7 @@ https://www.iron.io/
 https://transloadit.com/
 https://aws.amazon.com/elastictranscoder/
 https://zencoder.com/en/
+Now API
+Instant serverless Node.JS deployments with an API.
+https://zeit.co/
 -->
