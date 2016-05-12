@@ -4,7 +4,7 @@
 
 ### Table of Contents
 
-- [What is Serverless Computing?](#what-is-serverless-computing)
+- [What is serverless Computing?](#what-is-serverless-computing)
 - [All in one solutions](#all-in-one-solutions)
 - [Hosting and code execution in the cloud](#hosting-and-code-execution-in-the-cloud)
 - [Isomorphic Engines](#isomorphic-engines)
@@ -23,13 +23,13 @@
 - [Books](#books)
 
 
-### What is Serverless Computing?
+### What is serverless computing?
 
 The phrase “serverless” doesn’t mean servers are no longer involved. It simply means that developers no longer have to think "that much" about them. Computing resources get used as services without having to manage around physical capacities or limits.
 
 Let's take for example AWS Lambda. "Lambda allows you to NOT think about servers. Which means you no longer have to deal with over/under capacity, deployments, scaling and fault tolerance, OS or language updates, metrics, and logging."
 
-https://www.quora.com/What-is-Serverless-Computing
+https://www.quora.com/What-is-serverless-computing
 
 ### All in one solutions
 * [Firebase](https://www.firebase.com/) - Realtime database, authentication, hosting. A powerful platform for your mobile or web application.
@@ -46,7 +46,7 @@ https://www.quora.com/What-is-Serverless-Computing
 * [IBM OpenWhisk](https://developer.ibm.com/openwhisk/) - Distributed compute service to execute application logic in response to events.
 * [iron.io](https://www.iron.io/platform/ironworker/) - Isolates code and dependencies of individual tasks so they can be processed on demand.
 * [weblab.io](https://weblab.io/) - Microservices at your fingertips.
-* [Peer5](https://www.peer5.com/) - The Serverless CDN. Limitless, affordable video delivery. More traffic means a stronger network.
+* [Peer5](https://www.peer5.com/) - The serverless CDN. Limitless, affordable video delivery. More traffic means a stronger network.
 * [Auth0 Webtasks](https://webtask.io/) - Run code with an HTTP call. No provisioning. No deployment.
 * [Webscripts](https://www.webscript.io/) - Scripting on the web.
 * [APItools](https://www.apitools.com/).
