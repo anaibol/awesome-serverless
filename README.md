@@ -67,6 +67,7 @@ https://www.quora.com/What-is-serverless-computing
 * [DEEP](https://github.com/MitocGroup/deep-framework) - Full-stack Web Framework for Cloud-Native Applications and Platforms using Microservices Architecture.
 * [Sparta](http://gosparta.io/) - A framework that transforms a Go application into an AWS Lambda powered microservice.
 * [Kappa](https://github.com/garnaat/kappa) - a command line tool that (hopefully) makes it easier to deploy, update, and test functions for AWS Lambda.
+* [Shep](https://github.com/bustlelabs/shep) - A framework for building APIs using AWS API Gateway and Lambda
 
 ### Authentication and authorization
 * [Auth0](https://auth0.com/) - Single Sign On & Token Based Authentication.
