@@ -72,7 +72,7 @@ https://www.quora.com/What-is-serverless-computing
 ### Authentication and authorization
 * [Auth0](https://auth0.com/) - Single Sign On & Token Based Authentication.
 * [Stormpath](https://stormpath.com/) - User Identity API.
-* (also [Firebase](https://firebase.com/).
+* [Firebase](https://firebase.com/).
 
 ### Payments
 * https://github.com/auth0/webtask-scripts/tree/master/stripe
