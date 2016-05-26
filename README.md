@@ -125,6 +125,7 @@ https://www.quora.com/What-is-serverless-computing
 * [remoteStorage](https://remotestorage.io/) - An open protocol for per-user storage.
 * [Sockethub](http://sockethub.org/).
 * [serverless-slack-webhook](https://github.com/eahefnawy/serverless-slack-webhook) - Serverless Module that creates a webhook for Slack.
+* [Docker Lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
 
 ### Related articles
 * [Serverless Framework (CloudAcademy)](http://cloudacademy.com/blog/serverless-framework-aws-lambda-api-gateway-python/) -  A Deep Overview of the Best AWS Lambda + API Gateway Automation Solution
