@@ -49,7 +49,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Peer5](https://www.peer5.com/) - The serverless CDN. Limitless, affordable video delivery. More traffic means a stronger network.
 * [Auth0 Webtasks](https://webtask.io/) - Run code with an HTTP call. No provisioning. No deployment.
 * [Webscripts](https://www.webscript.io/) - Scripting on the web.
-* [APItools](https://www.apitools.com/).
+* [APItools](https://www.apitools.com/) - Troubleshoot, Modify, Monitor API traffic.
 * [Surge](http://surge.sh/) - Deploy static sites from the command line.
 * [Netlify](https://netlify.com/) - Generate & deploy static sites from git repositories.
 * [Effe](https://github.com/siscia/effe) - a simple Open Source building block to emulate AWS Lambda.
