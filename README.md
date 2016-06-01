@@ -123,7 +123,7 @@ https://www.quora.com/What-is-serverless-computing
 
 ### Others
 * [remoteStorage](https://remotestorage.io/) - An open protocol for per-user storage.
-* [Sockethub](http://sockethub.org/).
+* [Sockethub](http://sockethub.org/) - A polyglot (speaking many different protocols and APIs) messaging service for social and other interactive messaging applications.
 * [serverless-slack-webhook](https://github.com/eahefnawy/serverless-slack-webhook) - Serverless Module that creates a webhook for Slack.
 * [Docker Lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
 
