@@ -128,6 +128,8 @@ https://www.quora.com/What-is-serverless-computing
 * [Sockethub](http://sockethub.org/) - A polyglot (speaking many different protocols and APIs) messaging service for social and other interactive messaging applications.
 * [serverless-slack-webhook](https://github.com/eahefnawy/serverless-slack-webhook) - Serverless Module that creates a webhook for Slack.
 * [Docker Lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
+* [Lambda Comments](https://github.com/jimpick/lambda-comments) - Blog commenting system built with AWS Lambda
+
 https://github.com/jimpick/lambda-comments
 ### Related articles
 * [Serverless Framework (CloudAcademy)](http://cloudacademy.com/blog/serverless-framework-aws-lambda-api-gateway-python/) -  A Deep Overview of the Best AWS Lambda + API Gateway Automation Solution
