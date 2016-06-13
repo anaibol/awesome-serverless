@@ -21,7 +21,8 @@
 - [Others](#others)
 - [Related artices](#related-articles)
 - [Books](#books)
-
+- [Contributing](#contributing)
+- [License](#license)
 
 ### What is serverless computing?
 
@@ -132,7 +133,6 @@ https://www.quora.com/What-is-serverless-computing
 * [Docker Lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
 * [Lambda Comments](https://github.com/jimpick/lambda-comments) - Blog commenting system built with AWS Lambda
 
-https://github.com/jimpick/lambda-comments
 ### Related articles
 * [Serverless Framework (CloudAcademy)](http://cloudacademy.com/blog/serverless-framework-aws-lambda-api-gateway-python/) -  A Deep Overview of the Best AWS Lambda + API Gateway Automation Solution
 * [AWS Lambda Microservices Architecture for Node.js](https://medium.com/getty-logs/a-aws-lambda-microservices-architecture-for-node-js-4513799101d4#.k99m6yvvz)
@@ -150,6 +150,8 @@ https://github.com/jimpick/lambda-comments
 * [Serverless Single Page Apps](https://pragprog.com/book/brapps/serverless-single-page-apps/) - The Pragmatic Bookshelf.
 * [Learn Serverless](http://learnserverless.club) - Book about the [Serverless framework](http://serverless.com).
 
+### Contributing
+You want to contribute to this project? [Please follow these recommendations](CONTRIBUTING.md).
 
 ### License
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
