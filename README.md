@@ -4,7 +4,7 @@
 
 ### Table of contents
 
-- [What is serverless Computing?](#what-is-serverless-computing)
+- [What is "serverless" computing?](#what-is-serverless-computing)
 - [All in one solutions](#all-in-one-solutions)
 - [Hosting and code execution in the cloud](#hosting-and-code-execution-in-the-cloud)
 - [Isomorphic Engines](#isomorphic-engines)
