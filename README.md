@@ -24,7 +24,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-### What is serverless computing?
+### What is "serverless" computing?
 
 The phrase “serverless” doesn’t mean servers are no longer involved. It simply means that developers no longer have to think "that much" about them. Computing resources get used as services without having to manage around physical capacities or limits.
 
