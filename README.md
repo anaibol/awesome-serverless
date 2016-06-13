@@ -92,6 +92,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Tectite FormMail](http://www.tectite.com/).
 * [FormAssembly](http://www.formassembly.com/).
 * [Google Forms](https://docs.google.com/forms/).
+* [Wufoo](http://www.wufoo.com/).
 
 ### Image management and File storage
 * [Filestack](https://www.filestack.com/) - Image management system with Filestack - upload files, transform images, videos, and documents, store content and deliver fast via CDN.
