@@ -94,7 +94,6 @@ https://www.quora.com/What-is-serverless-computing
 * [FormAssembly](http://www.formassembly.com/).
 * [Google Forms](https://docs.google.com/forms/).
 * [Wufoo](http://www.wufoo.com/).
-* [Mailchimp Lambda](https://github.com/TaylorBriggs/mailchimp-lambda).
 
 ### Image management and File storage
 * [Filestack](https://www.filestack.com) - Image management system with Filestack - upload files, transform images, videos, and documents, store content and deliver fast via CDN.
@@ -105,10 +104,11 @@ https://www.quora.com/What-is-serverless-computing
 * [Pusher](https://pusher.com/).
 * [Pubnub](https://www.pubnub.com/).
 
-### Email sending and newsletters
+### Email sending, suscriptions and newsletters
 * [lambda-mailer](https://github.com/eahefnawy/lambda-mailer) - AWS Lambda for sending emails.
 * [serverless-mailer](https://github.com/eahefnawy/serverless-mailer) - Serverless Module for sending emails.
-
+* [Mailchimp Lambda](https://github.com/TaylorBriggs/mailchimp-lambda) - A Lambda function for subscribing to a MailChimp list.
+* [Mailchimp Lambda Single Opt-in](https://github.com/anaibol/lambda-mailchimp-single-opt-in) - An Amazon Lambda function for creating MailChimp subscriptions with single opt-in.
 
 ### SMS sending
   * [serverless-twilio](https://github.com/eahefnawy/serverless-twilio) - Serverless Module to send SMS via twilio.
