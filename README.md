@@ -16,7 +16,7 @@
 - [Image management and File storage](#image-management-and-file-storage)
 - [SMS sending](#sms-sensing)
 - [Push notifications](#push-notifications)
-- [Email sending and newsletters](#email-sending-and-newsletters)
+- [Email sending, suscriptions and newsletters](#email-sending-suscriptions-and-newsletters)
 - [Databases](#databases)
 - [Others](#others)
 - [Related artices](#related-articles)
@@ -105,8 +105,8 @@ https://www.quora.com/What-is-serverless-computing
 * [Pubnub](https://www.pubnub.com/).
 
 ### Email sending, suscriptions and newsletters
-* [lambda-mailer](https://github.com/eahefnawy/lambda-mailer) - AWS Lambda for sending emails.
-* [serverless-mailer](https://github.com/eahefnawy/serverless-mailer) - Serverless Module for sending emails.
+* [Lambda Mailer](https://github.com/eahefnawy/lambda-mailer) - AWS Lambda for sending emails.
+* [Serverless Mailer](https://github.com/eahefnawy/serverless-mailer) - Serverless Module for sending emails.
 * [Mailchimp Lambda](https://github.com/TaylorBriggs/mailchimp-lambda) - A Lambda function for subscribing to a MailChimp list.
 * [Mailchimp Lambda Single Opt-in](https://github.com/anaibol/lambda-mailchimp-single-opt-in) - An Amazon Lambda function for creating MailChimp subscriptions with single opt-in.
 
