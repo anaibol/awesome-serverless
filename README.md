@@ -41,7 +41,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Hoodie](http://hood.ie) - Hoodie is a complete backend for your apps: develop your frontend code.
 
 ### Hosting and code execution in the cloud
-* [Amazon Lamda](https://aws.amazon.com/lambda) - Run code without thinking about servers. Pay for only the compute time you consume.
+* [Amazon Lambda](https://aws.amazon.com/lambda) - Run code without thinking about servers. Pay for only the compute time you consume.
 * [Google Cloud Functions](https://cloud.google.com/functions/docs) - Lightweight, event-based, asynchronous compute solution that allows you to create small, single-purpose functions that respond to cloud events without the need to manage a server or a runtime environment.
 * [Azure Functions](https://azure.microsoft.com/en-us/services/functions) - Listen and react to events across your stack.
 * [IBM OpenWhisk](https://developer.ibm.com/openwhisk) - Distributed compute service to execute application logic in response to events.
