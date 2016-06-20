@@ -16,7 +16,7 @@
 - [Image management and File storage](#image-management-and-file-storage)
 - [SMS sending](#sms-sensing)
 - [Push notifications](#push-notifications)
-- [Email sending, suscriptions and newsletters](#email-sending-suscriptions-and-newsletters)
+- [Email sending, subscriptions and newsletters](#email-sending-subscriptions-and-newsletters)
 - [Databases](#databases)
 - [Others](#others)
 - [Related artices](#related-articles)
@@ -104,7 +104,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Pusher](https://pusher.com/).
 * [Pubnub](https://www.pubnub.com/).
 
-### Email sending, suscriptions and newsletters
+### Email sending, subscriptions and newsletters
 * [Lambda Mailer](https://github.com/eahefnawy/lambda-mailer) - AWS Lambda for sending emails.
 * [Serverless Mailer](https://github.com/eahefnawy/serverless-mailer) - Serverless Module for sending emails.
 * [Mailchimp Lambda](https://github.com/TaylorBriggs/mailchimp-lambda) - A Lambda function for subscribing to a MailChimp list.
