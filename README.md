@@ -39,6 +39,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Kinvey](http://www.kinvey.com) - Build your digital business faster with mobile Backend as a Service.
 * [Syncano](https://syncano.io) - An all-in-one platform to create realtime apps without a server.
 * [Hoodie](http://hood.ie) - Hoodie is a complete backend for your apps: develop your frontend code.
+* [UserApp](https://www.userapp.io) - The user management API. Fastest way to build user management with payments, email, and social.
 
 ### Hosting and code execution in the cloud
 * [Amazon Lambda](https://aws.amazon.com/lambda) - Run code without thinking about servers. Pay for only the compute time you consume.
