@@ -87,8 +87,8 @@ https://www.quora.com/What-is-serverless-computing
 * [check digit](http://chkdgt.com) - 
 
 ### eCommerce
-* [Snipcart](https://snipcart.com).
-* [CommerceJS](http://commercejs.com/).
+* [Snipcart](https://snipcart.com) - Fully customizable, HTML and JavaScript-based shopping cart for any website.
+* [CommerceJS](http://commercejs.com/) - Full-stack ecommerce api for developers & designers.
 
 ### Forms
 * [Formspree](https://formspree.io) - Functional HTML forms.
