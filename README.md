@@ -74,6 +74,7 @@ https://www.quora.com/What-is-serverless-computing
 * [python-λ](https://github.com/nficano/python-lambda) - A toolkit for developing and deploying serverless Python code in AWS Lambda
 * [λambdify](http://zhukovalexander.github.io/lambdify) - AWS Lambda automation and integration for Python
 * [Gordon](https://github.com/jorgebastida/gordon) - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation
+* [Chalice](https://github.com/awslabs/chalice) - Python serverless microframework from Amazon for AWS lambda
 
 ### Authentication and authorization
 * [Auth0](https://auth0.com) - Single Sign On & Token Based Authentication.
