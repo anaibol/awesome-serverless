@@ -1,6 +1,8 @@
 # :cloud: Awesome Serverless
+
 #### A curated list of awesome services, solutions and resources for serverless / nobackend applications.
 <img src="http://oi66.tinypic.com/jggm6f.jpg" align="right" height=300>
+
 
 ### Table of contents
 
@@ -24,6 +26,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 
+
 ### What is "serverless" computing?
 
 The phrase “serverless” doesn’t mean servers are no longer involved. It simply means that developers no longer have to think "that much" about them. Computing resources get used as services without having to manage around physical capacities or limits.
@@ -31,6 +34,7 @@ The phrase “serverless” doesn’t mean servers are no longer involved. It si
 Let's take for example AWS Lambda. "Lambda allows you to NOT think about servers. Which means you no longer have to deal with over/under capacity, deployments, scaling and fault tolerance, OS or language updates, metrics, and logging."
 
 https://www.quora.com/What-is-serverless-computing
+
 
 ### All in one solutions
 * [Firebase](https://www.firebase.com) - Realtime database, authentication, hosting. A powerful platform for your mobile or web application.
@@ -40,6 +44,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Syncano](https://syncano.io) - An all-in-one platform to create realtime apps without a server.
 * [Hoodie](http://hood.ie) - Hoodie is a complete backend for your apps: develop your frontend code.
 * [UserApp](https://www.userapp.io) - The user management API. Fastest way to build user management with payments, email, and social.
+
 
 ### Hosting and code execution in the cloud
 * [Amazon Lambda](https://aws.amazon.com/lambda) - Run code without thinking about servers. Pay for only the compute time you consume.
@@ -58,8 +63,10 @@ https://www.quora.com/What-is-serverless-computing
 * [Lever OS](https://github.com/leveros/leveros) - Serverless + Microservices = ♥
 * [Now](https://zeit.co/now) - realtime node.js deployments
 
+
 ### Isomorphic Engines
 * [lycheeJS](http://lycheejs.org) - Isomorphic adapters allow peer-to-peer event-graphed WebSockets and HTTP1.1, SPDY and HTTP2.0 sockets for node, node-sdl, html, html-nwjs and html-webview (both native and embedded).
+
 
 ### Frameworks
 * [Serverless Framework](http://www.serverless.com) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
@@ -76,10 +83,12 @@ https://www.quora.com/What-is-serverless-computing
 * [Gordon](https://github.com/jorgebastida/gordon) - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation
 * [Chalice](https://github.com/awslabs/chalice) - Python serverless microframework from Amazon for AWS lambda
 
+
 ### Authentication and authorization
 * [Auth0](https://auth0.com) - Single Sign On & Token Based Authentication.
 * [Stormpath](https://stormpath.com) - User Identity API.
 * [Firebase](https://firebase.com/).
+
 
 ### Payments
 * [Sripe Webtask](https://github.com/auth0/webtask-scripts/tree/master/stripe) - 
@@ -87,9 +96,11 @@ https://www.quora.com/What-is-serverless-computing
 * [Stripe Lamda function](https://github.com/TaylorBriggs/stripe-lambda) - 
 * [check digit](http://chkdgt.com) - 
 
+
 ### eCommerce
 * [Snipcart](https://snipcart.com) - Fully customizable, HTML and JavaScript-based shopping cart for any website.
 * [CommerceJS](http://commercejs.com/) - Full-stack ecommerce api for developers & designers.
+
 
 ### Forms
 * [Formspree](https://formspree.io) - Functional HTML forms.
@@ -99,14 +110,17 @@ https://www.quora.com/What-is-serverless-computing
 * [Google Forms](https://docs.google.com/forms/).
 * [Wufoo](http://www.wufoo.com/).
 
+
 ### Image management and File storage
 * [Filestack](https://www.filestack.com) - Image management system with Filestack - upload files, transform images, videos, and documents, store content and deliver fast via CDN.
 * [Kloudless](https://kloudless.com) - Integrate with one, universal API and connect to many file storage and CRM services.
 * [Uploadcare](https://uploadcare.com) - HTML5 widget, API to manage files in cloud storage, smart and fast CDN to deliver them to your end users. Crop, resize and transform uploaded images using URL commands.
 
+
 ### Realtime
 * [Pusher](https://pusher.com/).
 * [Pubnub](https://www.pubnub.com/).
+
 
 ### Email sending, subscriptions and newsletters
 * [Lambda Mailer](https://github.com/eahefnawy/lambda-mailer) - AWS Lambda for sending emails.
@@ -114,8 +128,10 @@ https://www.quora.com/What-is-serverless-computing
 * [Mailchimp Lambda](https://github.com/TaylorBriggs/mailchimp-lambda) - A Lambda function for subscribing to a MailChimp list.
 * [Mailchimp Lambda Single Opt-in](https://github.com/anaibol/lambda-mailchimp-single-opt-in) - An Amazon Lambda function for creating MailChimp subscriptions with single opt-in.
 
+
 ### SMS sending
   * [serverless-twilio](https://github.com/eahefnawy/serverless-twilio) - Serverless Module to send SMS via twilio.
+
 
 ### Push notifications
 * [Ionic Push](https://apps.ionic.io/landing/push).
@@ -127,8 +143,10 @@ https://www.quora.com/What-is-serverless-computing
 * [XtremePush](https://xtremepush.com/) Web Push Notifications.
 * [Push Apps](https://www.pushapps.mobi/) Push Notifications Enrichment Platform.
 
+
 ### Databases
 * [Algolia](https://www.algolia.com) - Hosted cloud search as a service.
+
 
 ### Others
 * [remoteStorage](https://remotestorage.io) - An open protocol for per-user storage.
@@ -137,6 +155,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Docker Lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
 * [Lambda Comments](https://github.com/jimpick/lambda-comments) - Blog commenting system built with AWS Lambda
 * [LambCI](https://github.com/lambci/lambci) - A continuous integration system built on AWS Lambda
+
 
 ### Related articles
 * [Serverless Framework (CloudAcademy)](http://cloudacademy.com/blog/serverless-framework-aws-lambda-api-gateway-python) -  A Deep Overview of the Best AWS Lambda + API Gateway Automation Solution
@@ -151,13 +170,16 @@ https://www.quora.com/What-is-serverless-computing
 * [Just Serverless](http://justserverless.com/blog)
 * [Serverless Architectures](http://martinfowler.com/articles/serverless.html)
 
+
 ### Books
 * [Serverless](https://leanpub.com/serverless) - Patterns of Modern Application Design Using Microservices (Amazon Web Services Edition).
 * [Serverless Single Page Apps](https://pragprog.com/book/brapps/serverless-single-page-apps) - The Pragmatic Bookshelf.
 * [Learn Serverless](http://learnserverless.club) - Book about the [Serverless framework](http://serverless.com).
 
+
 ### Contributing
 You want to contribute to this project? [Please follow these recommendations](CONTRIBUTING.md).
+
 
 ### License
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
