@@ -149,6 +149,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Static Web Applications](https://staticapps.org)
 * [Serverlesscode](https://serverlesscode.com)
 * [Just Serverless](http://justserverless.com/blog)
+* [Serverless Architectures](http://martinfowler.com/articles/serverless.html)
 
 ### Books
 * [Serverless](https://leanpub.com/serverless) - Patterns of Modern Application Design Using Microservices (Amazon Web Services Edition).
