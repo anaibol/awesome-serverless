@@ -155,7 +155,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Serverless](https://leanpub.com/serverless) - Patterns of Modern Application Design Using Microservices (Amazon Web Services Edition).
 * [Serverless Single Page Apps](https://pragprog.com/book/brapps/serverless-single-page-apps) - The Pragmatic Bookshelf.
 * [Learn Serverless](http://learnserverless.club) - Book about the [Serverless framework](http://serverless.com).
-* [Serverless Architectures on AWS](https://www.manning.com/books/serverless-architectures-on-aws) - [WIP] Co-authored by founders of [A Cloud Guru](https://acloud.guru/).
+* [Serverless Architectures on AWS](https://www.manning.com/books/serverless-architectures-on-aws).
 
 ### Contributing
 You want to contribute to this project? [Please follow these recommendations](CONTRIBUTING.md).
