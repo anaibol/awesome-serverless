@@ -184,4 +184,5 @@ Instant serverless Node.JS deployments with an API.
 https://zeit.co/
 tellform.com
 https://github.com/lambci/lambci
+https://horizon.io/
 -->
