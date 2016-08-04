@@ -108,7 +108,7 @@ https://www.quora.com/What-is-serverless-computing
 
 ### Realtime
 * [Pusher](https://pusher.com/).
-* [Pubnub](https://www.pubnub.com/).
+* [Pubnub](https://www.pubnub.com/) - PubNub utilizes a Publish/Subscribe[2] model for realtime data streaming.
 
 ### Email sending, subscriptions and newsletters
 * [Lambda Mailer](https://github.com/eahefnawy/lambda-mailer) - AWS Lambda for sending emails.
