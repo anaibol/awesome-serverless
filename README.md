@@ -98,7 +98,7 @@ https://www.quora.com/What-is-serverless-computing
 ### Forms
 * [Formspree](https://formspree.io) - Functional HTML forms.
 * [FormKeep](https://formkeep.com) - Form endpoints for designers and developers. No iframes, JavaScript embeds, or CSS overrides.
-* [Tectite FormMail](http://www.tectite.com/).
+* [Tectite FormMail](http://www.tectite.com/) - FormMail, form Encryption, hosted Forms.
 * [FormAssembly](http://www.formassembly.com/).
 * [Google Forms](https://docs.google.com/forms/).
 * [Wufoo](http://www.wufoo.com/).
