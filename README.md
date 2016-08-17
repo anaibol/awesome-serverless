@@ -100,7 +100,7 @@ https://www.quora.com/What-is-serverless-computing
 * [FormKeep](https://formkeep.com) - Form endpoints for designers and developers. No iframes, JavaScript embeds, or CSS overrides.
 * [Tectite FormMail](http://www.tectite.com/) - FormMail, form Encryption, hosted Forms.
 * [FormAssembly](http://www.formassembly.com/).
-* [Google Forms](https://docs.google.com/forms/).
+* [Google Forms](https://docs.google.com/forms/) - Create and analyze online forms and surveys.
 * [Wufoo](http://www.wufoo.com/).
 
 ### Image management and File storage
