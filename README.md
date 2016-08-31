@@ -108,6 +108,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Filestack](https://www.filestack.com) - Image management system with Filestack - upload files, transform images, videos, and documents, store content and deliver fast via CDN.
 * [Kloudless](https://kloudless.com) - Integrate with one, universal API and connect to many file storage and CRM services.
 * [Uploadcare](https://uploadcare.com) - HTML5 widget, API to manage files in cloud storage, smart and fast CDN to deliver them to your end users. Crop, resize and transform uploaded images using URL commands.
+* [ReSRC.it](https://www.resrc.it/) - The Responsive Image Service that delivers brilliantly optimized, pixel perfect images to any device.
 
 ### Realtime
 * [Pusher](https://pusher.com/).
