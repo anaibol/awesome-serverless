@@ -56,6 +56,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Lever OS](https://github.com/leveros/leveros) - Serverless + Microservices = ♥
 * [Now](https://zeit.co/now) - realtime node.js deployments
 * [Brightwork](http://www.brightwork.io/) - Backend in a box for Developers
+* [OpenComponents](https://github.com/opentable/oc) - Serverless microservices for front-end components
 
 ### Isomorphic Engines
 * [lychee.js](https://github.com/Artificial-Engineering/lycheejs) - Isomorphic adapters allow peer-to-peer event-graphed WebSockets and HTTP1.1, SPDY and HTTP2.0 sockets for node, node-sdl, html, html-nwjs and html-webview (both native and embedded).
