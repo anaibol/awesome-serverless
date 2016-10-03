@@ -125,7 +125,7 @@ https://www.quora.com/What-is-serverless-computing
   * [serverless-twilio](https://github.com/eahefnawy/serverless-twilio) - Serverless Module to send SMS via twilio.
 
 ### Push notifications
-* [Ionic Push](https://apps.ionic.io/landing/push).
+* [Ionic Push Service](http://docs.ionic.io/services/push/) - Notifications for Android, iOS with Ionic Cloud.
 * [Pushover](https://pushover.net/) Notifications for Android, iOS, and Desktop.
 * [ZeroPush](https://zeropush.com) Transactional Push Notifications for Developers.
 * [PushWizard](https://pushwizard.com/) Multi-platform Push Notification Service.
