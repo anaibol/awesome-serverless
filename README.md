@@ -21,6 +21,7 @@
 - [Others](#others)
 - [Related artices](#related-articles)
 - [Books](#books)
+- [Workshops](#workshops)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -163,6 +164,10 @@ https://www.quora.com/What-is-serverless-computing
 * [Serverless Single Page Apps](https://pragprog.com/book/brapps/serverless-single-page-apps) - The Pragmatic Bookshelf.
 * [Learn Serverless](http://learnserverless.club) - Book about the [Serverless framework](http://serverless.com).
 * [Serverless Architectures on AWS](https://www.manning.com/books/serverless-architectures-on-aws).
+
+### Workshops
+
+* [OpenWhisk Workshop](https://www.npmjs.com/package/openwhisk-workshop) - Interactive workshop to learn about building serverless applications with OpenWhisk.
 
 ### Contributing
 You want to contribute to this project? [Please follow these recommendations](CONTRIBUTING.md).
