@@ -165,6 +165,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Serverless Single Page Apps](https://pragprog.com/book/brapps/serverless-single-page-apps) - The Pragmatic Bookshelf.
 * [Learn Serverless](http://learnserverless.club) - Book about the [Serverless framework](http://serverless.com).
 * [Serverless Architectures on AWS](https://www.manning.com/books/serverless-architectures-on-aws).
+* [Building Serverless Architectures](https://www.amazon.co.uk/Building-Serverless-Architectures-Cagatay-Gurturk/dp/1787129195) Book about building serverless applications  in JAVA.
 
 ### Workshops
 
