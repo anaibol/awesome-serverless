@@ -142,6 +142,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Algolia](https://www.algolia.com) - Hosted cloud search as a service.
 
 ### Others
+* [aws-lambda-go](https://github.com/eawsy/aws-lambda-go) - Run standard Go code on the AWS Lambda platform.
 * [remoteStorage](https://remotestorage.io) - An open protocol for per-user storage.
 * [Sockethub](http://sockethub.org) - A polyglot (speaking many different protocols and APIs) messaging service for social and other interactive messaging applications.
 * [serverless-slack-webhook](https://github.com/eahefnawy/serverless-slack-webhook) - Serverless Module that creates a webhook for Slack.
