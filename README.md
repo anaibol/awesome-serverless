@@ -204,4 +204,6 @@ https://github.com/lambci/lambci
 https://horizon.io/
 https://www.contentful.com
 https://telepat.io/
+https://prerender.io/
+https://www.prerender.cloud/
 -->
