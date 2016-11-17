@@ -91,8 +91,8 @@ https://www.quora.com/What-is-serverless-computing
 ### Payments
 * [Sripe Webtask](https://github.com/auth0/webtask-scripts/tree/master/stripe) - Accept Stripe payments without a backend using Webtasks.
 * [Stripe Serverless webhook](https://github.com/eahefnawy/serverless-stripe-webhook) - Serverless Module that creates a webhook for Stripe.
-* [Stripe Lamda function](https://github.com/TaylorBriggs/stripe-lambda) - 
-* [check digit](http://chkdgt.com) - 
+* [Stripe Lamda function](https://github.com/TaylorBriggs/stripe-lambda) - A Lambda function for charging cards with Stripe
+<!---* [check digit](http://chkdgt.com) - -->
 
 ### eCommerce
 * [Snipcart](https://snipcart.com) - Fully customizable, HTML and JavaScript-based shopping cart for any website.
