@@ -78,6 +78,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Gordon](https://github.com/jorgebastida/gordon) - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation
 * [Chalice](https://github.com/awslabs/chalice) - Python serverless microframework from Amazon for AWS lambda
 * [Gestalt Framework](http://www.galacticfog.com/product) - Gestalt's Lambda Application SERver (LASER)” for short, is a lambda service that supports running .Net, Javascript, Java, Scala, Ruby, and Python lambdas.
+* [lambdoku)(https://github.com/kubek2k/lambdoku) - Heroku-like experience when using AWS Lambda
 
 ### Logging / Monitoring / Performance / Tracing
 
