@@ -177,6 +177,20 @@ https://www.quora.com/What-is-serverless-computing
 
 * [OpenWhisk Workshop](https://www.npmjs.com/package/openwhisk-workshop) - Interactive workshop to learn about building serverless applications with OpenWhisk.
 
+### AWS re:Invent videos
+* [↑↑↓↓←→←→ BA Lambda Start](https://www.youtube.com/watch?v=iz90fHia-Wk&index=4&list=PLhr1KZpdzukcLUKD2ej8AKYR-nryjGGnF)
+* [Application Lifecycle Management in a Serverless World](https://www.youtube.com/watch?v=8Zd-8GV-1mY&index=11&list=PLhr1KZpdzukcLUKD2ej8AKYR-nryjGGnF)
+* [bots + serverless = ❤](https://www.youtube.com/watch?v=rvi2Jm4eQdM&index=5&list=PLhr1KZpdzukcLUKD2ej8AKYR-nryjGGnF)
+* [Coca-Cola: Running Serverless Applications with Enterprise Requirements](https://www.youtube.com/watch?v=yErmil00DYs&index=10&list=PLhr1KZpdzukcLUKD2ej8AKYR-nryjGGnF)
+* [Content and Data Platforms at Vevo: Rebuilding and Scaling from Zero](https://www.youtube.com/watch?v=EI7pwRMc6zM&index=12&list=PLhr1KZpdzukcLUKD2ej8AKYR-nryjGGnF)
+* [Operating Your Production API](https://www.youtube.com/watch?v=tNIl_Wb12sE&index=8&list=PLhr1KZpdzukcLUKD2ej8AKYR-nryjGGnF)
+* [Optimizing the Data Tier in Serverless Web Applications](https://www.youtube.com/watch?v=n5Jf6Vi2whI&index=9&list=PLhr1KZpdzukcLUKD2ej8AKYR-nryjGGnF)
+* [Real-time Data Processing Using AWS Lambda](https://www.youtube.com/watch?v=VFLKOy4GKXQ)
+* [Serverless Apps with AWS Step Functions](https://www.youtube.com/watch?v=75MRve4nv8s&index=7&list=PLhr1KZpdzukcLUKD2ej8AKYR-nryjGGnF)
+* [Serverless Computing Patterns at Expedia](https://www.youtube.com/watch?v=gT9x9LnU_rE&index=3&list=PLhr1KZpdzukcLUKD2ej8AKYR-nryjGGnF)
+* [Using AWS Lambda to Build Control Systems for Your AWS Infrastructure](https://www.youtube.com/watch?v=vkWGZ3uY0p0&index=2&list=PLhr1KZpdzukcLUKD2ej8AKYR-nryjGGnF)
+* [What’s New with AWS Lambda](https://www.youtube.com/watch?v=CwxWhyGteNc)
+
 ### Contributing
 You want to contribute to this project? [Please follow these recommendations](CONTRIBUTING.md).
 
