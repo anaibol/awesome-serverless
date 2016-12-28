@@ -59,6 +59,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Now](https://zeit.co/now) - realtime node.js deployments
 * [Brightwork](http://www.brightwork.io/) - Backend in a box for Developers
 * [OpenComponents](https://github.com/opentable/oc) - Serverless microservices for front-end components
+* [Kloudbit](http://www.kloudbit.com/) - Kloudbit helps developers build robust applications without the hassle of backend coding and server management.
 
 ### Isomorphic Engines
 * [lychee.js](https://github.com/Artificial-Engineering/lycheejs) - Isomorphic adapters allow peer-to-peer event-graphed WebSockets and HTTP1.1, SPDY and HTTP2.0 sockets for node, node-sdl, html, html-nwjs and html-webview (both native and embedded).
