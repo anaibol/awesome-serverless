@@ -49,6 +49,7 @@ https://www.quora.com/What-is-serverless-computing
 * [iron.io](https://www.iron.io/platform/ironworker) - Isolates code and dependencies of individual tasks so they can be processed on demand.
 * [weblab.io](https://weblab.io) - Microservices at your fingertips.
 * [Peer5](https://www.peer5.com) - The serverless CDN. Limitless, affordable video delivery. More traffic means a stronger network.
+* [StdLib](https://stdlib.com) - Function as a service library and platform.
 * [Auth0 Webtasks](https://webtask.io) - Run code with an HTTP call. No provisioning. No deployment.
 * [Webscripts](https://www.webscript.io) - Scripting on the web.
 * [APItools](https://www.apitools.com) - Troubleshoot, Modify, Monitor API traffic.
