@@ -160,6 +160,8 @@ https://www.quora.com/What-is-serverless-computing
 ### Related articles
 * [Serverless Framework (CloudAcademy)](http://cloudacademy.com/blog/serverless-framework-aws-lambda-api-gateway-python) -  A Deep Overview of the Best AWS Lambda + API Gateway Automation Solution
 * [AWS Lambda Microservices Architecture for Node.js](https://medium.com/getty-logs/a-aws-lambda-microservices-architecture-for-node-js-4513799101d4#.k99m6yvvz)
+* [Designing Teams around Microservices](https://www.nginx.com/blog/adopting-microservices-at-netflix-lessons-for-team-and-process-design/)
+* [AWS Lambda vs StdLib](http://stdlib.com/aws-lambda)
 * [The Serverless Start-Up - Down With Servers!](http://highscalability.com/blog/2015/12/7/the-serverless-start-up-down-with-servers.html)
 * [Microservices without the Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers)
 * [A startup journey on AWS: from bare metal monolith to serverless microservices](https://medium.com/@benorama/a-startup-journey-on-aws-from-bare-metal-monolith-to-serverless-microservices-80231624fbd9)
