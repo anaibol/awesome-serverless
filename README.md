@@ -99,6 +99,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Stripe Serverless webhook](https://github.com/eahefnawy/serverless-stripe-webhook) - Serverless Module that creates a webhook for Stripe.
 * [Stripe Lambda function](https://github.com/TaylorBriggs/stripe-lambda) - A Lambda function for charging cards with Stripe
 <!---* [check digit](http://chkdgt.com) - -->
+* [GCF-Stripe](https://github.com/rldaulton/GCF-Stripe) - serverless use of Stripe over Google Cloud Functions
 
 ### eCommerce
 * [Snipcart](https://snipcart.com) - Fully customizable, HTML and JavaScript-based shopping cart for any website.
