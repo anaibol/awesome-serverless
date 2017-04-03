@@ -212,7 +212,6 @@ You want to contribute to this project? [Please follow these recommendations](CO
 <!---
 ### Serverless Manifiesto
 https://github.com/exis-io/Exis
-https://www.imgix.com
 https://github.com/localytics/serverless-slackbot-scaffold
 http://eng.localytics.com/serverless-slackbots-powered-by-aws/
 
@@ -228,6 +227,7 @@ https://zencoder.com/en/
 Now API
 Instant serverless Node.JS deployments with an API.
 https://zeit.co/
+https://scaphold.io/
 https://github.com/lambci/lambci
 https://horizon.io/
 https://www.contentful.com
