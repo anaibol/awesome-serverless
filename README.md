@@ -38,7 +38,6 @@ https://www.quora.com/What-is-serverless-computing
 * [Kinvey](http://www.kinvey.com) - Build your digital business faster with mobile Backend as a Service.
 * [Syncano](https://syncano.io) - An all-in-one platform to create realtime apps without a server.
 * [Hoodie](http://hood.ie) - Hoodie is a complete backend for your apps: develop your frontend code.
-* [UserApp](https://www.userapp.io) - The user management API. Fastest way to build user management with payments, email, and social.
 * [Para](https://paraio.com) - Flexible and lightweight backend service for rapid prototyping, based on open source software.
 
 ### Hosting and code execution in the cloud
@@ -93,9 +92,9 @@ https://www.quora.com/What-is-serverless-computing
 
 ### Authentication and authorization
 * [Auth0](https://auth0.com) - Single Sign On & Token Based Authentication.
+* [Amazon Cognito](https://aws.amazon.com/cognito/) - Amazon Cognito lets you easily add user sign-up and sign-in to your mobile and web apps.
 * [Firebase](https://firebase.com/).
 * [Serverless Authentication Boilerplate with FaunaDB](https://serverless.com/blog/faunadb-serverless-authentication/) - Single sign on using Amazon API Gateway custom authorizer to provision database access tokens for your Lambda functions. [See TodoMVC integration in this meetup talk video.](https://fauna.com/blog/developing-serverless-authentication-and-persistence)
-* [Stormpath](https://stormpath.com) - User Identity API.
 
 ### Payments
 * [Stripe Webtask](https://github.com/auth0/webtask-scripts/tree/master/stripe) - Accept Stripe payments without a backend using Webtasks.
