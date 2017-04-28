@@ -221,6 +221,7 @@ https://www.hyper.sh/
 http://www.imgix.com/ Real-time Image Processing. Resize, crop, and process images on the fly, simply by changing their URLs.
 https://blitline.com/
 Cloudinary
+https://www.resrc.it/
 https://kraken.io
 https://www.iron.io
 https://transloadit.com
