@@ -85,6 +85,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Turtle](https://github.com/iopipe/turtle/) - library for building functional and actor-driven NodeJS apps on Lambda
 * [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python WSGI with AWS Lambda + API Gateway.
 * [λambdify](http://zhukovalexander.github.io/lambdify) - AWS Lambda automation and integration for Python
+* [Squeezer Framework](https://squeezer.io) - Event-driven APIs & Web apps on microservices, serverless.
 
 ### Logging / Monitoring / Performance / Tracing
 
