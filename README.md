@@ -217,7 +217,7 @@ You want to contribute to this project? [Please follow these recommendations](CO
 https://github.com/exis-io/Exis
 https://github.com/localytics/serverless-slackbot-scaffold
 http://eng.localytics.com/serverless-slackbots-powered-by-aws/
-
+https://github.com/y13i/serverless-ts-example
 https://www.hyper.sh/
 http://www.imgix.com/ Real-time Image Processing. Resize, crop, and process images on the fly, simply by changing their URLs.
 https://blitline.com/
