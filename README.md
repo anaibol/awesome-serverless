@@ -155,6 +155,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Cloudant](https://cloudant.com/) - Based on the Apache-backed CouchDB, Cloudant is the distributed database as a service (DBaaS) built from the ground up to deliver fast-growing application data to the edge.
 
 ### Others
+* [Azure Function Library](http://functionlibrary.azurewebsites.net) - An open source set of common use cases for Azure Functions that are ready to deploy!
 * [aws-lambda-go](https://github.com/eawsy/aws-lambda-go) - Run standard Go code on the AWS Lambda platform.
 * [remoteStorage](https://remotestorage.io) - An open protocol for per-user storage.
 * [Sockethub](http://sockethub.org) - A polyglot (speaking many different protocols and APIs) messaging service for social and other interactive messaging applications.
