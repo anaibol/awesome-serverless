@@ -22,6 +22,7 @@
 - [Related artices](#related-articles)
 - [Books](#books)
 - [Workshops](#workshops)
+- [Newsletters](#newsletters)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -192,6 +193,9 @@ https://www.quora.com/What-is-serverless-computing
 ### Workshops
 
 * [OpenWhisk Workshop](https://www.npmjs.com/package/openwhisk-workshop) - Interactive workshop to learn about building serverless applications with OpenWhisk.
+
+### Newsletters
+* [Serverless Weekly](http://eepurl.com/cUU8sD) - Everything you need to know about Serverless, week by week.
 
 ### AWS re:Invent videos
 * [↑↑↓↓←→←→ BA Lambda Start](https://www.youtube.com/watch?v=iz90fHia-Wk&index=4&list=PLhr1KZpdzukcLUKD2ej8AKYR-nryjGGnF)
