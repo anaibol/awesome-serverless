@@ -181,6 +181,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Serverlesscode](https://serverlesscode.com)
 * [Just Serverless](http://justserverless.com/blog)
 * [Serverless Architectures](http://martinfowler.com/articles/serverless.html)
+* [Serverless Stack](http://serverless-stack.com/) - A step-by-step guide to creating full-stack serverless apps.
 * [Migrating a Native JAVA REST API to a Serverless Architecture with the Lambada Framework for AWS](https://aws.amazon.com/blogs/compute/migrating-a-native-java-rest-api-to-a-serverless-architecture-with-the-lambada-framework-for-aws/)
 
 ### Books
