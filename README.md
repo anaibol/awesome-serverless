@@ -81,7 +81,7 @@ https://www.quora.com/What-is-serverless-computing
 * [lambda-restify](https://github.com/kksharma1618/lambda-restify) - A restify/expressjs like interface for aws lamda with api gateway event.
 * [Lambdoku](https://github.com/kubek2k/lambdoku) - Heroku-like experience when using AWS Lambda
 * [Python-λ](https://github.com/nficano/python-lambda) - A toolkit for developing and deploying serverless Python code in AWS Lambda
-* [Serverless Framework](http://www.serverless.com) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
+* [Serverless Framework](http://www.serverless.com) - Build and maintain web, mobile and IoT applications running on AWS Lambda, Azure Cloud Functions, IBM OpenWhisk, and Google Cloud Functions (formerly known as JAWS).
 * [Shep](https://github.com/bustlelabs/shep) - A framework for building APIs using AWS API Gateway and Lambda
 * [Sparta](http://gosparta.io) - A framework that transforms a Go application into an AWS Lambda powered microservice.
 * [Turtle](https://github.com/iopipe/turtle/) - library for building functional and actor-driven NodeJS apps on Lambda
