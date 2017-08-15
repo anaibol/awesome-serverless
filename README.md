@@ -86,6 +86,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Serverless Framework](http://www.serverless.com) - Build and maintain web, mobile and IoT applications running on AWS Lambda, Azure Cloud Functions, IBM OpenWhisk, and Google Cloud Functions (formerly known as JAWS).
 * [Shep](https://github.com/bustlelabs/shep) - A framework for building APIs using AWS API Gateway and Lambda
 * [Sparta](http://gosparta.io) - A framework that transforms a Go application into an AWS Lambda powered microservice.
+* [SAM Local](https://github.com/awslabs/aws-sam-local) - Is the AWS CLI tool for managing Serverless applications written with [AWS Serverless Application Model (SAM)](https://github.com/awslabs/serverless-application-model)
 * [Turtle](https://github.com/iopipe/turtle/) - library for building functional and actor-driven NodeJS apps on Lambda
 * [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python WSGI with AWS Lambda + API Gateway.
 * [λambdify](http://zhukovalexander.github.io/lambdify) - AWS Lambda automation and integration for Python
