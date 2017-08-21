@@ -14,7 +14,7 @@
 - [eCommerce](#ecommerce)
 - [Forms](#forms)
 - [Image management and File storage](#image-management-and-file-storage)
-- [SMS sending](#sms-sensing)
+- [SMS sending](#sms-sending)
 - [Push notifications](#push-notifications)
 - [Email sending, subscriptions and newsletters](#email-sending-subscriptions-and-newsletters)
 - [Databases](#databases)
