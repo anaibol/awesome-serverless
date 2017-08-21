@@ -1,7 +1,8 @@
+<img src="http://i.imgur.com/zq0LJAl.png" align="right" height=300>
+
 # :cloud: Awesome Serverless
 
 #### A curated list of awesome services, solutions and resources for serverless / nobackend applications.
-<img src="http://i.imgur.com/pvT5WDi.png" align="right" height=300>
 
 ### Table of contents
 - [What is "serverless" computing?](#what-is-serverless-computing)
