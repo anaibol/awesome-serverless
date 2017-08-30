@@ -130,6 +130,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Kloudless](https://kloudless.com) - Integrate with one, universal API and connect to many file storage and CRM services.
 * [Uploadcare](https://uploadcare.com) - HTML5 widget, API to manage files in cloud storage, smart and fast CDN to deliver them to your end users. Crop, resize and transform uploaded images using URL commands.
 * [ReSRC.it](https://www.resrc.it/) - The Responsive Image Service that delivers brilliantly optimized, pixel perfect images to any device.
+* [Letter Avatar](https://github.com/kevincolemaninc/letter-avatar-serverless) - Generates Google-like binary avatar images
 
 ### Realtime
 * [Ably](https://www.ably.io/) - Global distributed realtime data delivery platform with pub/sub, presence, device awareness, history, connection state recovery, authentication and encryption.
