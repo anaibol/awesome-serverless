@@ -54,7 +54,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Peer5](https://www.peer5.com) - The serverless CDN. Limitless, affordable video delivery. More traffic means a stronger network.
 * [StdLib](https://stdlib.com) - Function as a service library and platform.
 * [Auth0 Webtasks](https://webtask.io) - Run code with an HTTP call. No provisioning. No deployment.
-* [Webscripts](https://www.webscript.io) - Scripting on the web.
+* <s>[Webscripts](https://www.webscript.io)</s> - Scripting on the web. (Shutting down December 15, 2017)
 * [APItools](https://www.apitools.com) - Troubleshoot, Modify, Monitor API traffic.
 * [Surge](http://surge.sh) - Deploy static sites from the command line.
 * [Netlify](https://netlify.com) - Generate & deploy static sites from git repositories.
