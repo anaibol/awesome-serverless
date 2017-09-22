@@ -101,7 +101,10 @@ https://www.quora.com/What-is-serverless-computing
 ### Authentication and authorization
 * [Auth0](https://auth0.com) - Single Sign On & Token Based Authentication.
 * [Amazon Cognito](https://aws.amazon.com/cognito/) - Amazon Cognito lets you easily add user sign-up and sign-in to your mobile and web apps.
+* [DailyCred](https://www.dailycred.com/) - Registration, user management, single-sign-on.
 * [Firebase](https://firebase.com/).
+* [OAuth.io](https://oauth.io/) - OAuth integration, user management, provides OAuth 2.0 layer to existing APIs.
+* [Okta](https://developer.okta.com/) - Provides authentication, authorization, and user management, merged with [Stormpath](https://stormpath.com/) in August 2017.
 * [Serverless Authentication Boilerplate with FaunaDB](https://serverless.com/blog/faunadb-serverless-authentication/) - Single sign on using Amazon API Gateway custom authorizer to provision database access tokens for your Lambda functions. [See TodoMVC integration in this meetup talk video.](https://fauna.com/blog/developing-serverless-authentication-and-persistence)
 
 ### Payments
