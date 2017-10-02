@@ -72,6 +72,7 @@ https://www.quora.com/What-is-serverless-computing
 
 ### Frameworks
 * [Apex](http://apex.run) - Minimal AWS Lambda function manager with support for multiple languages including Nodejs, Golang, Python, Java, Rust and Clojure.
+* [Up](https://apex.github.io/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds.
 * [Chalice](https://github.com/awslabs/chalice) - Python serverless microframework from Amazon for AWS lambda
 * [ClaudiaJS](https://github.com/claudiajs/claudia) - Deploy Node.js microservices to AWS easily.
 * [DEEP](https://github.com/MitocGroup/deep-framework) - Full-stack Web Framework for Cloud-Native Applications and Platforms using Microservices Architecture.
