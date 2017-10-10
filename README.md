@@ -203,7 +203,9 @@ https://www.quora.com/What-is-serverless-computing
 * [Learn Serverless](http://learnserverless.club) - Book about the [Serverless framework](http://serverless.com).
 * [Serverless Architectures on AWS](https://www.manning.com/books/serverless-architectures-on-aws).
 * [Building Serverless Architectures](https://www.amazon.co.uk/Building-Serverless-Architectures-Cagatay-Gurturk/dp/1787129195) Book about building serverless applications  in JAVA.
-
+* [AWS Lambda in Action](https://www.manning.com/books/aws-lambda-in-action) An example-driven tutorial that teaches you how to build applications that use an event-driven approach on the back end.
+* [Serverless Apps with Node and Claudia.js](https://www.manning.com/books/serverless-apps-with-node-and-claudiajs) A book that walks you through building serverless apps on AWS using Node.js and Claudia.js. (early access)
+ 
 ### Workshops
 
 * [OpenWhisk Workshop](https://www.npmjs.com/package/openwhisk-workshop) - Interactive workshop to learn about building serverless applications with OpenWhisk.
