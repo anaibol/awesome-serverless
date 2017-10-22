@@ -24,6 +24,7 @@
 - [Books](#books)
 - [Workshops](#workshops)
 - [Newsletters](#newsletters)
+- [AWS re:Invent videos](#aws-reinvent-videos)
 - [Contributing](#contributing)
 - [License](#license)
 
