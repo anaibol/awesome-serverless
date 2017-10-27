@@ -49,7 +49,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Spotinst Functions](https://spotinst.com/products/spotinst-functions/) - Devploy serverless functions with our easy to use framework that launch onto the Spot Market for cheap and convenient use.
 * [Azure Functions](https://azure.microsoft.com/en-us/services/functions) - Listen and react to events across your stack.
 * [Fission](http://fission.io) - Fast, extensible, open source serverless functions on any Kubernetes cluster
-* [IBM OpenWhisk](https://developer.ibm.com/openwhisk) - Distributed compute service to execute application logic in response to events.
+* [IBM Cloud Functions](https://console.bluemix.net/openwhisk/) - Distributed compute service to execute application logic in response to events.
 * [Kubeless](https://github.com/kubeless/kubeless) - is a Kubernetes-native serverless solution.
 * [iron.io](https://www.iron.io/platform/ironworker) - Isolates code and dependencies of individual tasks so they can be processed on demand.
 * [weblab.io](https://weblab.io) - Microservices at your fingertips.
