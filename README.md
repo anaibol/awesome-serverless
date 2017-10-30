@@ -86,6 +86,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Lambada Framework](https://github.com/lambadaframework/lambadaframework) - JAX-RS implementation for AWS Lambda.
 * [lambda-restify](https://github.com/kksharma1618/lambda-restify) - A restify/expressjs like interface for aws lamda with api gateway event.
 * [Lambdoku](https://github.com/kubek2k/lambdoku) - Heroku-like experience when using AWS Lambda
+* [modofun](https://github.com/fptavares/modofun) - A lightweight no-dependencies function router for both AWS Lambda and Google Cloud Functions, and that supports Connect/Express middleware.
 * [Python-λ](https://github.com/nficano/python-lambda) - A toolkit for developing and deploying serverless Python code in AWS Lambda
 * [Serverless Framework](http://www.serverless.com) - Build and maintain web, mobile and IoT applications running on AWS Lambda, Azure Cloud Functions, IBM OpenWhisk, and Google Cloud Functions (formerly known as JAWS).
 * [Shep](https://github.com/bustlelabs/shep) - A framework for building APIs using AWS API Gateway and Lambda
@@ -212,7 +213,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Agile Development for Serverless Platforms](https://www.manning.com/books/agile-development-for-serverless-platforms) free eBook: how to apply Agile practices in fully serverless architectures.
 * [Cloud Native Applications](https://www.manning.com/books/cloud-native-applications) free eBook: an introduction into the world of cloud computing and insights into what is possible with cloud services.
 * [Exploring Cloud Computing](https://www.manning.com/books/exploring-cloud-computing) free eBook: an introduction to the two most popular cloud providers, Amazon and Google, and insights to help you get started.
- 
+
 ### Workshops
 
 * [OpenWhisk Workshop](https://www.npmjs.com/package/openwhisk-workshop) - Interactive workshop to learn about building serverless applications with OpenWhisk.
