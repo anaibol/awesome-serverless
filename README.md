@@ -205,7 +205,7 @@ https://www.quora.com/What-is-serverless-computing
 ### Books
 * [Serverless](https://leanpub.com/serverless) - Patterns of Modern Application Design Using Microservices (Amazon Web Services Edition).
 * [Serverless Single Page Apps](https://pragprog.com/book/brapps/serverless-single-page-apps) - The Pragmatic Bookshelf.
-* [Learn Serverless](http://learnserverless.club) - Book about the [Serverless framework](http://serverless.com).
+* [Going Serverless](https://www.goingserverless.co/) - Practical guide to building applications with the Serverless Framework.
 * [Serverless Architectures on AWS](https://www.manning.com/books/serverless-architectures-on-aws).
 * [Building Serverless Architectures](https://www.amazon.co.uk/Building-Serverless-Architectures-Cagatay-Gurturk/dp/1787129195) Book about building serverless applications  in JAVA.
 * [AWS Lambda in Action](https://www.manning.com/books/aws-lambda-in-action) An example-driven tutorial that teaches you how to build applications that use an event-driven approach on the back end.
