@@ -179,6 +179,7 @@ https://www.quora.com/What-is-serverless-computing
 * [serverless-slack-webhook](https://github.com/eahefnawy/serverless-slack-webhook) - Serverless Module that creates a webhook for Slack.
 * [Docker Lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
 * [faas](https://github.com/alexellis/faas) - Run Docker containers as functions on Swarm Mode ([blog post](http://blog.alexellis.io/functions-as-a-service/))
+* [gofn](https://github.com/nuveo/gofn) - Go package for function process via container provider (serverless minimalist) 
 * [Lambda Comments](https://github.com/jimpick/lambda-comments) - Blog commenting system built with AWS Lambda
 * [LambCI](https://github.com/lambci/lambci) - A continuous integration system built on AWS Lambda
 * [LambStatus](https://github.com/ks888/LambStatus) - A status page system built on AWS Lambda ([demo](https://lambstatus.github.io/demo-status/))
