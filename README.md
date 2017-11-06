@@ -174,6 +174,7 @@ https://www.quora.com/What-is-serverless-computing
 ### Others
 * [Azure Function Library](http://functionlibrary.azurewebsites.net) - An open source set of common use cases for Azure Functions that are ready to deploy!
 * [aws-lambda-go](https://github.com/eawsy/aws-lambda-go) - Run standard Go code on the AWS Lambda platform.
+* [Backstage Functions](https://github.com/backstage/functions) - An Open Source Serverless Platform able to store and execute code maintained by [Globo.com](http://www.globo.com)
 * [remoteStorage](https://remotestorage.io) - An open protocol for per-user storage.
 * [Sockethub](http://sockethub.org) - A polyglot (speaking many different protocols and APIs) messaging service for social and other interactive messaging applications.
 * [serverless-slack-webhook](https://github.com/eahefnawy/serverless-slack-webhook) - Serverless Module that creates a webhook for Slack.
