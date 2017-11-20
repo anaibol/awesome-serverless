@@ -42,6 +42,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Syncano](https://syncano.io) - An all-in-one platform to create realtime apps without a server.
 * [Hoodie](http://hood.ie) - Hoodie is a complete backend for your apps: develop your frontend code.
 * [Para](https://paraio.com) - Flexible and lightweight backend service for rapid prototyping, based on open source software.
+* [Backand](https://www.backand.com) - One platform to develop and run multi-cloud Serverless applications.
 
 ### Hosting and code execution in the cloud
 * [Amazon Lambda](https://aws.amazon.com/lambda) - Run code without thinking about servers. Pay for only the compute time you consume.
