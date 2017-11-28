@@ -77,6 +77,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Apex](http://apex.run) - Minimal AWS Lambda function manager with support for multiple languages including Nodejs, Golang, Python, Java, Rust and Clojure.
 * [Up](https://apex.github.io/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds.
 * [Chalice](https://github.com/awslabs/chalice) - Python serverless microframework from Amazon for AWS lambda
+* [CIM](https://github.com/thestackshack/cim) - A CloudFormation first approach to AWS Lambdas.
 * [ClaudiaJS](https://github.com/claudiajs/claudia) - Deploy Node.js microservices to AWS easily.
 * [DEEP](https://github.com/MitocGroup/deep-framework) - Full-stack Web Framework for Cloud-Native Applications and Platforms using Microservices Architecture.
 * [Gordon](https://github.com/jorgebastida/gordon) - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation
@@ -181,6 +182,7 @@ https://www.quora.com/What-is-serverless-computing
 * [serverless-slack-webhook](https://github.com/eahefnawy/serverless-slack-webhook) - Serverless Module that creates a webhook for Slack.
 * [Docker Lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
 * [faas](https://github.com/alexellis/faas) - Run Docker containers as functions on Swarm Mode ([blog post](http://blog.alexellis.io/functions-as-a-service/))
+* [FunctionCI](https://github.com/rgfindl/functionci) - Continuous Integration for AWS Lambdas.
 * [gofn](https://github.com/nuveo/gofn) - Go package for function process via container provider (serverless minimalist) 
 * [Lambda Comments](https://github.com/jimpick/lambda-comments) - Blog commenting system built with AWS Lambda
 * [LambCI](https://github.com/lambci/lambci) - A continuous integration system built on AWS Lambda
