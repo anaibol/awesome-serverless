@@ -178,6 +178,7 @@ https://www.quora.com/What-is-serverless-computing
 * [aws-lambda-go](https://github.com/eawsy/aws-lambda-go) - Run standard Go code on the AWS Lambda platform.
 * [Backstage Functions](https://github.com/backstage/functions) - An Open Source Serverless Platform able to store and execute code maintained by [Globo.com](http://www.globo.com)
 * [remoteStorage](https://remotestorage.io) - An open protocol for per-user storage.
+* [SCAR](https://github.com/grycap/scar) - Serverless Container-aware ARchitectures (e.g. run containers out of your Docker images in AWS Lambda).
 * [Sockethub](http://sockethub.org) - A polyglot (speaking many different protocols and APIs) messaging service for social and other interactive messaging applications.
 * [serverless-slack-webhook](https://github.com/eahefnawy/serverless-slack-webhook) - Serverless Module that creates a webhook for Slack.
 * [Docker Lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
