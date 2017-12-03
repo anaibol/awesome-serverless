@@ -13,6 +13,7 @@
 - [Authentication and authorization](#authentication-and-authorization)
 - [Payments](#payments)
 - [eCommerce](#ecommerce)
+- [Content Management Systems](#content-management-systems)
 - [Forms](#forms)
 - [Image management and File storage](#image-management-and-file-storage)
 - [SMS sending](#sms-sending)
@@ -125,6 +126,9 @@ https://www.quora.com/What-is-serverless-computing
 * [Snipcart](https://snipcart.com) - Fully customizable, HTML and JavaScript-based shopping cart for any website.
 * [CommerceJS](http://commercejs.com/) - Full-stack ecommerce api for developers & designers.
 * [EndlessCommerce](http://www.endless-commerce.com/) - Open source ecommerce platform based on Serverless framework.
+
+### Content Management Systems
+* [Tipe](https://tipe.io/) - Next generation serverless CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
 
 ### Forms
 * [Form.io](https://form.io) - JSON Powered Form and Data Management Platform for Serverless applications.
