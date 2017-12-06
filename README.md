@@ -165,6 +165,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Lambda Comments](https://github.com/jimpick/lambda-comments) - Blog commenting system built with AWS Lambda
 * [LambCI](https://github.com/lambci/lambci) - A continuous integration system built on AWS Lambda
 * [LambStatus](https://github.com/ks888/LambStatus) - A status page system built on AWS Lambda ([demo](https://lambstatus.github.io/demo-status/))
+* [Serverless Brasil](https://serverlessbrasil.org/) - The Serverless Brazilian community
 
 ### Related articles
 * [Serverless Framework (CloudAcademy)](http://cloudacademy.com/blog/serverless-framework-aws-lambda-api-gateway-python) -  A Deep Overview of the Best AWS Lambda + API Gateway Automation Solution
