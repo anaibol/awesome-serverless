@@ -227,7 +227,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Exploring Cloud Computing](https://www.manning.com/books/exploring-cloud-computing) free eBook: an introduction to the two most popular cloud providers, Amazon and Google, and insights to help you get started.
 
 ### Workshops
-
+* [AWS Lambda in Motion](https://www.manning.com/livevideo/aws-lambda-in-motion) - An example-driven tutorial that focuses on helping you understand and tackle the operational challenges with running AWS Lambda in production.
 * [OpenWhisk Workshop](https://www.npmjs.com/package/openwhisk-workshop) - Interactive workshop to learn about building serverless applications with OpenWhisk.
 
 ### Newsletters
