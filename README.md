@@ -103,6 +103,10 @@ https://www.quora.com/What-is-serverless-computing
 * [Spring Cloud Function](https://github.com/spring-cloud/spring-cloud-function) - Java framework for doing Functions using Spring ecosystem
 * [Fission Workflows](https://github.com/fission/fission-workflows) - Fast workflow-based function composition for serverless functions
 
+### Security
+
+* [PureSec](https://www.puresec.io) - Enabling Secure and Reliable Serverless Applications.
+
 ### Logging / Monitoring / Performance / Tracing
 
 * [IOpipe](https://www.iopipe.com) - Application Performance Monitoring & Management for serverless applications.
