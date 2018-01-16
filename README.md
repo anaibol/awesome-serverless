@@ -237,6 +237,7 @@ https://www.quora.com/What-is-serverless-computing
 
 ### Newsletters
 * [Serverless Weekly](http://eepurl.com/cUU8sD) - Everything you need to know about Serverless, week by week.
+* [Serverless Status](https://serverless.email/) - A weekly digest of the latest serverless news and articles.
 
 ### AWS re:Invent videos
 * [↑↑↓↓←→←→ BA Lambda Start](https://www.youtube.com/watch?v=iz90fHia-Wk&index=4&list=PLhr1KZpdzukcLUKD2ej8AKYR-nryjGGnF)
