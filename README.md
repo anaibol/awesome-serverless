@@ -103,6 +103,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Squeezer Framework](https://squeezer.io) - Event-driven APIs & Web apps on microservices, serverless.
 * [Spring Cloud Function](https://github.com/spring-cloud/spring-cloud-function) - Java framework for doing Functions using Spring ecosystem
 * [Fission Workflows](https://github.com/fission/fission-workflows) - Fast workflow-based function composition for serverless functions
+* [azure-functions-express](https://github.com/yvele/azure-function-express) - Allows Express.js usage with Azure Functions
 
 ### Security
 
