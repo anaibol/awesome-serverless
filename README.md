@@ -45,6 +45,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Hoodie](http://hood.ie) - Hoodie is a complete backend for your apps: develop your frontend code.
 * [Para](https://paraio.com) - Flexible and lightweight backend service for rapid prototyping, based on open source software.
 * [Backand](https://www.backand.com) - One platform to develop and run multi-cloud Serverless applications.
+* [wolkenkit](https://www.wolkenkit.io) - wolkenkit is a CQRS and event-sourcing framework for JavaScript and Node.js which fits perfectly with domain-driven design (DDD).
 
 ### Hosting and code execution in the cloud
 * [Amazon Lambda](https://aws.amazon.com/lambda) - Run code without thinking about servers. Pay for only the compute time you consume.
