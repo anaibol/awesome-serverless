@@ -112,6 +112,7 @@ https://www.quora.com/What-is-serverless-computing
 
 ### Logging / Monitoring / Performance / Tracing
 
+* [Dashbird](https://www.dashbird.io) - Performance Tracking and Error Alerting for serverless applications.
 * [IOpipe](https://www.iopipe.com) - Application Performance Monitoring & Management for serverless applications.
 
 ### Authentication and authorization
