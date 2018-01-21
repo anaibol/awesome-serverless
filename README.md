@@ -24,6 +24,7 @@
 - [Others](#others)
 - [Related artices](#related-articles)
 - [Books](#books)
+- [Courses](#courses)
 - [Workshops](#workshops)
 - [Newsletters](#newsletters)
 - [AWS re:Invent videos](#aws-reinvent-videos)
@@ -238,6 +239,9 @@ https://www.quora.com/What-is-serverless-computing
 * [Cloud Native Applications](https://www.manning.com/books/cloud-native-applications) free eBook: an introduction into the world of cloud computing and insights into what is possible with cloud services.
 * [Exploring Cloud Computing](https://www.manning.com/books/exploring-cloud-computing) free eBook: an introduction to the two most popular cloud providers, Amazon and Google, and insights to help you get started.
 * [Developing Serverless Applications - A Practical Introduction with Apache OpenWhisk](http://www.oreilly.com/programming/free/developing-serverless-applications.csp) free ebook focused on doing serverless with OpenWhisk.
+
+### Courses
+* [Serverless JavaScript by Example](https://www.packtpub.com/web-development/serverless-javascript-example-video) - Become dexterous with live demonstrations on serverless web development.
 
 ### Workshops
 * [AWS Lambda in Motion](https://www.manning.com/livevideo/aws-lambda-in-motion) - An example-driven tutorial that focuses on helping you understand and tackle the operational challenges with running AWS Lambda in production.
