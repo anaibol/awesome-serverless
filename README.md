@@ -147,6 +147,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Form.io](https://form.io) - JSON Powered Form and Data Management Platform for Serverless applications.
 * [Formspree](https://formspree.io) - Functional HTML forms.
 * [FormKeep](https://formkeep.com) - Form endpoints for designers and developers. No iframes, JavaScript embeds, or CSS overrides.
+* [Formplug](https://github.com/danielireson/formplug-serverless) - Form forwarding service for AWS Lambda.
 * [Tectite FormMail](http://www.tectite.com/) - FormMail, form Encryption, hosted Forms.
 * [FormAssembly](http://www.formassembly.com/).
 * [Google Forms](https://docs.google.com/forms/) - Create and analyze online forms and surveys.
