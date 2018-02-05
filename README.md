@@ -140,6 +140,7 @@ https://www.quora.com/What-is-serverless-computing
 * [EndlessCommerce](http://www.endless-commerce.com/) - Open source ecommerce platform based on Serverless framework.
 
 ### Content Management Systems
+* [Contentful](https://www.contentful.com/) - A content infrastructure that enables teams to power content in any digital product via a RESTful API.
 * [Storyblok](https://www.storyblok.com/) - API based & Headless CMS - Clean and structured JSON for you as developer and a CMS your editors will fall in love with. Unlimited extensibility through custom plugins.
 * [Tipe](https://tipe.io/) - Next generation serverless CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
 
