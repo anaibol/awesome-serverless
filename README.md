@@ -189,9 +189,11 @@ https://www.quora.com/What-is-serverless-computing
 * [Push Apps](https://www.pushapps.mobi/) Push Notifications Enrichment Platform.
 
 ### Databases
+* [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) - Flexible NoSQL database service
 * [Algolia](https://www.algolia.com) - Hosted cloud search as a service.
 * [FaunaDB](https://fauna.com/) - Pay-as-you-go cloud database with ACID transactions and on-premise licensing available.
 * [Cloudant](https://cloudant.com/) - Based on the Apache-backed CouchDB, Cloudant is the distributed database as a service (DBaaS) built from the ground up to deliver fast-growing application data to the edge.
+
 
 ### Others
 * [Azure Function Library](http://functionlibrary.azurewebsites.net) - An open source set of common use cases for Azure Functions that are ready to deploy!
