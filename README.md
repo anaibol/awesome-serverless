@@ -38,7 +38,7 @@
 https://www.quora.com/What-is-serverless-computing
 
 ### All in one solutions
-* [1Backend](https://1backend.com) - A complete platform with a strong focus on application composability, type safe APIs and client library generation. (Shutting down February 28, 2018)
+* [1Backend](https://1backend.com) - A complete platform with a strong focus on application composability, type safe APIs and client library generation.
 * [Firebase](https://www.firebase.com) - Realtime database, authentication, hosting. A powerful platform for your mobile or web application.
 * [Backendless](https://backendless.com) - Realtime database, authentication, hosting.
 * [Stamplay](https://stamplay.com) - "IFTTT For Back-End Development".
