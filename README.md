@@ -114,6 +114,10 @@ https://www.quora.com/What-is-serverless-computing
 
 * [PureSec](https://www.puresec.io) - Enabling Secure and Reliable Serverless Applications.
 
+### CI/CD 
+
+* [seed.run](https://seed.run) - Seed manages pipelines, configures environments, and monitors deployments for Serverless Framework projects.
+
 ### Logging / Monitoring / Performance / Tracing
 
 * [Dashbird](https://www.dashbird.io) - Performance Tracking and Error Alerting for serverless applications.
