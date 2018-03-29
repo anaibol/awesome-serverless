@@ -119,6 +119,8 @@ https://www.quora.com/What-is-serverless-computing
 * [Dashbird](https://www.dashbird.io) - Performance Tracking and Error Alerting for serverless applications.
 * [IOpipe](https://www.iopipe.com) - Application Performance Monitoring & Management for serverless applications.
 * [Thundra](https://www.thundra.io) - Thundra brings observability into your AWS Lambda functions by bringing metrics, logs, distributed tracing, and alerting together.
+* [Epsagon](https://www.epsagon.com) - Epsagon automatically analyses your serverless application, identifies potential issues, and allows fast troubleshooting.
+
 ### Authentication and authorization
 * [Auth0](https://auth0.com) - Single Sign On & Token Based Authentication.
 * [Amazon Cognito](https://aws.amazon.com/cognito/) - Amazon Cognito lets you easily add user sign-up and sign-in to your mobile and web apps.
