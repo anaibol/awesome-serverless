@@ -118,6 +118,11 @@ https://www.quora.com/What-is-serverless-computing
 
 * [seed.run](https://seed.run) - Seed manages pipelines, configures environments, and monitors deployments for Serverless Framework projects.
 
+### Cost calculators
+
+* [serverlesscalc](http://serverlesscalc.com) - Calculating cost for AWS Lambda, Azure Functions, Google Cloud Functions, and IBM OpenWhisk.
+* [servers.lol](https://servers.lol) - calculator to decide Lambda vs EC2.
+
 ### Logging / Monitoring / Performance / Tracing
 
 * [Dashbird](https://www.dashbird.io) - Performance Tracking and Error Alerting for serverless applications.
