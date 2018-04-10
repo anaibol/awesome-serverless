@@ -225,6 +225,7 @@ https://www.quora.com/What-is-serverless-computing
 * [AWS Lambda Debugger](https://github.com/trek10inc/aws-lambda-debugger) - Remote debugging tool for Lambda functions running on Node 6.10
 * [Local stack](https://localstack.cloud/) - A fully functional local AWS cloud stack
 * [Serverless Brasil](https://serverlessbrasil.org/) - The Serverless Brazilian community
+* [Project Flogo](https://github.com/TIBCOSoftware/flogo) - Project Flogo is an open source framework to simplify building efficient & modern serverless functions and edge microservices.
 
 ### Related articles
 * [Serverless Framework (CloudAcademy)](http://cloudacademy.com/blog/serverless-framework-aws-lambda-api-gateway-python) -  A Deep Overview of the Best AWS Lambda + API Gateway Automation Solution
