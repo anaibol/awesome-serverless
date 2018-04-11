@@ -226,6 +226,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Local stack](https://localstack.cloud/) - A fully functional local AWS cloud stack
 * [Serverless Brasil](https://serverlessbrasil.org/) - The Serverless Brazilian community
 * [Project Flogo](https://github.com/TIBCOSoftware/flogo) - Project Flogo is an open source framework to simplify building efficient & modern serverless functions and edge microservices.
+* [Serverless Examples](https://github.com/serverless/examples) - A collection of boilerplates and examples of serverless architectures built with the Serverless Framework
 
 ### Related articles
 * [Serverless Framework (CloudAcademy)](http://cloudacademy.com/blog/serverless-framework-aws-lambda-api-gateway-python) -  A Deep Overview of the Best AWS Lambda + API Gateway Automation Solution
