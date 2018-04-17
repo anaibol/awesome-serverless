@@ -65,7 +65,7 @@ https://www.quora.com/What-is-serverless-computing
 * <s>[Webscripts](https://www.webscript.io)</s> - Scripting on the web. (Shutting down December 15, 2017)
 * [APItools](https://www.apitools.com) - Troubleshoot, Modify, Monitor API traffic.
 * [Surge](http://surge.sh) - Deploy static sites from the command line.
-* [Netlify](https://netlify.com) - Generate & deploy static sites from git repositories.
+* [Netlify](https://netlify.com) - All-in-one platform for automating modern web projects. Build and host static sites, deploy AWS lambda functions, and more, all from git repositories.
 * [Aerobatic](https://www.aerobatic.com) - Deploy static sites from the command line with plugins including password protection, CORS proxy, and [more](https://www.aerobatic.com/docs/plugins).
 * [Effe](https://github.com/siscia/effe) - a simple Open Source building block to emulate AWS Lambda.
 * [Lever OS](https://github.com/leveros/leveros) - Serverless + Microservices = ♥
