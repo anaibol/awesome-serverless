@@ -72,7 +72,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Now](https://zeit.co/now) - realtime node.js deployments
 * [Brightwork](http://www.brightwork.io/) - Backend in a box for Developers
 * [OpenComponents](https://github.com/opentable/oc) - Serverless microservices for front-end components
-* [Kloudbit](http://www.kloudbit.com/) - Kloudbit helps developers build robust applications without the hassle of backend coding and server management.
+* <s>[Kloudbit](http://www.kloudbit.com/)</s> - Kloudbit helps developers build robust applications without the hassle of backend coding and server management.
 * [Stackery](https://www.stackery.io/) - Stackery enables teams of developers to design, deploy, and monitor their serverless infrastructure on cloud services providers like AWS
 * [Algorithmia](https://algorithmia.com/) - Automating the use of AI/ML models at every scale with the Serverless AI Layer.
 
