@@ -236,6 +236,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Designing Teams around Microservices](https://www.nginx.com/blog/adopting-microservices-at-netflix-lessons-for-team-and-process-design/)
 * [AWS Lambda vs StdLib](http://stdlib.com/aws-lambda)
 * [The Serverless Start-Up - Down With Servers!](http://highscalability.com/blog/2015/12/7/the-serverless-start-up-down-with-servers.html)
+* [Think Serverless!](https://medium.com/think-serverless) - Publications encompassing a deep insight into the future of serverless application development
 * [Microservices without the Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers)
 * [A startup journey on AWS: from bare metal monolith to serverless microservices](https://medium.com/@benorama/a-startup-journey-on-aws-from-bare-metal-monolith-to-serverless-microservices-80231624fbd9)
 * [nobackend.org](http://nobackend.org)
