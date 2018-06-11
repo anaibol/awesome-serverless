@@ -113,6 +113,7 @@ https://www.quora.com/What-is-serverless-computing
 ### Security
 
 * [PureSec](https://www.puresec.io) - Enabling Secure and Reliable Serverless Applications.
+* [Protego](https://www.protego.io) - your apps became serverless. Your security also need to be serverless too.
 
 ### CI/CD 
 
