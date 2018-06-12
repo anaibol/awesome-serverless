@@ -37,9 +37,6 @@
 
 https://www.quora.com/What-is-serverless-computing
 
-### serverless production ready end to end tutorial
-* [serverless-stack](https://serverless-stack.com) - Learn to Build complete Full-Stack Apps with Serverless and React on AWS.
-
 ### All in one solutions
 * [1Backend](https://1backend.com) - A complete platform with a strong focus on application composability, type safe APIs and client library generation. (Shutting down February 28, 2018)
 * [Firebase](https://www.firebase.com) - Realtime database, authentication, hosting. A powerful platform for your mobile or web application.
@@ -259,6 +256,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Serverless JavaScript by Example](https://www.packtpub.com/web-development/serverless-javascript-example-video) - Become dexterous with live demonstrations on serverless web development.
 * [AWS Lambda in Motion](https://www.manning.com/livevideo/aws-lambda-in-motion) - An example-driven tutorial that focuses on helping you understand and tackle the operational challenges with running AWS Lambda in production.
 * [Serverless Applications with AWS](https://www.manning.com/livevideo/serverless-applications-with-AWS) - Serverless Applications with AWS teaches you to build serverless applications using AWS Lambda and other cloud-based services. 
+* [Serverless-stack](https://serverless-stack.com) - Learn to Build complete Full-Stack Apps with Serverless and React on AWS.
 
 ### Workshops
 * [OpenWhisk Workshop](https://www.npmjs.com/package/openwhisk-workshop) - Interactive workshop to learn about building serverless applications with OpenWhisk.
