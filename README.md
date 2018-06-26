@@ -157,6 +157,7 @@ https://www.quora.com/What-is-serverless-computing
 
 ### Content Management Systems
 * [Contentful](https://www.contentful.com/) - A content infrastructure that enables teams to power content in any digital product via a RESTful API.
+* [Lesspod](https://www.lesspod.org/) - The opensource Serverless CMS (web + blog engine) built with vue 2.0, SQLite (localy only) and deployable to Firebase (and more in future).
 * [Storyblok](https://www.storyblok.com/) - API based & Headless CMS - Clean and structured JSON for you as developer and a CMS your editors will fall in love with. Unlimited extensibility through custom plugins.
 * [Tipe](https://tipe.io/) - Next generation serverless CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
 
