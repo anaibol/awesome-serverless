@@ -50,7 +50,7 @@ https://www.quora.com/What-is-serverless-computing
 * [wolkenkit](https://www.wolkenkit.io) - wolkenkit is a CQRS and event-sourcing framework for JavaScript and Node.js which fits perfectly with domain-driven design (DDD).
 
 ### Hosting and code execution in the cloud
-* [Amazon Lambda](https://aws.amazon.com/lambda) - Run code without thinking about servers. Pay for only the compute time you consume.
+* [Amazon Lambda](https://github.com/dhruveshsheladiya/Amazon_lambda_tutorials/blob/master/README.md) - Run code without thinking about servers. Pay for only the compute time you consume.
 * [Google Cloud Functions](https://cloud.google.com/functions/docs) - Lightweight, event-based, asynchronous compute solution that allows you to create small, single-purpose functions that respond to cloud events without the need to manage a server or a runtime environment.
 * [MongoDB Stitch](https://www.mongodb.com/cloud/stitch) - Serverless platform from MongoDB.
 * [Spotinst Functions](https://spotinst.com/products/spotinst-functions/) - Devploy serverless functions with our easy to use framework that launch onto the Spot Market for cheap and convenient use.
