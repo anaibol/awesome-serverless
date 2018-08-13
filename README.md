@@ -5,31 +5,38 @@
 #### A curated list of awesome services, solutions and resources for serverless / nobackend applications.
 
 ### Table of contents
-- [What is "serverless" computing?](#what-is-serverless-computing)
-- [All in one solutions](#all-in-one-solutions)
-- [Hosting and code execution in the cloud](#hosting-and-code-execution-in-the-cloud)
-- [Isomorphic Engines](#isomorphic-engines)
-- [Frameworks](#frameworks)
-- [Security](#security)
-- [Authentication and authorization](#authentication-and-authorization)
-- [Payments](#payments)
-- [eCommerce](#ecommerce)
-- [Content Management Systems](#content-management-systems)
-- [Forms](#forms)
-- [Image management and File storage](#image-management-and-file-storage)
-- [SMS sending](#sms-sending)
-- [Push notifications](#push-notifications)
-- [Email sending, subscriptions and newsletters](#email-sending-subscriptions-and-newsletters)
-- [Databases](#databases)
-- [Others](#others)
-- [Related artices](#related-articles)
-- [Books](#books)
-- [Courses](#courses)
-- [Workshops](#workshops)
-- [Newsletters](#newsletters)
-- [AWS re:Invent videos](#aws-reinvent-videos)
-- [Contributing](#contributing)
-- [License](#license)
+- [:cloud: Awesome Serverless](#cloud-awesome-serverless)
+      - [A curated list of awesome services, solutions and resources for serverless / nobackend applications.](#a-curated-list-of-awesome-services-solutions-and-resources-for-serverless--nobackend-applications)
+    - [Table of contents](#table-of-contents)
+    - [What is "serverless" computing?](#what-is-%22serverless%22-computing)
+    - [All in one solutions](#all-in-one-solutions)
+    - [Hosting and code execution in the cloud](#hosting-and-code-execution-in-the-cloud)
+    - [Isomorphic Engines](#isomorphic-engines)
+    - [Frameworks](#frameworks)
+    - [Security](#security)
+    - [CI/CD](#cicd)
+    - [Cost calculators](#cost-calculators)
+    - [Logging / Monitoring / Performance / Tracing](#logging--monitoring--performance--tracing)
+    - [Authentication and authorization](#authentication-and-authorization)
+    - [Payments](#payments)
+    - [eCommerce](#ecommerce)
+    - [Content Management Systems](#content-management-systems)
+    - [Forms](#forms)
+    - [Image management and File storage](#image-management-and-file-storage)
+    - [Realtime](#realtime)
+    - [Email sending, subscriptions and newsletters](#email-sending-subscriptions-and-newsletters)
+    - [SMS sending](#sms-sending)
+    - [Push notifications](#push-notifications)
+    - [Databases](#databases)
+    - [Others](#others)
+    - [Related articles](#related-articles)
+    - [Books](#books)
+    - [Courses](#courses)
+    - [Workshops](#workshops)
+    - [Newsletters](#newsletters)
+    - [AWS re:Invent videos](#aws-reinvent-videos)
+    - [Contributing](#contributing)
+    - [License](#license)
 
 ### What is "serverless" computing?
 > The phrase “serverless” doesn’t mean servers are no longer involved. It simply means that developers no longer have to think "that much" about them. Computing resources get used as services without having to manage around physical capacities or limits.
@@ -100,6 +107,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Lambdoku](https://github.com/kubek2k/lambdoku) - Heroku-like experience when using AWS Lambda
 * [middy](https://middy.js.org/) - Node.js middleware engine for AWS Lambda
 * [modofun](https://github.com/fptavares/modofun) - A lightweight no-dependencies function router for both AWS Lambda and Google Cloud Functions, and that supports Connect/Express middleware.
+* [Pulumi](https://pulumi.io) - A cloud development platform for serverless, containers, infrastructure. Multi-cloud (and Kubernetes) and works with JS, TS, Python, Go
 * [Python-λ](https://github.com/nficano/python-lambda) - A toolkit for developing and deploying serverless Python code in AWS Lambda
 * [Serverless Framework](http://www.serverless.com) - Build and maintain web, mobile and IoT applications running on AWS Lambda, Azure Cloud Functions, IBM OpenWhisk, and Google Cloud Functions (formerly known as JAWS).
 * [Shep](https://github.com/bustlelabs/shep) - A framework for building APIs using AWS API Gateway and Lambda
