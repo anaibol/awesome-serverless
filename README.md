@@ -35,6 +35,7 @@
     - [Workshops](#workshops)
     - [Newsletters](#newsletters)
     - [AWS re:Invent videos](#aws-reinvent-videos)
+    - [Videos from conferences](#videos-from-conferences)
     - [Contributing](#contributing)
     - [License](#license)
 
@@ -306,6 +307,12 @@ https://www.quora.com/What-is-serverless-computing
 * [Serverless Computing Patterns at Expedia](https://www.youtube.com/watch?v=gT9x9LnU_rE&index=3&list=PLhr1KZpdzukcLUKD2ej8AKYR-nryjGGnF)
 * [Using AWS Lambda to Build Control Systems for Your AWS Infrastructure](https://www.youtube.com/watch?v=vkWGZ3uY0p0&index=2&list=PLhr1KZpdzukcLUKD2ej8AKYR-nryjGGnF)
 * [What’s New with AWS Lambda](https://www.youtube.com/watch?v=CwxWhyGteNc)
+
+### Videos from conferences
+
+- [Serverlessconf](https://www.youtube.com/channel/UCqlcVgk8SkUmve4Kw4xSlgw)
+- [ServerlessDays](https://www.youtube.com/channel/UCYzAnR_SebAmLRkKIbK_YoQ)
+- [GOTO Conferences](https://www.youtube.com/playlist?list=PLEx5khR4g7PJNproQQ4SZ96Qeu-kr-Xbn)
 
 ### Contributing
 You want to contribute to this project? [Please follow these recommendations](CONTRIBUTING.md).
