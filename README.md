@@ -8,7 +8,7 @@
 - [:cloud: Awesome Serverless](#cloud-awesome-serverless)
       - [A curated list of awesome services, solutions and resources for serverless / nobackend applications.](#a-curated-list-of-awesome-services-solutions-and-resources-for-serverless--nobackend-applications)
     - [Table of contents](#table-of-contents)
-    - [What is "serverless" computing?](#what-is-%22serverless%22-computing)
+    - [What is "serverless" computing?](#what-is-serverless-computing)
     - [All in one solutions](#all-in-one-solutions)
     - [Hosting and code execution in the cloud](#hosting-and-code-execution-in-the-cloud)
     - [Isomorphic Engines](#isomorphic-engines)
