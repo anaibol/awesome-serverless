@@ -208,7 +208,8 @@ https://www.quora.com/What-is-serverless-computing
 * [Mailchimp Lambda Single Opt-in](https://github.com/anaibol/lambda-mailchimp-single-opt-in) - An Amazon Lambda function for creating MailChimp subscriptions with single opt-in.
 
 ### SMS sending
-  * [serverless-twilio](https://github.com/eahefnawy/serverless-twilio) - Serverless Module to send SMS via twilio.
+* [serverless-twilio](https://github.com/eahefnawy/serverless-twilio) - Serverless Module to send SMS via twilio.
+* [Amazon SNS](https://aws.amazon.com/sns) - A flexible, fully managed pub/sub messaging and mobile notifications service (including SMS) for coordinating the delivery of messages to subscribing endpoints and clients.
 
 ### Push notifications
 * [Ionic Push Service](http://docs.ionic.io/services/push/) - Notifications for Android, iOS with Ionic Cloud.
