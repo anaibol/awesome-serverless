@@ -93,6 +93,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Aegis](https://github.com/tmaiaroto/aegis) - A Golang serverless application development framework for AWS with deploy tool
 * [Apex](http://apex.run) - Minimal AWS Lambda function manager with support for multiple languages including Nodejs, Golang, Python, Java, Rust and Clojure.
 * [Architect](http://arc.codes) - Provision and deploy from a super simple plaintext manifest
+* [AWS Amplify](https://aws-amplify.github.io/) - A declarative JavaScript library for application development using cloud services.
 * [Up](https://up.docs.apex.sh/) - Deploy infinitely scalable serverless apps, apis, and sites in seconds.
 * [Chalice](https://github.com/awslabs/chalice) - Python serverless microframework from Amazon for AWS lambda
 * [CIM](https://github.com/thestackshack/cim) - A CloudFormation first approach to AWS Lambdas.
