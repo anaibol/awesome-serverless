@@ -81,7 +81,6 @@ https://www.quora.com/What-is-serverless-computing
 * [Effe](https://github.com/siscia/effe) - a simple Open Source building block to emulate AWS Lambda.
 * [Lever OS](https://github.com/leveros/leveros) - Serverless + Microservices = ♥
 * [Now](https://zeit.co/now) - realtime node.js deployments
-* [Brightwork](http://www.brightwork.io/) - Backend in a box for Developers
 * [OpenComponents](https://github.com/opentable/oc) - Serverless microservices for front-end components
 * <s>[Kloudbit](http://www.kloudbit.com/)</s> - Kloudbit helps developers build robust applications without the hassle of backend coding and server management.
 * [Stackery](https://www.stackery.io/) - Stackery enables teams of developers to design, deploy, and monitor their serverless infrastructure on cloud services providers like AWS
