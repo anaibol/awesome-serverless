@@ -236,6 +236,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Algolia](https://www.algolia.com) - Hosted cloud search as a service.
 * [FaunaDB](https://fauna.com/) - Pay-as-you-go cloud database with ACID transactions and on-premise licensing available.
 * [Cloudant](https://cloudant.com/) - Based on the Apache-backed CouchDB, Cloudant is the distributed database as a service (DBaaS) built from the ground up to deliver fast-growing application data to the edge.
+* [Azure CosmosDB](https://azure.microsoft.com/en-us/services/cosmos-db/) - Globally distributed, multi-model database service
 
 
 ### Others
