@@ -134,6 +134,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Serverless Security Top 10 Guide](https://github.com/puresec/sas-top-10) - The Ten Most Critical Risks for Serverless Applications.
 * [AWS Lambda Security Quick-Start Guide](https://www.puresec.io/blog/aws-lambda-security-quick-guide) - A Quick-Start guide for AWS Lambda Security
 * [AWS Security Best Practices: Config Rules for AWS Lambda Security](https://www.puresec.io/blog/aws-security-best-practices-config-rules-lambda-security) - A guide on how to use AWS Config rules for governing and securing your Lambda functions, with a free set of 4 open source rules developed in SAM.
+* [Using AWS CloudTrail to enhance your serverless application security](https://serverless.com/blog/cloudtrail-security) - A guide on how to use CloudTrail to improve AWS Lambda security posture.
 * [Protego](https://www.protego.io) - your apps became serverless. Your security also need to be serverless too.
 
 ### CI/CD 
