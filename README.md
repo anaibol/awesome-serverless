@@ -67,6 +67,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Azure Functions](https://azure.microsoft.com/en-us/services/functions) - Listen and react to events across your stack.
 * [Fission](http://fission.io) - Fast, extensible, open source serverless functions on any Kubernetes cluster
 * [IBM Cloud Functions](https://console.bluemix.net/openwhisk/) - Distributed compute service to execute application logic in response to events.
+* [Knative](https://github.com/knative/) - Kubernetes-based platform to build, deploy, and manage modern serverless workloads
 * [Kubeless](https://github.com/kubeless/kubeless) - is a Kubernetes-native serverless solution.
 * [iron.io](https://www.iron.io/platform/ironworker) - Isolates code and dependencies of individual tasks so they can be processed on demand.
 * [weblab.io](https://weblab.io) - Microservices at your fingertips.
