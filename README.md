@@ -138,7 +138,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Using AWS CloudTrail to enhance your serverless application security](https://serverless.com/blog/cloudtrail-security) - A guide on how to use CloudTrail to improve AWS Lambda security posture.
 * [Protego](https://www.protego.io) - your apps became serverless. Your security also need to be serverless too.
 
-### CI/CD 
+### CI/CD
 
 * [seed.run](https://seed.run) - Seed manages pipelines, configures environments, and monitors deployments for Serverless Framework projects.
 
@@ -182,7 +182,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Contentful](https://www.contentful.com/) - A content infrastructure that enables teams to power content in any digital product via a RESTful API.
 * [Lesspod](https://www.lesspod.org/) - The opensource Serverless CMS (web + blog engine) built with vue 2.0, SQLite (localy only) and deployable to Firebase (and more in future).
 * [Storyblok](https://www.storyblok.com/) - API based & Headless CMS - Clean and structured JSON for you as developer and a CMS your editors will fall in love with. Unlimited extensibility through custom plugins.
-* [TakeShape](https://www.takeshape.io/) - Content-as-a-Service via a powerful GraphQL API and integrated SSG for teams that want to stay focused on their product.  
+* [TakeShape](https://www.takeshape.io/) - Content-as-a-Service via a powerful GraphQL API and integrated SSG for teams that want to stay focused on their product.
 * [Tipe](https://tipe.io/) - Next generation serverless CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
 
 ### Forms
@@ -197,7 +197,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Wufoo](http://www.wufoo.com/).
 * [TellForm](http://www.tellform.com/) - A free, opensource form builder similar to Google Forms or TypeForm that can create stunning forms for recruiting, market research and more.
 * [Pageclip](https://pageclip.co/) - A Server for your HTML Forms - Collect info from users without a server—Pageclip is your server. Lead capture forms, surveys, newsletter forms, contact forms, etc. Setup any form in seconds.
-* [Typeform](https://www.typeform.com/) - Pretty, intuitive, slick forms for almost any use. 
+* [Typeform](https://www.typeform.com/) - Pretty, intuitive, slick forms for almost any use.
 
 ### Image management and File storage
 * [Filestack](https://www.filestack.com) - Image management system with Filestack - upload files, transform images, videos, and documents, store content and deliver fast via CDN.
@@ -254,7 +254,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Docker Lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
 * [faas](https://github.com/alexellis/faas) - Run Docker containers as functions on Swarm Mode ([blog post](http://blog.alexellis.io/functions-as-a-service/))
 * [FunctionCI](https://github.com/rgfindl/functionci) - Continuous Integration for AWS Lambdas.
-* [gofn](https://github.com/nuveo/gofn) - Go package for function process via container provider (serverless minimalist) 
+* [gofn](https://github.com/nuveo/gofn) - Go package for function process via container provider (serverless minimalist)
 * [Lambda Comments](https://github.com/jimpick/lambda-comments) - Blog commenting system built with AWS Lambda
 * [LambCI](https://github.com/lambci/lambci) - A continuous integration system built on AWS Lambda
 * [LambStatus](https://github.com/ks888/LambStatus) - A status page system built on AWS Lambda ([demo](https://lambstatus.github.io/demo-status/))
@@ -299,12 +299,11 @@ https://www.quora.com/What-is-serverless-computing
 * [Cloud Native Applications](https://www.manning.com/books/cloud-native-applications) free eBook: an introduction into the world of cloud computing and insights into what is possible with cloud services.
 * [Exploring Cloud Computing](https://www.manning.com/books/exploring-cloud-computing) free eBook: an introduction to the two most popular cloud providers, Amazon and Google, and insights to help you get started.
 * [Developing Serverless Applications - A Practical Introduction with Apache OpenWhisk](http://www.oreilly.com/programming/free/developing-serverless-applications.csp) free ebook focused on doing serverless with OpenWhisk.
-* [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) A book that teaches you the skills and knowledge you need to create, deploy, and manage applications hosted in Docker containers and it has been fully updated with new examples, best practices, and entirely new chapters. 
+* [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) A book that teaches you the skills and knowledge you need to create, deploy, and manage applications hosted in Docker containers and it has been fully updated with new examples, best practices, and entirely new chapters.
 ### Courses
 * [Serverless JavaScript by Example](https://www.packtpub.com/web-development/serverless-javascript-example-video) - Become dexterous with live demonstrations on serverless web development.
 * [AWS Lambda in Motion](https://www.manning.com/livevideo/aws-lambda-in-motion) - An example-driven tutorial that focuses on helping you understand and tackle the operational challenges with running AWS Lambda in production.
-* [Serverless Applications with AWS](https://www.manning.com/livevideo/serverless-applications-with-AWS) - Serverless Applications with AWS teaches you to build serverless applications using AWS Lambda and other cloud-based services. 
-* [Serverless-stack](https://serverless-stack.com) - Learn to Build complete Full-Stack Apps with Serverless and React on AWS.
+* [Serverless Applications with AWS](https://www.manning.com/livevideo/serverless-applications-with-AWS) - Serverless Applications with AWS teaches you to build serverless applications using AWS Lambda and other cloud-based services.
 * [Serverless-stack](https://serverless-stack.com) - Learn to Build complete Full-Stack Apps with Serverless and React on AWS.
 * [Develop a Serverless Backend using Node.js on AWS Lambda](https://egghead.io/courses/develop-a-serverless-backend-using-node-js-on-aws-lambda) - Learn how to create a serverless API and connecting it to DynamoDB using leveraging Lambda's new async/await syntax
 
