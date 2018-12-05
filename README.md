@@ -129,6 +129,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Fission Workflows](https://github.com/fission/fission-workflows) - Fast workflow-based function composition for serverless functions
 * [azure-functions-express](https://github.com/yvele/azure-function-express) - Allows Express.js usage with Azure Functions
 * [Riff](https://projectriff.io/) - Kubernetes based serverless framework supporting multiple languages.
+* [FuseLess](https://fuseless.org/) - toolkit for running functions written in CFML (ColdFusion Markup Language) on AWS Lambda.
 
 ### Security
 
