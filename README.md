@@ -243,7 +243,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Cloudant](https://cloudant.com/) - Based on the Apache-backed CouchDB, Cloudant is the distributed database as a service (DBaaS) built from the ground up to deliver fast-growing application data to the edge.
 * [Azure CosmosDB](https://azure.microsoft.com/en-us/services/cosmos-db/) - Globally distributed, multi-model database service
 * [Cube.js](https://github.com/statsbotco/cubejs-client) - Hosted analytics platform for serverless apps.
-
+* [Google Cloud Datastore](https://cloud.google.com/datastore/) - Hosted NoSQL database service by Google
 
 ### Others
 * [Azure Function Library](http://functionlibrary.azurewebsites.net) - An open source set of common use cases for Azure Functions that are ready to deploy!
