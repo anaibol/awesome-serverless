@@ -60,6 +60,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Para](https://paraio.com) - Flexible and lightweight backend service for rapid prototyping, based on open source software.
 * <s>[Backand](https://www.backand.com)</s> - One platform to develop and run multi-cloud Serverless applications.
 * [wolkenkit](https://www.wolkenkit.io) - wolkenkit is a CQRS and event-sourcing framework for JavaScript and Node.js which fits perfectly with domain-driven design (DDD).
+* [Kuzzle](https://kuzzle.io) - High performance cloud agnostic backend solution including persistence, authentication, realtime database and geofencing with a full featured cluster mode.
 
 ### Hosting and code execution in the cloud
 * [Amazon Lambda](https://aws.amazon.com/lambda) - Run code without thinking about servers. Pay for only the compute time you consume.
