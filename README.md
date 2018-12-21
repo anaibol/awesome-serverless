@@ -18,6 +18,7 @@
     - [Cost calculators](#cost-calculators)
     - [Logging / Monitoring / Performance / Tracing](#logging--monitoring--performance--tracing)
     - [Authentication and authorization](#authentication-and-authorization)
+    - [IAM](#iam)
     - [Payments](#payments)
     - [eCommerce](#ecommerce)
     - [Content Management Systems](#content-management-systems)
@@ -39,6 +40,7 @@
     - [Videos from conferences](#videos-from-conferences)
     - [Contributing](#contributing)
     - [License](#license)
+    - [Serverless Manifiesto](#serverless-manifiesto)
 
 ### What is "serverless" computing?
 > The phrase “serverless” doesn’t mean servers are no longer involved. It simply means that developers no longer have to think "that much" about them. Computing resources get used as services without having to manage around physical capacities or limits.
@@ -134,6 +136,7 @@ https://www.quora.com/What-is-serverless-computing
 
 * [PureSec](https://www.puresec.io) - Enabling Secure and Reliable Serverless Applications.
 * [Serverless Security Top 10 Guide](https://github.com/puresec/sas-top-10) - The Ten Most Critical Risks for Serverless Applications.
+* [AWS Lambda Security Best-Practices eBook](https://www.puresec.io/aws-lambda-security-best-practices) - An AWS Lambda security best-practices eBook
 * [AWS Lambda Security Quick-Start Guide](https://www.puresec.io/blog/aws-lambda-security-quick-guide) - A Quick-Start guide for AWS Lambda Security
 * [AWS Security Best Practices: Config Rules for AWS Lambda Security](https://www.puresec.io/blog/aws-security-best-practices-config-rules-lambda-security) - A guide on how to use AWS Config rules for governing and securing your Lambda functions, with a free set of 4 open source rules developed in SAM.
 * [Using AWS CloudTrail to enhance your serverless application security](https://serverless.com/blog/cloudtrail-security) - A guide on how to use CloudTrail to improve AWS Lambda security posture.
