@@ -147,6 +147,7 @@ https://www.quora.com/What-is-serverless-computing
 ### CI/CD
 
 * [seed.run](https://seed.run) - Seed manages pipelines, configures environments, and monitors deployments for Serverless Framework projects.
+* [AWS Lambda Test Runner](https://github.com/automatictester/lambda-test-runner) - Run your unit tests with Maven or SBT directly on AWS Lambda.
 
 ### Cost calculators
 
