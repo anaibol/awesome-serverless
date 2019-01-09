@@ -23,7 +23,7 @@
     - [eCommerce](#ecommerce)
     - [Content Management Systems](#content-management-systems)
     - [Forms](#forms)
-    - [Image management and File storage](#image-management-and-file-storage)
+    - [Media management and File storage](#media-management-and-file-storage)
     - [Realtime](#realtime)
     - [Scheduling](#scheduling)
     - [Email sending, subscriptions and newsletters](#email-sending-subscriptions-and-newsletters)
@@ -191,6 +191,8 @@ https://www.quora.com/What-is-serverless-computing
 * [Storyblok](https://www.storyblok.com/) - API based & Headless CMS - Clean and structured JSON for you as developer and a CMS your editors will fall in love with. Unlimited extensibility through custom plugins.
 * [TakeShape](https://www.takeshape.io/) - Content-as-a-Service via a powerful GraphQL API and integrated SSG for teams that want to stay focused on their product.
 * [Tipe](https://tipe.io/) - Next generation serverless CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
+* [Sanity](https://sanity.io) - A hosted backend for structured content with a real-time API, globally distributed CDN, and a powerful, but simple query language.
+* [Cosmicjs](https://cosmicjs.com) - API-first CMS for building content-powered apps in any programming language.
 
 ### Forms
 * [Form.io](https://form.io) - JSON Powered Form and Data Management Platform for Serverless applications.
@@ -206,12 +208,13 @@ https://www.quora.com/What-is-serverless-computing
 * [Pageclip](https://pageclip.co/) - A Server for your HTML Forms - Collect info from users without a server—Pageclip is your server. Lead capture forms, surveys, newsletter forms, contact forms, etc. Setup any form in seconds.
 * [Typeform](https://www.typeform.com/) - Pretty, intuitive, slick forms for almost any use.
 
-### Image management and File storage
+### Media management and File storage
 * [Filestack](https://www.filestack.com) - Image management system with Filestack - upload files, transform images, videos, and documents, store content and deliver fast via CDN.
 * [Kloudless](https://kloudless.com) - Integrate with one, universal API and connect to many file storage and CRM services.
 * [Uploadcare](https://uploadcare.com) - HTML5 widget, API to manage files in cloud storage, smart and fast CDN to deliver them to your end users. Crop, resize and transform uploaded images using URL commands.
 * [ReSRC.it](https://www.resrc.it/) - The Responsive Image Service that delivers brilliantly optimized, pixel perfect images to any device.
 * [Letter Avatar](https://github.com/kevincolemaninc/letter-avatar-serverless) - Generates Google-like binary avatar images
+* [Mux](https://mux.com) - Streaming video infrastructure for developers. Add a live stream or upload a video file, then get thumbnails, animated gifs and more via simple API calls.
 
 ### Realtime
 * [Ably](https://www.ably.io/) - Global distributed realtime data delivery platform with pub/sub, presence, device awareness, history, connection state recovery, authentication and encryption.
@@ -310,6 +313,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Exploring Cloud Computing](https://www.manning.com/books/exploring-cloud-computing) free eBook: an introduction to the two most popular cloud providers, Amazon and Google, and insights to help you get started.
 * [Developing Serverless Applications - A Practical Introduction with Apache OpenWhisk](http://www.oreilly.com/programming/free/developing-serverless-applications.csp) free ebook focused on doing serverless with OpenWhisk.
 * [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) A book that teaches you the skills and knowledge you need to create, deploy, and manage applications hosted in Docker containers and it has been fully updated with new examples, best practices, and entirely new chapters.
+
 ### Courses
 * [Serverless JavaScript by Example](https://www.packtpub.com/web-development/serverless-javascript-example-video) - Become dexterous with live demonstrations on serverless web development.
 * [AWS Lambda in Motion](https://www.manning.com/livevideo/aws-lambda-in-motion) - An example-driven tutorial that focuses on helping you understand and tackle the operational challenges with running AWS Lambda in production.
