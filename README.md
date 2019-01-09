@@ -87,6 +87,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Now](https://zeit.co/now) - realtime node.js deployments
 * [OpenComponents](https://github.com/opentable/oc) - Serverless microservices for front-end components
 * <s>[Kloudbit](http://www.kloudbit.com/)</s> - Kloudbit helps developers build robust applications without the hassle of backend coding and server management.
+* [OpenFaaS Cloud](https://github.com/openfaas/openfaas-cloud) - OpenFaaS Cloud: multi-user serverless functions driven by git
 * [Stackery](https://www.stackery.io/) - Stackery enables teams of developers to design, deploy, and monitor their serverless infrastructure on cloud services providers like AWS
 * [Algorithmia](https://algorithmia.com/) - Automating the use of AI/ML models at every scale with the Serverless AI Layer.
 * [TriggerMesh](https://www.triggermesh.com) - Serverless Management Platform with advanced event triggers
@@ -117,6 +118,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Lambdoku](https://github.com/kubek2k/lambdoku) - Heroku-like experience when using AWS Lambda
 * [middy](https://middy.js.org/) - Node.js middleware engine for AWS Lambda
 * [modofun](https://github.com/fptavares/modofun) - A lightweight no-dependencies function router for both AWS Lambda and Google Cloud Functions, and that supports Connect/Express middleware.
+* [OpenFaaS](https://docs.openfaas.com/) - Serverless Functions Made Simple for Docker and Kubernetes
 * [Pulumi](https://pulumi.io) - A cloud development platform for serverless, containers, infrastructure. Multi-cloud (and Kubernetes) and works with JS, TS, Python, Go
 * [Python-λ](https://github.com/nficano/python-lambda) - A toolkit for developing and deploying serverless Python code in AWS Lambda
 * [Serverless Framework](http://www.serverless.com) - Build and maintain web, mobile and IoT applications running on AWS Lambda, Azure Cloud Functions, IBM OpenWhisk, and Google Cloud Functions (formerly known as JAWS).
