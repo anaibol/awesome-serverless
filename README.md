@@ -110,6 +110,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Gordon](https://github.com/jorgebastida/gordon) - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation
 * [Gestalt Framework](http://www.galacticfog.com/product.html) - Gestalt's Lambda Application SERver (LASER)” for short, is a lambda service that supports running .Net, Javascript, Java, Scala, Ruby, and Python lambdas.
 * [IronFunctions](https://github.com/iron-io/functions) - The Serverless Microservices platform
+* [Jets](https://github.com/tongueroo/jets) - Ruby Serverless Framework for AWS. Jets allows you to create serverless applications with a beautiful language: Ruby. It includes everything required to build an application and deploy it to AWS Lambda.
 * [Kappa](https://github.com/garnaat/kappa) - a command line tool that (hopefully) makes it easier to deploy, update, and test functions for AWS Lambda.
 * [Lambda API](https://github.com/jeremydaly/lambda-api) - Lightweight web framework for your serverless applications
 * [Lambda Forest](https://github.com/tdsis/lambda-forest) - Microframework that makes it easier to develop REST API's using AWS Lambda Function and API Gateway.
