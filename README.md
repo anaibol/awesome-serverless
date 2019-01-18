@@ -123,6 +123,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Pulumi](https://pulumi.io) - A cloud development platform for serverless, containers, infrastructure. Multi-cloud (and Kubernetes) and works with JS, TS, Python, Go
 * [Python-λ](https://github.com/nficano/python-lambda) - A toolkit for developing and deploying serverless Python code in AWS Lambda
 * [Serverless Framework](http://www.serverless.com) - Build and maintain web, mobile and IoT applications running on AWS Lambda, Azure Cloud Functions, IBM OpenWhisk, and Google Cloud Functions (formerly known as JAWS).
+* [Serverless Compose](https://github.com/DavidJFelix/serverless-compose) - A lightweight, functional, composable, middleware framework for AWS lambda that stays out of the way.
 * [Shep](https://github.com/bustlelabs/shep) - A framework for building APIs using AWS API Gateway and Lambda
 * [Sigma](https://sigma.slappforge.com) - An all-in-one, browser-based IDE toolkit for drag-n-drop composing, testing and deploying of serverless applications, with fully automated configuration management
 * [Sparta](http://gosparta.io) - A framework that transforms a Go application into an AWS Lambda powered microservice.
