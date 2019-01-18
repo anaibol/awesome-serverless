@@ -8,7 +8,7 @@
 - [:cloud: Awesome Serverless](#cloud-awesome-serverless)
       - [A curated list of awesome services, solutions and resources for serverless / nobackend applications.](#a-curated-list-of-awesome-services-solutions-and-resources-for-serverless--nobackend-applications)
     - [Table of contents](#table-of-contents)
-    - [What is "serverless" computing?](#what-is-serverless-computing)
+    - [What is "serverless" computing?](#what-is-%22serverless%22-computing)
     - [All in one solutions](#all-in-one-solutions)
     - [Hosting and code execution in the cloud](#hosting-and-code-execution-in-the-cloud)
     - [Isomorphic Engines](#isomorphic-engines)
@@ -145,6 +145,8 @@ https://www.quora.com/What-is-serverless-computing
 * [AWS Lambda Security Quick-Start Guide](https://www.puresec.io/blog/aws-lambda-security-quick-guide) - A Quick-Start guide for AWS Lambda Security
 * [AWS Security Best Practices: Config Rules for AWS Lambda Security](https://www.puresec.io/blog/aws-security-best-practices-config-rules-lambda-security) - A guide on how to use AWS Config rules for governing and securing your Lambda functions, with a free set of 4 open source rules developed in SAM.
 * [Using AWS CloudTrail to enhance your serverless application security](https://serverless.com/blog/cloudtrail-security) - A guide on how to use CloudTrail to improve AWS Lambda security posture.
+* [OWASP ServerlessGoat](https://www.owasp.org/index.php/OWASP_Serverless_Goat) - OWASP ServerlessGoat is a deliberately insecure realistic AWS Lambda serverless application, maintained by OWASP and contributed by PureSec. Install ServerlessGoat and learn about the vulnerabilities, how to exploit them, and how to remediate each issue. Installation is just a 1-click through the [AWS Serverless Application Repository](https://serverlessrepo.aws.amazon.com/applications/arn:aws:serverlessrepo:us-east-1:761130837472:applications~serverless-goat)
+* [Awesome-Serverless-Security](https://github.com/puresec/awesome-serverless-security/) - A curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
 * [Protego](https://www.protego.io) - your apps became serverless. Your security also need to be serverless too.
 
 ### CI/CD
