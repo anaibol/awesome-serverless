@@ -198,6 +198,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Cosmicjs](https://cosmicjs.com) - API-first CMS for building content-powered apps in any programming language.
 * [Lesspod](https://www.lesspod.org/) - The opensource Serverless CMS (web + blog engine) built with vue 2.0, SQLite (localy only) and deployable to Firebase (and more in future).
 * [Sanity](https://sanity.io) - A hosted backend for structured content with a real-time API, globally distributed CDN, and a powerful, but simple query language.
+* [Serverless-content](https://github.com/anddimario/serverless-content) - Multisite cms on aws lambda, dynamodb and s3.
 * [Storyblok](https://www.storyblok.com/) - API based & Headless CMS - Clean and structured JSON for you as developer and a CMS your editors will fall in love with. Unlimited extensibility through custom plugins.
 * [TakeShape](https://www.takeshape.io/) - Content-as-a-Service via a powerful GraphQL API and integrated SSG for teams that want to stay focused on their product.
 * [Tipe](https://tipe.io/) - Next generation serverless CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
