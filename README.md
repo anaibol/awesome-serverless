@@ -67,7 +67,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Amazon Lambda](https://aws.amazon.com/lambda) - Run code without thinking about servers. Pay for only the compute time you consume.
 * [Google Cloud Functions](https://cloud.google.com/functions/docs) - Lightweight, event-based, asynchronous compute solution that allows you to create small, single-purpose functions that respond to cloud events without the need to manage a server or a runtime environment.
 * [MongoDB Stitch](https://www.mongodb.com/cloud/stitch) - Serverless platform from MongoDB.
-* [Spotinst Functions](https://spotinst.com/products/spotinst-functions/) - Devploy serverless functions with our easy to use framework that launch onto the Spot Market for cheap and convenient use.
+* [Spotinst Functions](https://spotinst.com/products/spotinst-functions/) - Deploy serverless functions with our easy to use framework that launch onto the Spot Market for cheap and convenient use.
 * [Azure Functions](https://azure.microsoft.com/en-us/services/functions) - Listen and react to events across your stack.
 * [Fission](http://fission.io) - Fast, extensible, open source serverless functions on any Kubernetes cluster
 * [IBM Cloud Functions](https://console.bluemix.net/openwhisk/) - Distributed compute service to execute application logic in response to events.
