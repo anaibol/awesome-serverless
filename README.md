@@ -93,6 +93,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Stackery](https://www.stackery.io/) - Stackery enables teams of developers to design, deploy, and monitor their serverless infrastructure on cloud services providers like AWS.
 * [Algorithmia](https://algorithmia.com/) - Automating the use of AI/ML models at every scale with the Serverless AI Layer.
 * [TriggerMesh](https://www.triggermesh.com) - Serverless Management Platform with advanced event triggers.
+* [Cloudflare Workers](https://www.cloudflareworkers.com) - Workers allow you to deploy Serverless apps to 165+ data centers across the globe simultaneously, along with the ability to agument or alter exsisting websites and APIs on the fly.
 
 ### Isomorphic Engines
 * [lychee.js](https://github.com/Artificial-Engineering/lycheejs) - Isomorphic adapters allow peer-to-peer event-graphed WebSockets and HTTP1.1, SPDY and HTTP2.0 sockets for node, node-sdl, html, html-nwjs and html-webview (both native and embedded).
