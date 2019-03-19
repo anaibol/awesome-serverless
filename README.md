@@ -191,6 +191,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Stripe Lambda function](https://github.com/TaylorBriggs/stripe-lambda) - A Lambda function for charging cards with Stripe.
 <!---* [check digit](http://chkdgt.com) - -->
 * [GCF-Stripe](https://github.com/rldaulton/GCF-Stripe) - serverless use of Stripe over Google Cloud Functions.
+* [Stripe Azure function](https://github.com/sdras/sample-stripe-handler) - An Azure Function that uses the Stripe api for a checkout process in a Vue application
 
 ### eCommerce
 * [Snipcart](https://snipcart.com) - Fully customizable, HTML and JavaScript-based shopping cart for any website.
@@ -327,6 +328,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Developing Serverless Applications - A Practical Introduction with Apache OpenWhisk](http://www.oreilly.com/programming/free/developing-serverless-applications.csp) free ebook focused on doing serverless with OpenWhisk.
 * [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) A book that teaches you the skills and knowledge you need to create, deploy, and manage applications hosted in Docker containers and it has been fully updated with new examples, best practices, and entirely new chapters.
 * [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition) A book that teaches rock-solid, tested Docker techniques, enabling microservices architecture, efficient network modeling, offline productivity, and establishing a container-driven continuous delivery process.
+* [Azure Serverless Computing Cookbook](https://azure.microsoft.com/en-us/resources/azure-serverless-computing-cookbook) free eBook: Learn how to build scalable, serverless apps with these easy-to-follow recipes
 
 ### Courses
 * [Serverless JavaScript by Example](https://www.packtpub.com/web-development/serverless-javascript-example-video) - Become dexterous with live demonstrations on serverless web development.
@@ -343,6 +345,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Serverless Status](https://serverless.email/) - A weekly digest of the latest serverless news and articles.
 * [Serverless Insights](https://symphonia.us15.list-manage.com/subscribe?u=8fe3a0d260ada7ca9aafdbf14&id=d4b4244107) - Symphonia's Serverless Insights
 * [Cold Start](https://www.serverlessops.io/blog/cold-start-the-event-to-start-your-week) - Keep up with serverless ops and serverless community at large each Monday afternoon
+* [Off-by-none](https://www.jeremydaly.com/newsletter/) - Weekly newsletter that focuses on using serverless technology to build products in the cloud
 
 ### AWS re:Invent videos
 * [↑↑↓↓←→←→ BA Lambda Start](https://www.youtube.com/watch?v=iz90fHia-Wk&index=4&list=PLhr1KZpdzukcLUKD2ej8AKYR-nryjGGnF)
