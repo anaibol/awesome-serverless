@@ -168,6 +168,7 @@ https://www.quora.com/What-is-serverless-computing
 
 ### Logging / Monitoring / Performance / Tracing
 
+* [AWS IoT Button logger to git](https://github.com/kachkaev/aws-iot-button-logger-to-git/) - A simple and customisable AWS Lambda function that logs events from IoT devices into a git repository of your choice.
 * [Dashbird](https://www.dashbird.io) - Performance Tracking and Error Alerting for serverless applications.
 * [IOpipe](https://www.iopipe.com) - Application Performance Monitoring & Management for serverless applications.
 * [Thundra](https://www.thundra.io) - Thundra brings observability into your AWS Lambda functions by bringing metrics, logs, distributed tracing, and alerting together.
