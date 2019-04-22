@@ -115,6 +115,7 @@ https://www.quora.com/What-is-serverless-computing
 * [IronFunctions](https://github.com/iron-io/functions) - The Serverless Microservices platform.
 * [Jets](https://github.com/tongueroo/jets) - Ruby Serverless Framework for AWS. Jets allows you to create serverless applications with a beautiful language: Ruby. It includes everything required to build an application and deploy it to AWS Lambda.
 * [Kappa](https://github.com/garnaat/kappa) - a command line tool that (hopefully) makes it easier to deploy, update, and test functions for AWS Lambda.
+* [Laconia](http://laconiajs.io) - A microframework for building Node.js serverless applications (AWS Lambda). Create well-crafted serverless applications, effortlessly!
 * [Lambda API](https://github.com/jeremydaly/lambda-api) - Lightweight web framework for your serverless applications.
 * [Lambda Forest](https://github.com/tdsis/lambda-forest) - Microframework that makes it easier to develop REST API's using AWS Lambda Function and API Gateway.
 * [Lambada Framework](https://github.com/lambadaframework/lambadaframework) - JAX-RS implementation for AWS Lambda.
