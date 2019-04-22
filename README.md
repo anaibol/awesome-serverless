@@ -331,6 +331,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) A book that teaches you the skills and knowledge you need to create, deploy, and manage applications hosted in Docker containers and it has been fully updated with new examples, best practices, and entirely new chapters.
 * [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition) A book that teaches rock-solid, tested Docker techniques, enabling microservices architecture, efficient network modeling, offline productivity, and establishing a container-driven continuous delivery process.
 * [Azure Serverless Computing Cookbook](https://azure.microsoft.com/en-us/resources/azure-serverless-computing-cookbook) free eBook: Learn how to build scalable, serverless apps with these easy-to-follow recipes
+* [AI as a Service](https://www.manning.com/books/ai-as-a-service) A book that teaches you how to harness the power of cloud-based AI services and serverless computing. An engineering approach to serverless AI.
 
 ### Courses
 * [Serverless JavaScript by Example](https://www.packtpub.com/web-development/serverless-javascript-example-video) - Become dexterous with live demonstrations on serverless web development.
