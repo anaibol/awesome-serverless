@@ -115,6 +115,7 @@ https://www.quora.com/What-is-serverless-computing
 * [IronFunctions](https://github.com/iron-io/functions) - The Serverless Microservices platform.
 * [Jets](https://github.com/tongueroo/jets) - Ruby Serverless Framework for AWS. Jets allows you to create serverless applications with a beautiful language: Ruby. It includes everything required to build an application and deploy it to AWS Lambda.
 * [Kappa](https://github.com/garnaat/kappa) - a command line tool that (hopefully) makes it easier to deploy, update, and test functions for AWS Lambda.
+* [Laconia](http://laconiajs.io) - A microframework for building Node.js serverless applications (AWS Lambda). Create well-crafted serverless applications, effortlessly!
 * [Lambda API](https://github.com/jeremydaly/lambda-api) - Lightweight web framework for your serverless applications.
 * [Lambda Forest](https://github.com/tdsis/lambda-forest) - Microframework that makes it easier to develop REST API's using AWS Lambda Function and API Gateway.
 * [Lambada Framework](https://github.com/lambadaframework/lambadaframework) - JAX-RS implementation for AWS Lambda.
@@ -140,6 +141,8 @@ https://www.quora.com/What-is-serverless-computing
 * [azure-functions-express](https://github.com/yvele/azure-function-express) - Allows Express.js usage with Azure Functions.
 * [Riff](https://projectriff.io/) - Kubernetes based serverless framework supporting multiple languages.
 * [FuseLess](https://fuseless.org/) - toolkit for running functions written in CFML (ColdFusion Markup Language) on AWS Lambda.
+* [DropFaaS](https://dropfaas.com/) - Serverless framework for running functions written in any languages.
+
 
 ### Security
 
@@ -166,6 +169,7 @@ https://www.quora.com/What-is-serverless-computing
 
 ### Logging / Monitoring / Performance / Tracing
 
+* [AWS IoT Button logger to git](https://github.com/kachkaev/aws-iot-button-logger-to-git/) - A simple and customisable AWS Lambda function that logs events from IoT devices into a git repository of your choice.
 * [Dashbird](https://www.dashbird.io) - Performance Tracking and Error Alerting for serverless applications.
 * [IOpipe](https://www.iopipe.com) - Application Performance Monitoring & Management for serverless applications.
 * [Thundra](https://www.thundra.io) - Thundra brings observability into your AWS Lambda functions by bringing metrics, logs, distributed tracing, and alerting together.
@@ -189,6 +193,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Stripe Lambda function](https://github.com/TaylorBriggs/stripe-lambda) - A Lambda function for charging cards with Stripe.
 <!---* [check digit](http://chkdgt.com) - -->
 * [GCF-Stripe](https://github.com/rldaulton/GCF-Stripe) - serverless use of Stripe over Google Cloud Functions.
+* [Stripe Azure function](https://github.com/sdras/sample-stripe-handler) - An Azure Function that uses the Stripe api for a checkout process in a Vue application
 
 ### eCommerce
 * [Snipcart](https://snipcart.com) - Fully customizable, HTML and JavaScript-based shopping cart for any website.
@@ -203,6 +208,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Storyblok](https://www.storyblok.com/) - API based & Headless CMS - Clean and structured JSON for you as developer and a CMS your editors will fall in love with. Unlimited extensibility through custom plugins.
 * [TakeShape](https://www.takeshape.io/) - Content-as-a-Service via a powerful GraphQL API and integrated SSG for teams that want to stay focused on their product.
 * [Tipe](https://tipe.io/) - Next generation serverless CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
+* [Webiny](https://www.webiny.com/) - Developer-friendly Serverless CMS powered by GraphQL and React.
 
 ### Forms
 * [Form.io](https://form.io) - JSON Powered Form and Data Management Platform for Serverless applications.
@@ -325,6 +331,8 @@ https://www.quora.com/What-is-serverless-computing
 * [Developing Serverless Applications - A Practical Introduction with Apache OpenWhisk](http://www.oreilly.com/programming/free/developing-serverless-applications.csp) free ebook focused on doing serverless with OpenWhisk.
 * [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) A book that teaches you the skills and knowledge you need to create, deploy, and manage applications hosted in Docker containers and it has been fully updated with new examples, best practices, and entirely new chapters.
 * [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition) A book that teaches rock-solid, tested Docker techniques, enabling microservices architecture, efficient network modeling, offline productivity, and establishing a container-driven continuous delivery process.
+* [Azure Serverless Computing Cookbook](https://azure.microsoft.com/en-us/resources/azure-serverless-computing-cookbook) free eBook: Learn how to build scalable, serverless apps with these easy-to-follow recipes
+* [AI as a Service](https://www.manning.com/books/ai-as-a-service) A book that teaches you how to harness the power of cloud-based AI services and serverless computing. An engineering approach to serverless AI.
 * [Azure Data Engineering](https://www.manning.com/books/azure-data-engineering) - This book teaches you to build high-capacity data analytics systems using Azure cloud services for storing, collecting and analyzing data.
 
 ### Courses
@@ -342,6 +350,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Serverless Status](https://serverless.email/) - A weekly digest of the latest serverless news and articles.
 * [Serverless Insights](https://symphonia.us15.list-manage.com/subscribe?u=8fe3a0d260ada7ca9aafdbf14&id=d4b4244107) - Symphonia's Serverless Insights
 * [Cold Start](https://www.serverlessops.io/blog/cold-start-the-event-to-start-your-week) - Keep up with serverless ops and serverless community at large each Monday afternoon
+* [Off-by-none](https://www.jeremydaly.com/newsletter/) - Weekly newsletter that focuses on using serverless technology to build products in the cloud
 
 ### AWS re:Invent videos
 * [↑↑↓↓←→←→ BA Lambda Start](https://www.youtube.com/watch?v=iz90fHia-Wk&index=4&list=PLhr1KZpdzukcLUKD2ej8AKYR-nryjGGnF)
