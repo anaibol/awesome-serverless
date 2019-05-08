@@ -161,6 +161,7 @@ https://www.quora.com/What-is-serverless-computing
 
 * [seed.run](https://seed.run) - Seed manages pipelines, configures environments, and monitors deployments for Serverless Framework projects.
 * [AWS Lambda Test Runner](https://github.com/automatictester/lambda-test-runner) - Run your unit tests with Maven or SBT directly on AWS Lambda.
+* [LambCI](https://github.com/lambci/lambci) - A continuous integration system built on AWS Lambda
 
 ### Cost calculators
 
@@ -284,7 +285,6 @@ https://www.quora.com/What-is-serverless-computing
 * [gofn](https://github.com/nuveo/gofn) - Go package for function process via container provider (serverless minimalist)
 * [kube-fledged](https://github.com/senthilrch/kube-fledged) - A K8S add-on for creating and managing a cache of container images directly on cluster worker nodes
 * [Lambda Comments](https://github.com/jimpick/lambda-comments) - Blog commenting system built with AWS Lambda
-* [LambCI](https://github.com/lambci/lambci) - A continuous integration system built on AWS Lambda
 * [LambStatus](https://github.com/ks888/LambStatus) - A status page system built on AWS Lambda ([demo](https://lambstatus.github.io/demo-status/))
 * [AWS Lambda Debugger](https://github.com/trek10inc/aws-lambda-debugger) - Remote debugging tool for Lambda functions running on Node 6.10
 * [Local stack](https://localstack.cloud/) - A fully functional local AWS cloud stack
