@@ -335,7 +335,7 @@ https://www.quora.com/What-is-serverless-computing
 * [AI as a Service](https://www.manning.com/books/ai-as-a-service) A book that teaches you how to harness the power of cloud-based AI services and serverless computing. An engineering approach to serverless AI.
 * [Azure Data Engineering](https://www.manning.com/books/azure-data-engineering) - This book teaches you to build high-capacity data analytics systems using Azure cloud services for storing, collecting and analyzing data.
 * [Google Cloud Platform in Action](https://www.manning.com/books/google-cloud-platform-in-action) - A book that teaches you to to deploy scalable cloud applications on Google Cloud Platform.
-* [Cloud Native Patterns](https://www.manning.com/books/cloud-native-patterns) - A guide to developing applications with cloud native technologies.
+* [Cloud Native Patterns](https://www.manning.com/books/cloud-native-patterns) - A guide to developing cloud-native applications, along with the patterns, practices, and tooling that set them apart.
 
 ### Courses
 * [Serverless JavaScript by Example](https://www.packtpub.com/web-development/serverless-javascript-example-video) - Become dexterous with live demonstrations on serverless web development.
