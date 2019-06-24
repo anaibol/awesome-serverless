@@ -345,6 +345,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Serverless-stack](https://serverless-stack.com) - Learn to Build complete Full-Stack Apps with Serverless and React on AWS.
 * [Develop a Serverless Backend using Node.js on AWS Lambda](https://egghead.io/courses/develop-a-serverless-backend-using-node-js-on-aws-lambda) - Learn how to create a serverless API and connecting it to DynamoDB using leveraging Lambda's new async/await syntax
 * [AWS in Motion](https://www.manning.com/livevideo/aws-in-motion) - A liveVideo course that guides you through your first steps of deploying a web application on AWS, teaching you the basics of the AWS ecosystem.
+* [Production-Ready Serverless](https://www.manning.com/livevideo/production-ready-serverless) - This liveVideo teaches you how to build applications that take advantage of AWS Lambda and other AWS platform features like API Gateway and Kinesis.
 
 ### Workshops
 * [OpenWhisk Workshop](https://www.npmjs.com/package/openwhisk-workshop) - Interactive workshop to learn about building serverless applications with OpenWhisk.
