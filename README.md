@@ -340,6 +340,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Google Cloud Platform in Action](https://www.manning.com/books/google-cloud-platform-in-action) - A book that teaches you to to deploy scalable cloud applications on Google Cloud Platform.
 * [Cloud Native Patterns](https://www.manning.com/books/cloud-native-patterns) - A guide to developing cloud-native applications, along with the patterns, practices, and tooling that set them apart.
 * [Learn Azure in a Month of Lunches](https://www.manning.com/books/learn-azure-in-a-month-of-lunches) - A book that teaches you the foundational techniques for writing, deploying, and running cloud-based applications in Azure.
+* [Build a Serverless React Application](https://buttercms.com/blog/what-is-serverless-and-how-to-use-it-in-practice) - A full understanding of serverless architecture and how to use it in practice.
 
 ### Courses
 * [Serverless JavaScript by Example](https://www.packtpub.com/web-development/serverless-javascript-example-video) - Become dexterous with live demonstrations on serverless web development.
