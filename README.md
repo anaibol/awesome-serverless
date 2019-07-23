@@ -62,6 +62,7 @@ https://www.quora.com/What-is-serverless-computing
 * [wolkenkit](https://www.wolkenkit.io) - wolkenkit is a CQRS and event-sourcing framework for JavaScript and Node.js which fits perfectly with domain-driven design (DDD).
 * [Kuzzle](https://kuzzle.io) - High performance cloud agnostic backend solution including persistence, authentication, realtime database and geofencing with a full featured cluster mode.
 * [serverless-cqrs](https://www.serverless-cqrs.com) - A collection tools to help you build a fully functioning backend based on the principles of CQRS, Event Sourcing, Domain Driven Design, and Onion Architecture.
+* [ops](https://ops.city) - A free open source tool that allows anyone to build, run and deploy normal linux applications as unikernels.
 
 ### Hosting and code execution in the cloud
 * [FaaStRuby](https://faastruby.io) - Serverless Software Development Platform for Ruby and Crystal developers.
@@ -94,6 +95,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Algorithmia](https://algorithmia.com/) - Automating the use of AI/ML models at every scale with the Serverless AI Layer.
 * [TriggerMesh](https://www.triggermesh.com) - Serverless Management Platform with advanced event triggers.
 * [Cloudflare Workers](https://www.cloudflareworkers.com) - Workers allow you to deploy Serverless apps to 165+ data centers across the globe simultaneously, along with the ability to agument or alter exsisting websites and APIs on the fly.
+* [fn](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform.
 
 ### Isomorphic Engines
 * [lychee.js](https://github.com/Artificial-Engineering/lycheejs) - Isomorphic adapters allow peer-to-peer event-graphed WebSockets and HTTP1.1, SPDY and HTTP2.0 sockets for node, node-sdl, html, html-nwjs and html-webview (both native and embedded).
@@ -161,6 +163,7 @@ https://www.quora.com/What-is-serverless-computing
 
 * [seed.run](https://seed.run) - Seed manages pipelines, configures environments, and monitors deployments for Serverless Framework projects.
 * [AWS Lambda Test Runner](https://github.com/automatictester/lambda-test-runner) - Run your unit tests with Maven or SBT directly on AWS Lambda.
+* [LambCI](https://github.com/lambci/lambci) - A continuous integration system built on AWS Lambda
 
 ### Cost calculators
 
@@ -203,6 +206,7 @@ https://www.quora.com/What-is-serverless-computing
 ### Content Management Systems
 * [Contentful](https://www.contentful.com/) - A content infrastructure that enables teams to power content in any digital product via a RESTful API.
 * [Cosmicjs](https://cosmicjs.com) - API-first CMS for building content-powered apps in any programming language.
+* [GraphCMS](https://graphcms.com/) - GraphQL based, no opinion CMS for your digital products.
 * [Lesspod](https://www.lesspod.org/) - The opensource Serverless CMS (web + blog engine) built with vue 2.0, SQLite (localy only) and deployable to Firebase (and more in future).
 * [Sanity](https://sanity.io) - A hosted backend for structured content with a real-time API, globally distributed CDN, and a powerful, but simple query language.
 * [Storyblok](https://www.storyblok.com/) - API based & Headless CMS - Clean and structured JSON for you as developer and a CMS your editors will fall in love with. Unlimited extensibility through custom plugins.
@@ -284,7 +288,6 @@ https://www.quora.com/What-is-serverless-computing
 * [gofn](https://github.com/nuveo/gofn) - Go package for function process via container provider (serverless minimalist)
 * [kube-fledged](https://github.com/senthilrch/kube-fledged) - A K8S add-on for creating and managing a cache of container images directly on cluster worker nodes
 * [Lambda Comments](https://github.com/jimpick/lambda-comments) - Blog commenting system built with AWS Lambda
-* [LambCI](https://github.com/lambci/lambci) - A continuous integration system built on AWS Lambda
 * [LambStatus](https://github.com/ks888/LambStatus) - A status page system built on AWS Lambda ([demo](https://lambstatus.github.io/demo-status/))
 * [AWS Lambda Debugger](https://github.com/trek10inc/aws-lambda-debugger) - Remote debugging tool for Lambda functions running on Node 6.10
 * [Local stack](https://localstack.cloud/) - A fully functional local AWS cloud stack
@@ -338,6 +341,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Cloud Native Patterns](https://www.manning.com/books/cloud-native-patterns) - A guide to developing cloud-native applications, along with the patterns, practices, and tooling that set them apart.
 * [Learn Azure in a Month of Lunches](https://www.manning.com/books/learn-azure-in-a-month-of-lunches) - A book that teaches you the foundational techniques for writing, deploying, and running cloud-based applications in Azure.
 * [Learn Amazon Web Services in a Month of Lunches](https://www.manning.com/books/learn-amazon-web-services-in-a-month-of-lunches) - A book that guides you through the process of building a robust and secure web application using the core AWS services you really need to know.
+* [Build a Serverless React Application](https://buttercms.com/blog/what-is-serverless-and-how-to-use-it-in-practice) - A full understanding of serverless architecture and how to use it in practice.
 
 ### Courses
 * [Serverless JavaScript by Example](https://www.packtpub.com/web-development/serverless-javascript-example-video) - Become dexterous with live demonstrations on serverless web development.
