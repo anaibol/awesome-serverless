@@ -217,6 +217,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Webiny](https://www.webiny.com/) - Developer-friendly Serverless CMS powered by GraphQL and React.
 
 ### Forms
+* [Airform.io](https://airform.io) - Functional HTML forms for Front-End Developers.
 * [Form.io](https://form.io) - JSON Powered Form and Data Management Platform for Serverless applications.
 * [Formspark](https://formspark.io) - A backend for your HTML forms.
 * [Formspree](https://formspree.io) - Functional HTML forms.
