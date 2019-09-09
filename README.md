@@ -215,6 +215,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Storyblok](https://www.storyblok.com/) - API based & Headless CMS - Clean and structured JSON for you as developer and a CMS your editors will fall in love with. Unlimited extensibility through custom plugins.
 * [TakeShape](https://www.takeshape.io/) - Content-as-a-Service via a powerful GraphQL API and integrated SSG for teams that want to stay focused on their product.
 * [Tipe](https://tipe.io/) - Next generation serverless CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
+* [Vapid](https://www.vapid.com/) - Intentionally Simple CMS. Vapid creates your backend CMS from HTML template tags.
 * [Webiny](https://www.webiny.com/) - Developer-friendly Serverless CMS powered by GraphQL and React.
 
 ### Forms
