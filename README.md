@@ -189,6 +189,7 @@ https://www.quora.com/What-is-serverless-computing
 * [OAuth.io](https://oauth.io/) - OAuth integration, user management, provides OAuth 2.0 layer to existing APIs.
 * [Okta](https://developer.okta.com/) - Provides authentication, authorization, and user management, merged with [Stormpath](https://stormpath.com/) in August 2017.
 * [Serverless Authentication Boilerplate with FaunaDB](https://serverless.com/blog/faunadb-serverless-authentication/) - Single sign on using Amazon API Gateway custom authorizer to provision database access tokens for your Lambda functions. [See TodoMVC integration in this meetup talk video.](https://fauna.com/blog/developing-serverless-authentication-and-persistence)
+* [Authing](https://authing.cn) - Single Sign On, user management, provides OAuth 2.0/OIDC/SAML/LDAP layer. A universal authentication & authorization platform for web, mobile and legacy applications. 
 
 ### IAM
 * [PureSec CLI](https://github.com/puresec/serverless-puresec-cli) - Magically creates least privileged IAM roles for you.
