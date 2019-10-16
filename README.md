@@ -180,6 +180,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Thundra](https://www.thundra.io) - Thundra brings observability into your AWS Lambda functions by bringing metrics, logs, distributed tracing, and alerting together.
 * [Epsagon](https://www.epsagon.com) - Epsagon automatically analyses your serverless application, identifies potential issues, and allows fast troubleshooting.
 * [Lumigo](https://www.lumigo.io) - Lumigo provides a platform for serverless monitoring and troubleshooting.
+* [Serverless Dev Tools](https://theodo-uk.github.io/sls-dev-tools/) - CLI dev tools for Serverless (AWS)
 
 ### Authentication and authorization
 * [Auth0](https://auth0.com) - Single Sign On & Token Based Authentication.
@@ -387,6 +388,7 @@ https://www.quora.com/What-is-serverless-computing
 - [Serverlessconf](https://www.youtube.com/channel/UCqlcVgk8SkUmve4Kw4xSlgw)
 - [ServerlessDays](https://www.youtube.com/channel/UCYzAnR_SebAmLRkKIbK_YoQ)
 - [GOTO Conferences](https://www.youtube.com/playlist?list=PLEx5khR4g7PJNproQQ4SZ96Qeu-kr-Xbn)
+- [Serverless Transformation](https://www.youtube.com/channel/UCSXyludrze9R5Ij-5UxYM6A)
 
 ### Contributing
 You want to contribute to this project? [Please follow these recommendations](CONTRIBUTING.md).
