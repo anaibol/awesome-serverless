@@ -217,6 +217,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Tipe](https://tipe.io/) - Next generation serverless CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
 * [Vapid](https://www.vapid.com/) - Intentionally Simple CMS. Vapid creates your backend CMS from HTML template tags.
 * [Webiny](https://www.webiny.com/) - Developer-friendly Serverless CMS powered by GraphQL and React.
+* [Stiva](https://github.com/anddimario/stiva) - Stiva is a headless CMS for multisite and dynamic multicontent, based on lambda, dynamodb and s3.
 
 ### Forms
 * [Airform.io](https://airform.io) - Functional HTML forms for Front-End Developers.
