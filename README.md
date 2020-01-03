@@ -52,6 +52,7 @@ https://www.quora.com/What-is-serverless-computing
 * [1Backend](https://1backend.com) - A complete platform with a strong focus on application composability, type safe APIs and client library generation.
 * [AppDrag](https://appdrag.com) - Cloud Backend with SQL database and serverless API builder, Cloud CMS with domain management and email marketing tools
 * [Firebase](https://www.firebase.com) - Realtime database, authentication, hosting. A powerful platform for your mobile or web application.
+* [LeanCloud](https://leancloud.app) - Serverless cloud for lightning-fast development.
 * [Backendless](https://backendless.com) - Realtime database, authentication, hosting.
 * [Stamplay](https://stamplay.com) - "IFTTT For Back-End Development".
 * [Kinvey](http://www.kinvey.com) - Build your digital business faster with mobile Backend as a Service.
