@@ -49,11 +49,12 @@
 https://www.quora.com/What-is-serverless-computing
 
 ### All in one solutions
-* [1Backend](https://1backend.com) - A complete platform with a strong focus on application composability, type safe APIs and client library generation.
+* <s>[1Backend](https://1backend.com)</s> - A complete platform with a strong focus on application composability, type safe APIs and client library generation.
 * [AppDrag](https://appdrag.com) - Cloud Backend with SQL database and serverless API builder, Cloud CMS with domain management and email marketing tools
 * [Firebase](https://www.firebase.com) - Realtime database, authentication, hosting. A powerful platform for your mobile or web application.
+* [LeanCloud](https://leancloud.app) - Serverless cloud for lightning-fast development.
 * [Backendless](https://backendless.com) - Realtime database, authentication, hosting.
-* [Stamplay](https://stamplay.com) - "IFTTT For Back-End Development".
+* <s>[Stamplay](https://stamplay.com)</s> - "IFTTT For Back-End Development".
 * [Kinvey](http://www.kinvey.com) - Build your digital business faster with mobile Backend as a Service.
 * [Syncano](https://syncano.io) - An all-in-one platform to create realtime apps without a server.
 * [Hoodie](http://hood.ie) - Hoodie is a complete backend for your apps: develop your frontend code.
@@ -106,6 +107,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Apex](http://apex.run) - Minimal AWS Lambda function manager with support for multiple languages including Nodejs, Golang, Python, Java, Rust and Clojure.
 * [Architect](http://arc.codes) - Provision and deploy from a super simple plaintext manifest.
 * [AWS Amplify](https://aws-amplify.github.io/) - A declarative JavaScript library for application development using cloud services.
+* [Browser Functions](https://github.com/IBM/browser-functions) - A lightweight serverless platform that uses Web Browsers as execution engines.
 * [Up](https://up.docs.apex.sh/) - Deploy infinitely scalable serverless apps, apis, and sites in seconds.
 * [Chalice](https://github.com/awslabs/chalice) - Python serverless microframework from Amazon for AWS lambda.
 * [CIM](https://github.com/thestackshack/cim) - A CloudFormation first approach to AWS Lambdas.
@@ -125,6 +127,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Lambada Framework](https://github.com/lambadaframework/lambadaframework) - JAX-RS implementation for AWS Lambda.
 * [lambda-restify](https://github.com/kksharma1618/lambda-restify) - A restify/expressjs like interface for aws lamda with api gateway event.
 * [Lambdoku](https://github.com/kubek2k/lambdoku) - Heroku-like experience when using AWS Lambda.
+* [lgw](https://github.com/ebridges/lgw) - Simply & easily configure an AWS Gateway & domain name in front of a Lambda.
 * [middy](https://middy.js.org/) - Node.js middleware engine for AWS Lambda.
 * [modofun](https://github.com/fptavares/modofun) - A lightweight no-dependencies function router for both AWS Lambda and Google Cloud Functions, and that supports Connect/Express middleware.
 * [OpenFaaS](https://docs.openfaas.com/) - Serverless Functions Made Simple for Docker and Kubernetes.
@@ -181,6 +184,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Epsagon](https://www.epsagon.com) - Epsagon automatically analyses your serverless application, identifies potential issues, and allows fast troubleshooting.
 * [Lumigo](https://www.lumigo.io) - Lumigo provides a platform for serverless monitoring and troubleshooting.
 * [Serverless Dev Tools](https://theodo-uk.github.io/sls-dev-tools/) - CLI dev tools for Serverless (AWS)
+* [serverless-es-logger](https://github.com/ccverak/serverless-es-logger) - serverless-es-logger is a package which allows you to send logs directly to Elasticsearch.
 
 ### Authentication and authorization
 * [Auth0](https://auth0.com) - Single Sign On & Token Based Authentication.
@@ -218,6 +222,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Tipe](https://tipe.io/) - Next generation serverless CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
 * [Vapid](https://www.vapid.com/) - Intentionally Simple CMS. Vapid creates your backend CMS from HTML template tags.
 * [Webiny](https://www.webiny.com/) - Developer-friendly Serverless CMS powered by GraphQL and React.
+* [Stiva](https://github.com/anddimario/stiva) - Stiva is a headless CMS for multisite and dynamic multicontent, based on lambda, dynamodb and s3.
 
 ### Forms
 * [Airform.io](https://airform.io) - Functional HTML forms for Front-End Developers.
@@ -279,6 +284,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Azure CosmosDB](https://azure.microsoft.com/en-us/services/cosmos-db/) - Globally distributed, multi-model database service
 * [Cube.js](https://github.com/statsbotco/cubejs-client) - Hosted analytics platform for serverless apps.
 * [Google Cloud Datastore](https://cloud.google.com/datastore/) - Hosted NoSQL database service by Google
+* [ParanoidGuy Databunker](https://github.com/paranoidguy/databunker) - Personally identifiable information (PII) storage service built to comply with GDPR and CCPA
 
 ### Others
 * [Azure Function Library](http://functionlibrary.azurewebsites.net) - An open source set of common use cases for Azure Functions that are ready to deploy!
@@ -348,6 +354,8 @@ https://www.quora.com/What-is-serverless-computing
 * [Learn Azure in a Month of Lunches](https://www.manning.com/books/learn-azure-in-a-month-of-lunches) - A book that teaches you the foundational techniques for writing, deploying, and running cloud-based applications in Azure.
 * [Learn Amazon Web Services in a Month of Lunches](https://www.manning.com/books/learn-amazon-web-services-in-a-month-of-lunches) - A book that guides you through the process of building a robust and secure web application using the core AWS services you really need to know.
 * [Build a Serverless React Application](https://buttercms.com/blog/what-is-serverless-and-how-to-use-it-in-practice) - A full understanding of serverless architecture and how to use it in practice.
+* [Learn Azure in a Month of Lunches, Second Edition](https://www.manning.com/books/learn-azure-in-a-month-of-lunches-second-edition) - In this fully updated and new edition, you’ll get hands-on practice with the basics, including setting up cloud-based virtual machines, deploying web servers, and using hosted data stores.
+* [Learn Docker in a Month of Lunches](https://www.manning.com/books/learn-docker-in-a-month-of-lunches) - A tutorial to get essential skills to use Docker in Linux, Windows, and Mac environments.
 
 ### Courses
 * [Serverless JavaScript by Example](https://www.packtpub.com/web-development/serverless-javascript-example-video) - Become dexterous with live demonstrations on serverless web development.
