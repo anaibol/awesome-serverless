@@ -330,6 +330,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Using Kotlin with AWS Lambda](https://medium.com/tech-travelstart/using-kotlin-in-a-serverless-architecture-with-aws-lambda-part-1-setting-up-the-project-87033790e2f4) - Using Kotlin in a serverless architecture with AWS Lambda.
 * [Serverless Architectures Security Top 10](https://www.puresec.io/blog/serverless-top-10-released) - The Ten Most Critical Security Risks in Serverless Architectures.
 * [Continuous Delivery Patterns with Serverless Applications](https://semaphoreci.com/blog/2018/08/22/continuous-delivery-patterns-with-serverless.html) - patterns for effective Continuous Delivery when building Serverless applications.
+* [Level up your serverless game with a GraphQL data-as-a-service layer](https://hasura.io/blog/level-up-your-serverless-game-with-a-graphql-data-as-a-service-layer/)
 
 ### Books
 * [Serverless](https://leanpub.com/serverless) - Patterns of Modern Application Design Using Microservices (Amazon Web Services Edition).
