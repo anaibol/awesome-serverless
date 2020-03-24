@@ -175,6 +175,9 @@ https://www.quora.com/What-is-serverless-computing
 * [serverlesscalc](http://serverlesscalc.com) - Calculating cost for AWS Lambda, Azure Functions, Google Cloud Functions, and IBM Cloud Functions.
 * [servers.lol](https://servers.lol) - calculator to decide Lambda vs EC2.
 
+### Developer Tools
+* [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) - In terminal developer dashboard for AWS Serverless architectures. *(Does not replace your framework or logging/monitoring, it's used in addition)*
+
 ### Logging / Monitoring / Performance / Tracing
 
 * [AWS IoT Button logger to git](https://github.com/kachkaev/aws-iot-button-logger-to-git/) - A simple and customisable AWS Lambda function that logs events from IoT devices into a git repository of your choice.
