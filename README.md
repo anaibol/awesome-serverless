@@ -16,6 +16,7 @@
     - [Security](#security)
     - [CI/CD](#cicd)
     - [Cost calculators](#cost-calculators)
+    - [Developer Tools](#developer-tools)
     - [Logging / Monitoring / Performance / Tracing](#logging--monitoring--performance--tracing)
     - [Authentication and authorization](#authentication-and-authorization)
     - [IAM](#iam)
