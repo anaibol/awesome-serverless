@@ -169,6 +169,7 @@ https://www.quora.com/What-is-serverless-computing
 * [seed.run](https://seed.run) - Seed manages pipelines, configures environments, and monitors deployments for Serverless Framework projects.
 * [AWS Lambda Test Runner](https://github.com/automatictester/lambda-test-runner) - Run your unit tests with Maven or SBT directly on AWS Lambda.
 * [LambCI](https://github.com/lambci/lambci) - A continuous integration system built on AWS Lambda
+* [Serverless Framework Pro](https://serverless.com/) - Serverless Framework Pro provides CI/CD, troubleshooting and monitoring for serverless applications
 
 ### Cost calculators
 
@@ -184,6 +185,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Epsagon](https://www.epsagon.com) - Epsagon automatically analyses your serverless application, identifies potential issues, and allows fast troubleshooting.
 * [Lumigo](https://www.lumigo.io) - Lumigo provides a platform for serverless monitoring and troubleshooting.
 * [serverless-es-logger](https://github.com/ccverak/serverless-es-logger) - serverless-es-logger is a package which allows you to send logs directly to Elasticsearch.
+* [Serverless Framework Pro](https://serverless.com/) - Serverless Framework Pro give you detailed invocation/request troubleshooting and monitoring tools for serverless applications
 
 ### Authentication and authorization
 * [Auth0](https://auth0.com) - Single Sign On & Token Based Authentication.
