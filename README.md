@@ -186,6 +186,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Lumigo](https://www.lumigo.io) - Lumigo provides a platform for serverless monitoring and troubleshooting.
 * [serverless-es-logger](https://github.com/ccverak/serverless-es-logger) - serverless-es-logger is a package which allows you to send logs directly to Elasticsearch.
 * [Serverless Framework Pro](https://serverless.com/) - Serverless Framework Pro give you detailed invocation/request troubleshooting and monitoring tools for serverless applications
+* [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) - In terminal developer dashboard for AWS Serverless architectures. *(Does not replace your framework or logging/monitoring, it's used in addition)*
 
 ### Authentication and authorization
 * [Auth0](https://auth0.com) - Single Sign On & Token Based Authentication.
