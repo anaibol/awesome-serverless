@@ -16,7 +16,6 @@
     - [Security](#security)
     - [CI/CD](#cicd)
     - [Cost calculators](#cost-calculators)
-    - [Developer Tools](#developer-tools)
     - [Logging / Monitoring / Performance / Tracing](#logging--monitoring--performance--tracing)
     - [Authentication and authorization](#authentication-and-authorization)
     - [IAM](#iam)
@@ -176,9 +175,6 @@ https://www.quora.com/What-is-serverless-computing
 * [serverlesscalc](http://serverlesscalc.com) - Calculating cost for AWS Lambda, Azure Functions, Google Cloud Functions, and IBM Cloud Functions.
 * [servers.lol](https://servers.lol) - calculator to decide Lambda vs EC2.
 
-### Developer Tools
-* [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) - In terminal developer dashboard for AWS Serverless architectures. *(Does not replace your framework or logging/monitoring, it's used in addition)*
-
 ### Logging / Monitoring / Performance / Tracing
 
 * [AWS IoT Button logger to git](https://github.com/kachkaev/aws-iot-button-logger-to-git/) - A simple and customisable AWS Lambda function that logs events from IoT devices into a git repository of your choice.
@@ -188,6 +184,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Epsagon](https://www.epsagon.com) - Epsagon automatically analyses your serverless application, identifies potential issues, and allows fast troubleshooting.
 * [Lumigo](https://www.lumigo.io) - Lumigo provides a platform for serverless monitoring and troubleshooting.
 * [serverless-es-logger](https://github.com/ccverak/serverless-es-logger) - serverless-es-logger is a package which allows you to send logs directly to Elasticsearch.
+* [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) - In terminal developer dashboard for AWS Serverless architectures. *(Does not replace your framework or logging/monitoring, it's used in addition)*
 
 ### Authentication and authorization
 * [Auth0](https://auth0.com) - Single Sign On & Token Based Authentication.
