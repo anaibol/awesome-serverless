@@ -225,6 +225,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Vapid](https://www.vapid.com/) - Intentionally Simple CMS. Vapid creates your backend CMS from HTML template tags.
 * [Webiny](https://www.webiny.com/) - Developer-friendly Serverless CMS powered by GraphQL and React.
 * [Stiva](https://github.com/anddimario/stiva) - Stiva is a headless CMS for multisite and dynamic multicontent, based on lambda, dynamodb and s3.
+* [Forestry](https://forestry.io/) - Git-backed CMS for Static Site Generators like Gatsby, Gridsome, Eleventy, Hugo, VuePress, Jekyll, etc.
 
 ### Forms
 * [Airform.io](https://airform.io) - Functional HTML forms for Front-End Developers.
