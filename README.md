@@ -180,7 +180,7 @@ https://www.quora.com/What-is-serverless-computing
 
 * [AWS IoT Button logger to git](https://github.com/kachkaev/aws-iot-button-logger-to-git/) - A simple and customisable AWS Lambda function that logs events from IoT devices into a git repository of your choice.
 * [Dashbird](https://www.dashbird.io) - Performance Tracking and Error Alerting for serverless applications.
-* [IOpipe](https://www.iopipe.com) - Application Performance Monitoring & Management for serverless applications.
+* [New Relic](https://newrelic.com/products/serverless-aws-lambda) - Monitor, visualize, troubleshoot, and alert on all your AWS Lambda functions.
 * [Thundra](https://www.thundra.io) - Thundra brings observability into your AWS Lambda functions by bringing metrics, logs, distributed tracing, and alerting together.
 * [Epsagon](https://www.epsagon.com) - Epsagon automatically analyses your serverless application, identifies potential issues, and allows fast troubleshooting.
 * [Lumigo](https://www.lumigo.io) - Lumigo provides a platform for serverless monitoring and troubleshooting.
