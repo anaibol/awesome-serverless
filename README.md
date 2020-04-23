@@ -284,10 +284,12 @@ https://www.quora.com/What-is-serverless-computing
 * [Algolia](https://www.algolia.com) - Hosted cloud search as a service.
 * [FaunaDB](https://fauna.com/) - Pay-as-you-go cloud database with ACID transactions and on-premise licensing available.
 * [Cloudant](https://cloudant.com/) - Based on the Apache-backed CouchDB, Cloudant is the distributed database as a service (DBaaS) built from the ground up to deliver fast-growing application data to the edge.
+* [Cloudflare Workers KV](https://developers.cloudflare.com/workers/reference/storage) - Global, low-latency, key-value data store for Cloudflare Workers.
 * [Azure CosmosDB](https://azure.microsoft.com/en-us/services/cosmos-db/) - Globally distributed, multi-model database service
 * [Cube.js](https://github.com/statsbotco/cubejs-client) - Hosted analytics platform for serverless apps.
 * [Google Cloud Datastore](https://cloud.google.com/datastore/) - Hosted NoSQL database service by Google
 * [ParanoidGuy Databunker](https://github.com/paranoidguy/databunker) - Personally identifiable information (PII) storage service built to comply with GDPR and CCPA
+* [Lambda Store](https://lambda.store/) - Pay-as-you-go Redis-compatible data storage.
 
 ### Others
 * [Azure Function Library](http://functionlibrary.azurewebsites.net) - An open source set of common use cases for Azure Functions that are ready to deploy!
