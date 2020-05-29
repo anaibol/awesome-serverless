@@ -352,6 +352,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Learn Azure in a Month of Lunches, Second Edition](https://www.manning.com/books/learn-azure-in-a-month-of-lunches-second-edition) - In this fully updated and new edition, you’ll get hands-on practice with the basics, including setting up cloud-based virtual machines, deploying web servers, and using hosted data stores.
 * [Learn Docker in a Month of Lunches](https://www.manning.com/books/learn-docker-in-a-month-of-lunches) - A tutorial to get essential skills to use Docker in Linux, Windows, and Mac environments.
 * [Knative in Action](https://www.manning.com/books/knative-in-action) - A book on how to build more complex and capable serverless applications with Knative.
+* [Getting Started with Kubernetes](https://www.manning.com/books/getting-started-with-kubernetes) - A hands-on guide to Kubernetes using Google Kubernetes Engine service.
 
 ### Courses
 * [Serverless JavaScript by Example](https://www.packtpub.com/web-development/serverless-javascript-example-video) - Become dexterous with live demonstrations on serverless web development.
