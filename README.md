@@ -88,7 +88,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Aerobatic](https://www.aerobatic.com) - Deploy static sites from the command line with plugins including password protection, CORS proxy, and [more](https://www.aerobatic.com/docs/plugins).
 * [Effe](https://github.com/siscia/effe) - a simple Open Source building block to emulate AWS Lambda.
 * [Lever OS](https://github.com/leveros/leveros) - Serverless + Microservices = ♥
-* [Now](https://zeit.co/now) - Serverless Node.js, Python and Go deployments
+* [Vercel(Now)](https://vercel.com) - Serverless Node.js, Python and Go deployments
 * [OpenComponents](https://github.com/opentable/oc) - Serverless microservices for front-end components.
 * <s>[Kloudbit](http://www.kloudbit.com/)</s> - Kloudbit helps developers build robust applications without the hassle of backend coding and server management.
 * [OpenFaaS Cloud](https://github.com/openfaas/openfaas-cloud) - OpenFaaS Cloud: multi-user serverless functions driven by git.
