@@ -384,7 +384,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Cold Start](https://www.serverlessops.io/blog/cold-start-the-event-to-start-your-week) - Keep up with serverless ops and serverless community at large each Monday afternoon
 * [Off-by-none](https://www.jeremydaly.com/newsletter/) - Weekly newsletter that focuses on using serverless technology to build products in the cloud
 * [Serverless Transformation](https://www.getrevue.co/profile/serverless-transformation) - Weekly newsletter of a limited set of articles about serverless. Each article is graded on complexity level.
-* [Shipped](https://faun.dev) - A FAUN weekly newsletter: Hand-curated tutorials, news and stories from the Serverless space. 
+* [Shipped](https://faun.dev) - A weekly newsletter from FAUN: Hand-curated tutorials, news and stories from the Serverless space. 
 
 ### AWS re:Invent videos
 * [↑↑↓↓←→←→ BA Lambda Start](https://www.youtube.com/watch?v=iz90fHia-Wk&index=4&list=PLhr1KZpdzukcLUKD2ej8AKYR-nryjGGnF)
