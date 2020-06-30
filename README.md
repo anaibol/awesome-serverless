@@ -346,6 +346,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Serverless Architectures on AWS](https://www.manning.com/books/serverless-architectures-on-aws). Teaches you how to build, secure and manage serverless architectures that can power the most demanding web and mobile apps. Written by Peter Sbarski
 * [Building Serverless Architectures](https://www.amazon.co.uk/Building-Serverless-Architectures-Cagatay-Gurturk/dp/1787129195) Book about building serverless applications  in JAVA.
 * [AWS Lambda in Action](https://www.manning.com/books/aws-lambda-in-action) An example-driven tutorial that teaches you how to build applications that use an event-driven approach on the back end.
+* [Pulumi in Action](https://www.manning.com/books/pulumi-in-action) - A book that shows you how to use Pulumi, an open-source infrastructure-as-code platform, to build serverless applications of all kinds using TypeScript and Amazon Web Services.
 * [Serverless Applications with Node.js](https://www.manning.com/books/serverless-apps-with-node-and-claudiajs) A book that walks you through building serverless apps on AWS using Node.js and Claudia.js.
 * [Agile Development for Serverless Platforms](https://www.manning.com/books/agile-development-for-serverless-platforms) free eBook: how to apply Agile practices in fully serverless architectures.
 * [Cloud Native Applications](https://www.manning.com/books/cloud-native-applications) free eBook: an introduction into the world of cloud computing and insights into what is possible with cloud services.
