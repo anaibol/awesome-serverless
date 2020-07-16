@@ -228,6 +228,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Forestry](https://forestry.io/) - Git-backed CMS for Static Site Generators like Gatsby, Gridsome, Eleventy, Hugo, VuePress, Jekyll, etc.
 
 ### Forms
+* [Getform](https://getform.io) - Free form backend platform for your HTML forms and static websites. Provides Zapier and Webhook support and submissions API.
 * [Airform.io](https://airform.io) - Functional HTML forms for Front-End Developers.
 * [Form.io](https://form.io) - JSON Powered Form and Data Management Platform for Serverless applications.
 * [Formspark](https://formspark.io) - A backend for your HTML forms.
