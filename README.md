@@ -52,6 +52,7 @@ https://www.quora.com/What-is-serverless-computing
 * <s>[1Backend](https://1backend.com)</s> - A complete platform with a strong focus on application composability, type safe APIs and client library generation.
 * [AppDrag](https://appdrag.com) - Cloud Backend with SQL database and serverless API builder, Cloud CMS with domain management and email marketing tools
 * [Firebase](https://www.firebase.com) - Realtime database, authentication, hosting. A powerful platform for your mobile or web application.
+* [Back4App](https://www.back4app.com) - A Backend as a Service platform powered by Parse Open Source which you can use to build your app faster, host it with no hassles and keep full control over your Backend.
 * [LeanCloud](https://leancloud.app) - Serverless cloud for lightning-fast development.
 * [Backendless](https://backendless.com) - Realtime database, authentication, hosting.
 * <s>[Stamplay](https://stamplay.com)</s> - "IFTTT For Back-End Development".
@@ -59,6 +60,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Syncano](https://syncano.io) - An all-in-one platform to create realtime apps without a server.
 * [Hoodie](http://hood.ie) - Hoodie is a complete backend for your apps: develop your frontend code.
 * [Para](https://paraio.com) - Flexible and lightweight backend service for rapid prototyping, based on open source software.
+* [Parse Server](https://parseplatform.org/) - Parse Server is an open source version of the Parse backend that can be deployed to any infrastructure that can run Node.js. You can find the source on the [GitHub repo](https://github.com/parse-community/parse-server).
 * <s>[Backand](https://www.backand.com)</s> - One platform to develop and run multi-cloud Serverless applications.
 * [wolkenkit](https://www.wolkenkit.io) - wolkenkit is a CQRS and event-sourcing framework for JavaScript and Node.js which fits perfectly with domain-driven design (DDD).
 * [Kuzzle](https://kuzzle.io) - High performance cloud agnostic backend solution including persistence, authentication, realtime database and geofencing with a full featured cluster mode.
