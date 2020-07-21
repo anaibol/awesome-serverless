@@ -4,6 +4,8 @@
 
 #### A curated list of awesome services, solutions and resources for serverless / nobackend applications.
 
+#### “No server is easier to manage than no server”
+
 ### Table of contents
 - [:cloud: Awesome Serverless](#cloud-awesome-serverless)
       - [A curated list of awesome services, solutions and resources for serverless / nobackend applications.](#a-curated-list-of-awesome-services-solutions-and-resources-for-serverless--nobackend-applications)
