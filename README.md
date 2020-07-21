@@ -291,7 +291,7 @@ https://www.quora.com/What-is-serverless-computing
 * [Google Cloud Datastore](https://cloud.google.com/datastore/) - Hosted NoSQL database service by Google
 * [ParanoidGuy Databunker](https://github.com/paranoidguy/databunker) - Personally identifiable information (PII) storage service built to comply with GDPR and CCPA
 * [Lambda Store](https://lambda.store/) - Pay-as-you-go Redis-compatible data storage.
-
+* [Deta Base](https://deta.sh) - A super easy to use production-grade NoSQL database.that supports complex queries and search.
 ### Others
 * [Azure Function Library](http://functionlibrary.azurewebsites.net) - An open source set of common use cases for Azure Functions that are ready to deploy!
 * [aws-lambda-go](https://github.com/eawsy/aws-lambda-go) - Run standard Go code on the AWS Lambda platform.
