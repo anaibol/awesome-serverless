@@ -170,6 +170,7 @@ https://www.quora.com/What-is-serverless-computing
 * [AWS Lambda Test Runner](https://github.com/automatictester/lambda-test-runner) - Run your unit tests with Maven or SBT directly on AWS Lambda.
 * [LambCI](https://github.com/lambci/lambci) - A continuous integration system built on AWS Lambda
 * [Serverless Framework Pro](https://serverless.com/) - Serverless Framework Pro provides CI/CD, troubleshooting and monitoring for serverless applications
+* [Stackery CICD](https://docs.stackery.io/docs/using-stackery/verification-pipeline/) - Stackery Verification and Deployment Pipelines
 
 ### Cost calculators
 
