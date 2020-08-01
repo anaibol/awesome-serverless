@@ -238,6 +238,7 @@ https://www.quora.com/What-is-serverless-computing
 ### Forms
 * [Airform.io](https://airform.io) - Functional HTML forms for Front-End Developers.
 * [Form.io](https://form.io) - JSON Powered Form and Data Management Platform for Serverless applications.
+* [Formcake](https://formcake.com) - Form backend built for developers with spam protection, Zapier integration, and API access.
 * [Formspark](https://formspark.io) - A backend for your HTML forms.
 * [Formspree](https://formspree.io) - Functional HTML forms.
 * [FormKeep](https://formkeep.com) - Form endpoints for designers and developers. No iframes, JavaScript embeds, or CSS overrides.
