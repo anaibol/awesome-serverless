@@ -403,6 +403,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Cloud Operations](https://www.manning.com/books/cloud-operations) - A book that provides a holistic approach to CloudOps.
 * [Serverless Machine Learning in Action](https://www.manning.com/books/serverless-machine-learning-in-action) - A book on how to build serverless machine learning applications on public clouds like AWS, Azure, and GCP.
 * [Spring Microservices in Action, Second Edition](https://www.manning.com/books/spring-microservices-in-action-second-edition) - A book on how to build microservice-based applications using Java and the Spring platform and how to efficiently monitor and log your microservices operations.
+* [Spring Quickly](https://www.manning.com/books/spring-quickly) - A book that teaches you how to build professional-quality applications using Spring and Spring Boot.
 
 ## Courses
 
