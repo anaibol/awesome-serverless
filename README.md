@@ -405,6 +405,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Spring Microservices in Action, Second Edition](https://www.manning.com/books/spring-microservices-in-action-second-edition) - A book on how to build microservice-based applications using Java and the Spring platform and how to efficiently monitor and log your microservices operations.
 * [Spring Quickly](https://www.manning.com/books/spring-quickly) - A book that teaches you how to build professional-quality applications using Spring and Spring Boot.
 * [Azure Data Engineering](https://www.manning.com/books/azure-data-engineering) - A book that teaches the architectural, operational, and data management techniques that power cloud-based data infrastructure built on the Microsoft Azure platform
+* [AWS Security](https://www.manning.com/books/aws-security) - A guide to solving common AWS security issues.
 
 ## Courses
 
