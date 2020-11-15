@@ -246,6 +246,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 * [Airform.io](https://airform.io) - Functional HTML forms for Front-End Developers.
 * [Form.io](https://form.io) - JSON Powered Form and Data Management Platform for Serverless applications.
+* [Formcarry](https://formcarry.com) - Hassle-free HTML form endpoints for your form, powerful dashboard, reliable spam blocking, attachment uploads and Zapier integrations.
 * [Formcake](https://formcake.com) - Form backend built for developers with spam protection, Zapier integration, and API access.
 * [Formspark](https://formspark.io) - A backend for your HTML forms.
 * [Formspree](https://formspree.io) - Functional HTML forms.
