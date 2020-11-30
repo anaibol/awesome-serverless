@@ -407,6 +407,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Spring Quickly](https://www.manning.com/books/spring-quickly) - A book that teaches you how to build professional-quality applications using Spring and Spring Boot.
 * [Azure Data Engineering](https://www.manning.com/books/azure-data-engineering) - A book that teaches the architectural, operational, and data management techniques that power cloud-based data infrastructure built on the Microsoft Azure platform
 * [AWS Security](https://www.manning.com/books/aws-security) - A guide to solving common AWS security issues.
+* [Kubernetes Native Microservices with Quarkus, and MicroProfile](https://www.manning.com/books/kubernetes-native-microservices-with-quarkus-and-microprofile) - An introduction to a modern approach to enterprise Java development using new tools designed for cloud-native applications.
 
 ## Courses
 
