@@ -114,6 +114,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * ~~[Apex](http://apex.run)~~ - Minimal AWS Lambda function manager with support for multiple languages including Nodejs, Golang, Python, Java, Rust and Clojure.
 * [Architect](http://arc.codes) - Provision and deploy from a super simple plaintext manifest.
 * [AWS Amplify](https://aws-amplify.github.io/) - A declarative JavaScript library for application development using cloud services.
+* [Booster](https://www.booster.cloud) - An Open Source framework for developing event-driven serverless applications with TypeScript.
 * [Browser Functions](https://github.com/IBM/browser-functions) - A lightweight serverless platform that uses Web Browsers as execution engines.
 * [Up](https://up.docs.apex.sh/) - Deploy infinitely scalable serverless apps, apis, and sites in seconds.
 * [Chalice](https://github.com/awslabs/chalice) - Python serverless microframework from Amazon for AWS lambda.
