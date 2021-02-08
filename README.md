@@ -159,7 +159,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Riff](https://projectriff.io/) - Kubernetes based serverless framework supporting multiple languages.
 * [FuseLess](https://fuseless.org/) - toolkit for running functions written in CFML (ColdFusion Markup Language) on AWS Lambda.
 * [DropFaaS](https://dropfaas.com/) - Serverless framework for running functions written in any languages.
-
+* [Webiny Serverless Framework](https://www.webiny.com/serverless-application-framework?utm_source=awesome-serverless-github&utm_medium=Webiny-website&utm_campaign=webiny-awesome-serverless-repo&utm_content=webiny-serverless-framework-website&utm_term=W00526) - Webiny is a framework for building applications which run on top of the serverless infrastructure, like AWS Lambda. Webiny also includes several ready-made applications right out of the box.
 ## Security
 
 * [PureSec](https://www.puresec.io) - Enabling Secure and Reliable Serverless Applications.
