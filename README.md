@@ -50,7 +50,6 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ## All in one solutions
 
-* ~~[1Backend](https://1backend.com)~~ - A complete platform with a strong focus on application composability, type safe APIs and client library generation.
 * [AppDrag](https://appdrag.com) - Cloud Backend with SQL database and serverless API builder, Cloud CMS with domain management and email marketing tools
 * [Firebase](https://www.firebase.com) - Realtime database, authentication, hosting. A powerful platform for your mobile or web application.
 * [Back4App](https://www.back4app.com) - A Backend as a Service platform powered by Parse Open Source which you can use to build your app faster, host it with no hassles and keep full control over your Backend.
@@ -62,7 +61,6 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Hoodie](http://hood.ie) - Hoodie is a complete backend for your apps: develop your frontend code.
 * [Para](https://paraio.com) - Flexible and lightweight backend service for rapid prototyping, based on open source software.
 * [Parse Server](https://parseplatform.org/) - Parse Server is an open source version of the Parse backend that can be deployed to any infrastructure that can run Node.js. You can find the source on the [GitHub repo](https://github.com/parse-community/parse-server).
-* ~~[Backand](https://www.backand.com)~~ - One platform to develop and run multi-cloud Serverless applications.
 * [wolkenkit](https://www.wolkenkit.io) - wolkenkit is a CQRS and event-sourcing framework for JavaScript and Node.js which fits perfectly with domain-driven design (DDD).
 * [Kuzzle](https://kuzzle.io) - High performance cloud agnostic backend solution including persistence, authentication, realtime database and geofencing with a full featured cluster mode.
 * [serverless-cqrs](https://www.serverless-cqrs.com) - A collection tools to help you build a fully functioning backend based on the principles of CQRS, Event Sourcing, Domain Driven Design, and Onion Architecture.
@@ -86,8 +84,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Peer5](https://www.peer5.com) - The serverless CDN. Limitless, affordable video delivery. More traffic means a stronger network.
 * [StdLib](https://stdlib.com) - Function as a service library and platform.
 * ~~[Auth0 Webtasks](https://webtask.io)~~ - Run code with an HTTP call. No provisioning. No deployment. (No longer accepting new user sign ups)
-* ~~[Webscripts](https://www.webscript.io)~~ - Scripting on the web. (Shutting down December 15, 2017)
-* ~~[APItools](https://www.apitools.com)~~ - Troubleshoot, Modify, Monitor API traffic.
+* [Webscripts](https://www.webscript.io)~~ - Scripting on the web. (Shutting down December 15, 2017)
 * [Surge](http://surge.sh) - Deploy static sites from the command line.
 * [Netlify](https://netlify.com) - All-in-one platform for automating modern web projects. Build and host static sites, deploy AWS lambda functions, and more, all from git repositories.
 * [Aerobatic](https://www.aerobatic.com) - Deploy static sites from the command line with plugins including password protection, CORS proxy, and [more](https://www.aerobatic.com/docs/plugins).
@@ -279,7 +276,6 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ## Scheduling
 
-* [Hookless](https://hookless.co) - Schedule one time or recurring webhook triggers. Self-hosted or SaaS.
 * [Posthook](https://posthook.io/) - Run code only when you need to by scheduling webhooks for later. Set up workflows from your functions and run them on a repeating schedule.
 
 ## Email sending, subscriptions and newsletters
