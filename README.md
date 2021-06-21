@@ -30,6 +30,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 - [SMS sending](#sms-sending)
 - [Push notifications](#push-notifications)
 - [Databases](#databases)
+- [Templates/Boilerplates](#templates)
 - [Others](#others)
 - [Related articles](#related-articles)
 - [Books](#books)
@@ -315,6 +316,10 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [ParanoidGuy Databunker](https://github.com/paranoidguy/databunker) - Personally identifiable information (PII) storage service built to comply with GDPR and CCPA
 * [Lambda Store](https://lambda.store/) - Pay-as-you-go Redis-compatible data storage.
 * [Deta Base](https://deta.sh) - A super easy to use production-grade NoSQL database.that supports complex queries and search.
+
+## Templates
+
+* [nx-serverless](https://github.com/sudokar/nx-serverless) - A monorepo style template project for serverless framework using [Nx](https://nx.dev)
 
 ## Others
 
