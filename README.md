@@ -169,6 +169,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Awesome-Serverless-Security](https://github.com/puresec/awesome-serverless-security/) - A curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
 * [Protego](https://www.protego.io) - your apps became serverless. Your security also need to be serverless too.
 * [Nuweba](https://www.nuweba.com) - Unified solution for serverless security, monitoring and performance.
+* [Serverless Security](https://ServerlessSecurityBook.com) - An Apress book that discusses serverless security on AWS, Azure and Google Cloud.
 
 ## CI/CD
 
@@ -407,6 +408,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [AWS Security](https://www.manning.com/books/aws-security) - A guide to solving common AWS security issues.
 * [Kubernetes Native Microservices with Quarkus, and MicroProfile](https://www.manning.com/books/kubernetes-native-microservices-with-quarkus-and-microprofile) - An introduction to a modern approach to enterprise Java development using new tools designed for cloud-native applications.
 * [Pipeline as Code](https://www.manning.com/books/pipeline-as-code) - A hands-on experience on how to build CI/CD pipelines with Jenkins for cloud-native applications (including Serverless apps).
+* [Serverless Security](https://ServerlessSecurityBook.com) - An Apress book that discusses serverless security on AWS, Azure and Google Cloud.
 
 ## Courses
 
