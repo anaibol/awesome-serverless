@@ -409,6 +409,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Pipeline as Code](https://www.manning.com/books/pipeline-as-code) - A hands-on experience on how to build CI/CD pipelines with Jenkins for cloud-native applications (including Serverless apps).
 * [Azure Infrastructure as Code](https://www.manning.com/books/azure-infrastructure-as-code) - Master ARM templates, Bicep scripting, and other Azure Infrastructure-as-Code tools, techniques, and practices to run application infrastructure on the Azure cloud.
 * [Securing Kubernetes Secrets](https://www.manning.com/books/securing-kubernetes-secrets) - Securing Kubernetes Secrets is a compact hands-on guide to storing and protecting sensitive data in a Kubernetes environment.
+* [Kubeflow in Action](https://www.manning.com/books/kubeflow-in-action) - Guide to deploying machine learning to production using the Kubeflow MLOps platform.
 
 ## Courses
 
