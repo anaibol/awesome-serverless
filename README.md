@@ -169,7 +169,6 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Awesome-Serverless-Security](https://github.com/puresec/awesome-serverless-security/) - A curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
 * [Protego](https://www.protego.io) - your apps became serverless. Your security also need to be serverless too.
 * [Nuweba](https://www.nuweba.com) - Unified solution for serverless security, monitoring and performance.
-* [Serverless Security](https://ServerlessSecurityBook.com) - An Apress book that discusses serverless security on AWS, Azure and Google Cloud.
 
 ## CI/CD
 
