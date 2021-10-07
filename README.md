@@ -195,6 +195,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Lumigo](https://www.lumigo.io) - Lumigo provides a platform for serverless monitoring and troubleshooting.
 * [serverless-es-logger](https://github.com/ccverak/serverless-es-logger) - serverless-es-logger is a package which allows you to send logs directly to Elasticsearch.
 * [Serverless Framework Pro](https://www.serverless.com/pro/) - Serverless Framework Pro give you detailed invocation/request troubleshooting and monitoring tools for serverless applications
+* [SLIC Watch](https://github.com/fourTheorem/slic-watch) - Automatic alarms and dashboards for Lambda, Kinesis and more AWS services.
 * [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) - In terminal developer dashboard for AWS Serverless architectures. *(Does not replace your framework or logging/monitoring, it's used in addition)*
 
 ## Authentication and authorization
@@ -409,6 +410,11 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Kubernetes Native Microservices with Quarkus, and MicroProfile](https://www.manning.com/books/kubernetes-native-microservices-with-quarkus-and-microprofile) - An introduction to a modern approach to enterprise Java development using new tools designed for cloud-native applications.
 * [Pipeline as Code](https://www.manning.com/books/pipeline-as-code) - A hands-on experience on how to build CI/CD pipelines with Jenkins for cloud-native applications (including Serverless apps).
 * [Serverless Security](https://ServerlessSecurityBook.com) - An Apress book that discusses serverless security on AWS, Azure and Google Cloud.
+* [Azure Infrastructure as Code](https://www.manning.com/books/azure-infrastructure-as-code) - Master ARM templates, Bicep scripting, and other Azure Infrastructure-as-Code tools, techniques, and practices to run application infrastructure on the Azure cloud.
+* [Securing Kubernetes Secrets](https://www.manning.com/books/securing-kubernetes-secrets) - Securing Kubernetes Secrets is a compact hands-on guide to storing and protecting sensitive data in a Kubernetes environment.
+* [Kubeflow in Action](https://www.manning.com/books/kubeflow-in-action) - Guide to deploying machine learning to production using the Kubeflow MLOps platform.
+* [Kubernets on Windows](https://www.manning.com/books/kubernetes-on-windows) - Guide to successfully running windows and .NET applications on a Kubernetes cluster.
+* [Serverless Architectures on AWS, Second Edition](https://www.manning.com/books/serverless-architectures-on-aws-second-edition) - Book that teaches you how to design, secure and manage serverless backends that can power the most demanding web and mobile apps.
 
 ## Courses
 
