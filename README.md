@@ -411,6 +411,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Securing Kubernetes Secrets](https://www.manning.com/books/securing-kubernetes-secrets) - Securing Kubernetes Secrets is a compact hands-on guide to storing and protecting sensitive data in a Kubernetes environment.
 * [Kubeflow in Action](https://www.manning.com/books/kubeflow-in-action) - Guide to deploying machine learning to production using the Kubeflow MLOps platform.
 * [Kubernets on Windows](https://www.manning.com/books/kubernetes-on-windows) - Guide to successfully running windows and .NET applications on a Kubernetes cluster.
+* * [Serverless Architectures on AWS, Second Edition](https://www.manning.com/books/serverless-architectures-on-aws-second-edition) - Book that teaches you how to design, secure and manage serverless backends that can power the most demanding web and mobile apps.
 
 ## Courses
 
