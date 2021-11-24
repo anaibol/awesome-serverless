@@ -414,6 +414,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Serverless Architectures on AWS, Second Edition](https://www.manning.com/books/serverless-architectures-on-aws-second-edition) - Book that teaches you how to design, secure and manage serverless backends that can power the most demanding web and mobile apps.
 * [Designing Cloud Data Platforms](https://www.manning.com/books/designing-cloud-data-platforms) - A hands-on guide to envisioning and designing a modern scalable data platform that takes full advantage of the flexibility of the cloud.
 * [Terraform in Action](https://www.manning.com/books/terraform-in-action) - Use Terraform to programmatically create, test, and manage infrastructure using the efficient infrastructure-as-code approach.
+* [Securing Cloud Applications](https://www.manning.com/books/securing-cloud-applications) - This book demonstrates effective real-world practices to keep your cloud and Kubernetes-deployed applications safe and sound.
 
 ## Courses
 
