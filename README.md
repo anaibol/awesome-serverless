@@ -65,7 +65,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Kuzzle](https://kuzzle.io) - High performance cloud agnostic backend solution including persistence, authentication, realtime database and geofencing with a full featured cluster mode.
 * [serverless-cqrs](https://www.serverless-cqrs.com) - A collection tools to help you build a fully functioning backend based on the principles of CQRS, Event Sourcing, Domain Driven Design, and Onion Architecture.
 * [ops](https://ops.city) - A free open source tool that allows anyone to build, run and deploy normal linux applications as unikernels.
-* [Elastictable](https://www.elastictable.com) - Low-code Backend as a Service solution, powered by Amazon Web Services, on a mission to increase the success rate of online businesses.
+* ~~[Elastictable]~~(https://www.elastictable.com) - Low-code Backend as a Service solution, powered by Amazon Web Services, on a mission to increase the success rate of online businesses.
 
 ## Hosting and code execution in the cloud
 
