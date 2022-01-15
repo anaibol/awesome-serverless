@@ -134,6 +134,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Lambdoku](https://github.com/kubek2k/lambdoku) - Heroku-like experience when using AWS Lambda.
 * [lgw](https://github.com/ebridges/lgw) - Simply & easily configure an AWS Gateway & domain name in front of a Lambda.
 * [Lovage](https://github.com/CloudSnorkel/lovage) - Python-only serverless framework that's more RPC-like and less HTTP service oriented.
+* [Mantil](https://github.com/mantil-io/mantil) - Golang serverless development kit for AWS Lambda. Tool for developers that removes ops work for them, not just another infrastructure tool.
 * [middy](https://middy.js.org/) - Node.js middleware engine for AWS Lambda.
 * [modofun](https://modofun.js.org) - A lightweight no-dependencies function router for both AWS Lambda and Google Cloud Functions, and that supports Connect/Express middleware.
 * [OpenFaaS](https://www.openfaas.com) - Serverless Functions Made Simple for Docker and Kubernetes.
