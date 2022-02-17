@@ -415,6 +415,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Designing Cloud Data Platforms](https://www.manning.com/books/designing-cloud-data-platforms) - A hands-on guide to envisioning and designing a modern scalable data platform that takes full advantage of the flexibility of the cloud.
 * [Terraform in Action](https://www.manning.com/books/terraform-in-action) - Use Terraform to programmatically create, test, and manage infrastructure using the efficient infrastructure-as-code approach.
 * [Securing Cloud Applications](https://www.manning.com/books/securing-cloud-applications) - This book demonstrates effective real-world practices to keep your cloud and Kubernetes-deployed applications safe and sound.
+* [Google Anthos in Action](https://www.manning.com/books/google-anthos-in-action) - A book about Google Anthos created by the Google development team.
 
 ## Courses
 
