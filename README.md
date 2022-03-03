@@ -347,6 +347,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * ~~[Lambda Scaling Calculator](http://lambdascalingcalculator.com)~~ - Interactive calculator to identify the scaling limits of functions and provide customized tuning recommendations.
 * [Mutton](https://github.com/hmngwy/mutton) - A Python shim library for better AWS Lambda Handlers
 * [Serverless Permission Policy Generator](https://github.com/Open-SL/serverless-permission-generator) - An Online Application to generate AWS IAM permissions required for deploying a Serverless stack.
+* [DynamoDB Onetable](https://www.npmjs.com/package/dynamodb-onetable) - DynamoDB access library for single-table designs using NodeJS.
 
 ## Related articles
 
