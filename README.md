@@ -417,6 +417,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Securing Cloud Applications](https://www.manning.com/books/securing-cloud-applications) - This book demonstrates effective real-world practices to keep your cloud and Kubernetes-deployed applications safe and sound.
 * [Google Anthos in Action](https://www.manning.com/books/google-anthos-in-action) - A book about Google Anthos created by the Google development team.
 * [Kubernetes in Action, Second Edition](https://www.manning.com/books/kubernetes-in-action-second-edition) - A fully-updated and comprehensive guide to developing and running applications in a Kubernetes environment.
+* [Cloud Observability in Action](https://www.manning.com/books/cloud-observability-in-action) - A book that teaches you how to set up an observability system that learns from a cloud application’s signals, logging, and monitoring using free and open source tools.
 
 ## Courses
 
