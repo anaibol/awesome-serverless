@@ -278,6 +278,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 ## Scheduling
 
 * [Posthook](https://posthook.io/) - Run code only when you need to by scheduling webhooks for later. Set up workflows from your functions and run them on a repeating schedule.
+* [qStash](https://upstash.com/qstash) - Push based messaging and scheduling over HTTP for serverless and edge runtimes with 50 requests per day for free.
 
 ## Email sending, subscriptions and newsletters
 
