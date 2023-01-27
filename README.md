@@ -68,7 +68,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Elastictable](https://www.elastictable.com) - Low-code Backend as a Service solution, powered by Amazon Web Services, on a mission to increase the success rate of online businesses.
 
 ## Hosting and code execution in the cloud
-
+* [Stormkit](https://stormkit.io) - Stormkit, the hassle-free platform for deploying your full stack JavaScript applications. With Stormkit, you don't have to worry about managing servers or infrastructure, as we take care of it all for you. Stormkit integrates seamlessly with popular Git hosting services, such as GitHub and GitLab, to provide a streamlined development and deployment experience. Simply connect your Git repository and Stormkit handles the rest, including automatic build, deployment, and infrastructure management. Stormkit also includes powerful features such as rollback, testing, and monitoring, to ensure your application is always running smoothly.
 * [FaaStRuby](https://faastruby.io) - Serverless Software Development Platform for Ruby and Crystal developers.
 * [Amazon Lambda](https://aws.amazon.com/lambda) - Run code without thinking about servers. Pay for only the compute time you consume.
 * [Google Cloud Functions](https://cloud.google.com/functions/docs) - Lightweight, event-based, asynchronous compute solution that allows you to create small, single-purpose functions that respond to cloud events without the need to manage a server or a runtime environment.
