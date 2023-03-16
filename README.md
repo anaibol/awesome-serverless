@@ -370,6 +370,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Continuous Delivery Patterns with Serverless Applications](https://semaphoreci.com/blog/2018/08/22/continuous-delivery-patterns-with-serverless.html) - patterns for effective Continuous Delivery when building Serverless applications.
 * [Level up your serverless game with a GraphQL data-as-a-service layer](https://hasura.io/blog/level-up-your-serverless-game-with-a-graphql-data-as-a-service-layer/)
 * [Serverless White Paper](https://www.unusual.vc/post/unusual-tech-serverless-white-paper) - Informative White Paper on Serverless with deep analysis by Unusual VC.
+* [Receiving Webhooks with Netlify Functions](https://www.svix.com/blog/receive-webhooks-with-netlify-functions/) - Using Netlify's serverless functions to receive webhooks and verify the signature.
 
 ## Books
 
