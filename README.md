@@ -121,6 +121,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [FaasJS](https://faasjs.com) - A Node.js Serverless Application Framework.
 * [flowbject](https://github.com/alex20465/flowbject) - A high-level library whose aim is to help with writing state-machine flows.
 * [FunctionShield](https://github.com/puresec/FunctionShield) - A security library that equips developers with the ability to easily enforce strict security controls on AWS Lambda function runtime by addressing 3 common use cases: 1) Disable outbound internet connectivity. 2) Disable read/write on the /tmp/ directory 3) Disable child process execution.
+* [genezio](https://genez.io/?utm_source=awesome-serverless-github&utm_medium=website&utm_campaign=awesome-serverless) - a platform for developers to write, deploy and use a serverless API.
 * [Gordon](https://github.com/jorgebastida/gordon) - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation.
 * ~~[Gestalt Framework](http://www.galacticfog.com/product.html)~~ - Gestalt's Lambda Application SERver (LASER)” for short, is a lambda service that supports running .Net, Javascript, Java, Scala, Ruby, and Python lambdas.
 * [IronFunctions](https://github.com/iron-io/functions) - The Serverless Microservices platform.
