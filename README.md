@@ -231,6 +231,9 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Snipcart](https://snipcart.com) - Fully customizable, HTML and JavaScript-based shopping cart for any website.
 * [CommerceJS](http://commercejs.com/) - Full-stack ecommerce api for developers & designers.
 * [EndlessCommerce](https://github.com/endless-commerce/endless) - Open source ecommerce platform based on Serverless framework.
+* [Medusa](https://medusajs.com/) - Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
+
+
 
 ## Content Management Systems
 
