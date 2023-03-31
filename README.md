@@ -319,7 +319,6 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Cube.js](https://cube.dev/) - Hosted analytics platform for serverless apps.
 * [Google Cloud Datastore](https://cloud.google.com/datastore/) - Hosted NoSQL database service by Google
 * [ParanoidGuy Databunker](https://github.com/paranoidguy/databunker) - Personally identifiable information (PII) storage service built to comply with GDPR and CCPA
-* [Lambda Store](https://lambda.store/) - Pay-as-you-go Redis-compatible data storage.
 * [Deta Base](https://deta.sh) - A super easy to use production-grade NoSQL database.that supports complex queries and search.
 * [Upstash](https://upstash.com/) - Serverless Database for Redis
 
