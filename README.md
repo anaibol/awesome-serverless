@@ -184,19 +184,22 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [serverlesscalc](http://serverlesscalc.com) - Calculating cost for AWS Lambda, Azure Functions, Google Cloud Functions, and IBM Cloud Functions.
 * [servers.lol](https://servers.lol) - calculator to decide Lambda vs EC2.
 
-## Logging / Monitoring / Performance / Tracing
+## Observability Tools (Logging / Monitoring / Performance / Tracing)
 
 * [AWS IoT Button logger to git](https://github.com/kachkaev/aws-iot-button-logger-to-git/) - A simple and customisable AWS Lambda function that logs events from IoT devices into a git repository of your choice.
 * [AWS Xray](https://aws.amazon.com/xray/) - Analyze and debug production, distributed applications.
 * [Dashbird](https://www.dashbird.io) - Performance Tracking and Error Alerting for serverless applications.
 * [New Relic](https://newrelic.com/products/serverless-aws-lambda) - Monitor, visualize, troubleshoot, and alert on all your AWS Lambda functions.
 * [Thundra](https://www.thundra.io) - Thundra brings observability into your AWS Lambda functions by bringing metrics, logs, distributed tracing, and alerting together.
-* [Epsagon](https://www.epsagon.com) - Epsagon automatically analyses your serverless application, identifies potential issues, and allows fast troubleshooting.
 * [Lumigo](https://www.lumigo.io) - Lumigo provides a platform for serverless monitoring and troubleshooting.
 * [serverless-es-logger](https://github.com/ccverak/serverless-es-logger) - serverless-es-logger is a package which allows you to send logs directly to Elasticsearch.
 * [Serverless Framework Pro](https://www.serverless.com/pro/) - Serverless Framework Pro give you detailed invocation/request troubleshooting and monitoring tools for serverless applications
 * [SLIC Watch](https://github.com/fourTheorem/slic-watch) - Automatic alarms and dashboards for Lambda, Kinesis and more AWS services.
 * [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) - In terminal developer dashboard for AWS Serverless architectures. *(Does not replace your framework or logging/monitoring, it's used in addition)*
+
+## Optimization and Management
+* [Epsagon](https://www.epsagon.com) - Epsagon automatically analyses your serverless application, identifies potential issues, and allows fast troubleshooting.
+* [Sedai] https://www.sedai.io) - Sedai autnonomously manages your serverless application, optimizing for performance and cost, remediating potential issues, and providing release intelligence on each new version.
 
 ## Authentication and authorization
 
