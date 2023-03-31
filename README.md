@@ -196,6 +196,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Serverless Framework Pro](https://www.serverless.com/pro/) - Serverless Framework Pro give you detailed invocation/request troubleshooting and monitoring tools for serverless applications
 * [SLIC Watch](https://github.com/fourTheorem/slic-watch) - Automatic alarms and dashboards for Lambda, Kinesis and more AWS services.
 * [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) - In terminal developer dashboard for AWS Serverless architectures. *(Does not replace your framework or logging/monitoring, it's used in addition)*
+* [SenseDeep](https://www.sensedeep.com) - SenseDeep serverless developer studio helps to quickly diagnose, debug and deliver reliable serverless apps.
 
 ## Optimization and Management
 * [Epsagon](https://www.epsagon.com) - Epsagon automatically analyses your serverless application, identifies potential issues, and allows fast troubleshooting.
@@ -350,6 +351,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * ~~[Lambda Scaling Calculator](http://lambdascalingcalculator.com)~~ - Interactive calculator to identify the scaling limits of functions and provide customized tuning recommendations.
 * [Mutton](https://github.com/hmngwy/mutton) - A Python shim library for better AWS Lambda Handlers
 * [Serverless Permission Policy Generator](https://github.com/Open-SL/serverless-permission-generator) - An Online Application to generate AWS IAM permissions required for deploying a Serverless stack.
+* [DynamoDB Onetable](https://www.npmjs.com/package/dynamodb-onetable) - DynamoDB access library for single-table designs using NodeJS.
 
 ## Related articles
 
