@@ -52,7 +52,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 * [AppDrag](https://appdrag.com) - Cloud Backend with SQL database and serverless API builder, Cloud CMS with domain management and email marketing tools
 * [Firebase](https://www.firebase.com) - Realtime database, authentication, hosting. A powerful platform for your mobile or web application.
-*  [Klotho](https://github.com/KlothoPlatform/klotho) - Serverless-enabled Infrastructure-from-Code tool that transforms plain code into cloud native code.
+* [Klotho](https://github.com/KlothoPlatform/klotho) - Serverless-enabled Infrastructure-from-Code tool that transforms plain code into cloud native code.
 * [Back4App](https://www.back4app.com) - A Backend as a Service platform powered by Parse Open Source which you can use to build your app faster, host it with no hassles and keep full control over your Backend.
 * [LeanCloud](https://leancloud.app) - Serverless cloud for lightning-fast development.
 * [Backendless](https://backendless.com) - Realtime database, authentication, hosting.
