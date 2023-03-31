@@ -52,6 +52,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 * [AppDrag](https://appdrag.com) - Cloud Backend with SQL database and serverless API builder, Cloud CMS with domain management and email marketing tools
 * [Firebase](https://www.firebase.com) - Realtime database, authentication, hosting. A powerful platform for your mobile or web application.
+* [Klotho](https://github.com/KlothoPlatform/klotho) - Serverless-enabled Infrastructure-from-Code tool that transforms plain code into cloud native code.
 * [Back4App](https://www.back4app.com) - A Backend as a Service platform powered by Parse Open Source which you can use to build your app faster, host it with no hassles and keep full control over your Backend.
 * [LeanCloud](https://leancloud.app) - Serverless cloud for lightning-fast development.
 * [Backendless](https://backendless.com) - Realtime database, authentication, hosting.
@@ -121,6 +122,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [FaasJS](https://faasjs.com) - A Node.js Serverless Application Framework.
 * [flowbject](https://github.com/alex20465/flowbject) - A high-level library whose aim is to help with writing state-machine flows.
 * [FunctionShield](https://github.com/puresec/FunctionShield) - A security library that equips developers with the ability to easily enforce strict security controls on AWS Lambda function runtime by addressing 3 common use cases: 1) Disable outbound internet connectivity. 2) Disable read/write on the /tmp/ directory 3) Disable child process execution.
+* [genezio](https://genez.io/?utm_source=awesome-serverless-github&utm_medium=website&utm_campaign=awesome-serverless) - a platform for developers to write, deploy and use a serverless API.
 * [Gordon](https://github.com/jorgebastida/gordon) - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation.
 * ~~[Gestalt Framework](http://www.galacticfog.com/product.html)~~ - Gestalt's Lambda Application SERver (LASER)” for short, is a lambda service that supports running .Net, Javascript, Java, Scala, Ruby, and Python lambdas.
 * [IronFunctions](https://github.com/iron-io/functions) - The Serverless Microservices platform.
@@ -145,6 +147,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Shep](https://github.com/bustlelabs/shep) - A framework for building APIs using AWS API Gateway and Lambda.
 * [Sigma](https://www.slappforge.com/sigma) - An all-in-one, browser-based IDE toolkit for drag-n-drop composing, testing and deploying of serverless applications, with fully automated configuration management.
 * [Sparta](http://gosparta.io) - A framework that transforms a Go application into an AWS Lambda powered microservice.
+* [Stacktape](https://stacktape.com) - DevOps-free cloud framework. Deploy lambdas, containers, databases & more to AWS with 98% less config.
 * [SAM Local](https://github.com/awslabs/aws-sam-local) - Is the AWS CLI tool for managing Serverless applications written with [AWS Serverless Application Model (SAM)](https://github.com/awslabs/serverless-application-model)
 * [Turtle](https://github.com/iopipe/turtle/) - library for building functional and actor-driven NodeJS apps on Lambda.
 * [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python WSGI with AWS Lambda + API Gateway.
@@ -183,10 +186,11 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [serverlesscalc](http://serverlesscalc.com) - Calculating cost for AWS Lambda, Azure Functions, Google Cloud Functions, and IBM Cloud Functions.
 * [servers.lol](https://servers.lol) - calculator to decide Lambda vs EC2.
 
-## Logging / Monitoring / Performance / Tracing
+## Observability Tools (Logging / Monitoring / Performance / Tracing)
 
 * [AWS IoT Button logger to git](https://github.com/kachkaev/aws-iot-button-logger-to-git/) - A simple and customisable AWS Lambda function that logs events from IoT devices into a git repository of your choice.
 * [AWS Xray](https://aws.amazon.com/xray/) - Analyze and debug production, distributed applications.
+* [Axiom](https://axiom.co/) - Serverless first logging with a generous free tier.
 * [Dashbird](https://www.dashbird.io) - Performance Tracking and Error Alerting for serverless applications.
 * [New Relic](https://newrelic.com/products/serverless-aws-lambda) - Monitor, visualize, troubleshoot, and alert on all your AWS Lambda functions.
 * [Thundra](https://www.thundra.io) - Thundra brings observability into your AWS Lambda functions by bringing metrics, logs, distributed tracing, and alerting together.
@@ -196,6 +200,11 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Serverless Framework Pro](https://www.serverless.com/pro/) - Serverless Framework Pro give you detailed invocation/request troubleshooting and monitoring tools for serverless applications
 * [SLIC Watch](https://github.com/fourTheorem/slic-watch) - Automatic alarms and dashboards for Lambda, Kinesis and more AWS services.
 * [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) - In terminal developer dashboard for AWS Serverless architectures. *(Does not replace your framework or logging/monitoring, it's used in addition)*
+* [SenseDeep](https://www.sensedeep.com) - SenseDeep serverless developer studio helps to quickly diagnose, debug and deliver reliable serverless apps.
+
+## Optimization and Management
+* [Epsagon](https://www.epsagon.com) - Epsagon automatically analyses your serverless application, identifies potential issues, and allows fast troubleshooting.
+* [Sedai] https://www.sedai.io) - Sedai autnonomously manages your serverless application, optimizing for performance and cost, remediating potential issues, and providing release intelligence on each new version.
 
 ## Authentication and authorization
 
@@ -225,6 +234,9 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Snipcart](https://snipcart.com) - Fully customizable, HTML and JavaScript-based shopping cart for any website.
 * [CommerceJS](http://commercejs.com/) - Full-stack ecommerce api for developers & designers.
 * [EndlessCommerce](https://github.com/endless-commerce/endless) - Open source ecommerce platform based on Serverless framework.
+* [Medusa](https://medusajs.com/) - Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
+
+
 
 ## Content Management Systems
 
@@ -278,6 +290,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 ## Scheduling
 
 * [Posthook](https://posthook.io/) - Run code only when you need to by scheduling webhooks for later. Set up workflows from your functions and run them on a repeating schedule.
+* [qStash](https://upstash.com/qstash) - Push based messaging and scheduling over HTTP for serverless and edge runtimes with 50 requests per day for free.
 
 ## Email sending, subscriptions and newsletters
 
@@ -314,7 +327,6 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Cube.js](https://cube.dev/) - Hosted analytics platform for serverless apps.
 * [Google Cloud Datastore](https://cloud.google.com/datastore/) - Hosted NoSQL database service by Google
 * [ParanoidGuy Databunker](https://github.com/paranoidguy/databunker) - Personally identifiable information (PII) storage service built to comply with GDPR and CCPA
-* [Lambda Store](https://lambda.store/) - Pay-as-you-go Redis-compatible data storage.
 * [Deta Base](https://deta.sh) - A super easy to use production-grade NoSQL database.that supports complex queries and search.
 * [Upstash](https://upstash.com/) - Serverless Database for Redis
 
@@ -346,6 +358,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * ~~[Lambda Scaling Calculator](http://lambdascalingcalculator.com)~~ - Interactive calculator to identify the scaling limits of functions and provide customized tuning recommendations.
 * [Mutton](https://github.com/hmngwy/mutton) - A Python shim library for better AWS Lambda Handlers
 * [Serverless Permission Policy Generator](https://github.com/Open-SL/serverless-permission-generator) - An Online Application to generate AWS IAM permissions required for deploying a Serverless stack.
+* [DynamoDB Onetable](https://www.npmjs.com/package/dynamodb-onetable) - DynamoDB access library for single-table designs using NodeJS.
 
 ## Related articles
 
@@ -370,6 +383,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Continuous Delivery Patterns with Serverless Applications](https://semaphoreci.com/blog/2018/08/22/continuous-delivery-patterns-with-serverless.html) - patterns for effective Continuous Delivery when building Serverless applications.
 * [Level up your serverless game with a GraphQL data-as-a-service layer](https://hasura.io/blog/level-up-your-serverless-game-with-a-graphql-data-as-a-service-layer/)
 * [Serverless White Paper](https://www.unusual.vc/post/unusual-tech-serverless-white-paper) - Informative White Paper on Serverless with deep analysis by Unusual VC.
+* [Receiving Webhooks with Netlify Functions](https://www.svix.com/blog/receive-webhooks-with-netlify-functions/) - Using Netlify's serverless functions to receive webhooks and verify the signature.
 
 ## Books
 
@@ -411,9 +425,15 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Serverless Security](https://ServerlessSecurityBook.com) - An Apress book that discusses serverless security on AWS, Azure and Google Cloud.
 * [Azure Infrastructure as Code](https://www.manning.com/books/azure-infrastructure-as-code) - Master ARM templates, Bicep scripting, and other Azure Infrastructure-as-Code tools, techniques, and practices to run application infrastructure on the Azure cloud.
 * [Securing Kubernetes Secrets](https://www.manning.com/books/securing-kubernetes-secrets) - Securing Kubernetes Secrets is a compact hands-on guide to storing and protecting sensitive data in a Kubernetes environment.
-* [Kubeflow in Action](https://www.manning.com/books/kubeflow-in-action) - Guide to deploying machine learning to production using the Kubeflow MLOps platform.
 * [Kubernets on Windows](https://www.manning.com/books/kubernetes-on-windows) - Guide to successfully running windows and .NET applications on a Kubernetes cluster.
 * [Serverless Architectures on AWS, Second Edition](https://www.manning.com/books/serverless-architectures-on-aws-second-edition) - Book that teaches you how to design, secure and manage serverless backends that can power the most demanding web and mobile apps.
+* [Designing Cloud Data Platforms](https://www.manning.com/books/designing-cloud-data-platforms) - A hands-on guide to envisioning and designing a modern scalable data platform that takes full advantage of the flexibility of the cloud.
+* [Terraform in Action](https://www.manning.com/books/terraform-in-action) - Use Terraform to programmatically create, test, and manage infrastructure using the efficient infrastructure-as-code approach.
+* [Securing Cloud Applications](https://www.manning.com/books/securing-cloud-applications) - This book demonstrates effective real-world practices to keep your cloud and Kubernetes-deployed applications safe and sound.
+* [Google Anthos in Action](https://www.manning.com/books/google-anthos-in-action) - A book about Google Anthos created by the Google development team.
+* [Kubernetes in Action, Second Edition](https://www.manning.com/books/kubernetes-in-action-second-edition) - A fully-updated and comprehensive guide to developing and running applications in a Kubernetes environment.
+* [Cloud Observability in Action](https://www.manning.com/books/cloud-observability-in-action) - A book that teaches you how to set up an observability system that learns from a cloud application’s signals, logging, and monitoring using free and open source tools.
+* [Podman in Action](https://www.manning.com/books/podman-in-action) - A book about developing and managing rootless containers using Podman.
 
 ## Courses
 
