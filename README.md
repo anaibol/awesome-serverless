@@ -416,9 +416,15 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Serverless Security](https://ServerlessSecurityBook.com) - An Apress book that discusses serverless security on AWS, Azure and Google Cloud.
 * [Azure Infrastructure as Code](https://www.manning.com/books/azure-infrastructure-as-code) - Master ARM templates, Bicep scripting, and other Azure Infrastructure-as-Code tools, techniques, and practices to run application infrastructure on the Azure cloud.
 * [Securing Kubernetes Secrets](https://www.manning.com/books/securing-kubernetes-secrets) - Securing Kubernetes Secrets is a compact hands-on guide to storing and protecting sensitive data in a Kubernetes environment.
-* [Kubeflow in Action](https://www.manning.com/books/kubeflow-in-action) - Guide to deploying machine learning to production using the Kubeflow MLOps platform.
 * [Kubernets on Windows](https://www.manning.com/books/kubernetes-on-windows) - Guide to successfully running windows and .NET applications on a Kubernetes cluster.
 * [Serverless Architectures on AWS, Second Edition](https://www.manning.com/books/serverless-architectures-on-aws-second-edition) - Book that teaches you how to design, secure and manage serverless backends that can power the most demanding web and mobile apps.
+* [Designing Cloud Data Platforms](https://www.manning.com/books/designing-cloud-data-platforms) - A hands-on guide to envisioning and designing a modern scalable data platform that takes full advantage of the flexibility of the cloud.
+* [Terraform in Action](https://www.manning.com/books/terraform-in-action) - Use Terraform to programmatically create, test, and manage infrastructure using the efficient infrastructure-as-code approach.
+* [Securing Cloud Applications](https://www.manning.com/books/securing-cloud-applications) - This book demonstrates effective real-world practices to keep your cloud and Kubernetes-deployed applications safe and sound.
+* [Google Anthos in Action](https://www.manning.com/books/google-anthos-in-action) - A book about Google Anthos created by the Google development team.
+* [Kubernetes in Action, Second Edition](https://www.manning.com/books/kubernetes-in-action-second-edition) - A fully-updated and comprehensive guide to developing and running applications in a Kubernetes environment.
+* [Cloud Observability in Action](https://www.manning.com/books/cloud-observability-in-action) - A book that teaches you how to set up an observability system that learns from a cloud application’s signals, logging, and monitoring using free and open source tools.
+* [Podman in Action](https://www.manning.com/books/podman-in-action) - A book about developing and managing rootless containers using Podman.
 
 ## Courses
 
