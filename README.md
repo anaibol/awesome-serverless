@@ -187,6 +187,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [AWS Xray](https://aws.amazon.com/xray/) - Analyze and debug production, distributed applications.
 * [Axiom](https://axiom.co/) - Serverless first logging with a generous free tier.
 * [Dashbird](https://www.dashbird.io) - Performance Tracking and Error Alerting for serverless applications.
+* [functionmetric](https://functionmetric.com) - Unlimited AWS Lambda monitoring via a self hosted CloudFormation template. All metrics and logs remain in your own AWS account.
 * [New Relic](https://newrelic.com/products/serverless-aws-lambda) - Monitor, visualize, troubleshoot, and alert on all your AWS Lambda functions.
 * [Thundra](https://www.thundra.io) - Thundra brings observability into your AWS Lambda functions by bringing metrics, logs, distributed tracing, and alerting together.
 * [Epsagon](https://www.epsagon.com) - Epsagon automatically analyses your serverless application, identifies potential issues, and allows fast troubleshooting.
