@@ -70,7 +70,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 ## Hosting and code execution in the cloud
 
 * [FaaStRuby](https://faastruby.io) - Serverless Software Development Platform for Ruby and Crystal developers.
-* [Amazon Lambda](https://aws.amazon.com/lambda) - Run code without thinking about servers. Pay for only the compute time you consume.
+* [AWS Lambda](https://aws.amazon.com/lambda) - Run code without thinking about servers. Pay for only the compute time you consume.
 * [Google Cloud Functions](https://cloud.google.com/functions/docs) - Lightweight, event-based, asynchronous compute solution that allows you to create small, single-purpose functions that respond to cloud events without the need to manage a server or a runtime environment.
 * [MongoDB Stitch](https://www.mongodb.com/cloud/stitch) - Serverless platform from MongoDB.
 * [Spotinst Functions](https://spotinst.com/products/spotinst-functions/) - Deploy serverless functions with our easy to use framework that launch onto the Spot Market for cheap and convenient use.
