@@ -320,6 +320,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [ParanoidGuy Databunker](https://github.com/paranoidguy/databunker) - Personally identifiable information (PII) storage service built to comply with GDPR and CCPA
 * [Deta Base](https://deta.sh) - A super easy to use production-grade NoSQL database.that supports complex queries and search.
 * [Upstash](https://upstash.com/) - Serverless Database for Redis
+* [HarperDB](https://www.harperdb.io/) - Peer-to-peer database that is independent of hardware and network providers, accommodates both NoSQL and SQL workloads. 
 
 ## Others
 
