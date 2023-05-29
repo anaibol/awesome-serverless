@@ -321,6 +321,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Deta Base](https://deta.sh) - A super easy to use production-grade NoSQL database.that supports complex queries and search.
 * [Upstash](https://upstash.com/) - Serverless Database for Redis
 * [HarperDB](https://www.harperdb.io/) - Peer-to-peer database that is independent of hardware and network providers, accommodates both NoSQL and SQL workloads. 
+* [TiDB Cloud](https://en.pingcap.com/tidb-cloud/) — TiDB cloud is an open source MySQL compatible distributed severless RDBMS.
 
 ## Others
 
