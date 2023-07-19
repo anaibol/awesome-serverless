@@ -88,7 +88,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Netlify](https://netlify.com) - All-in-one platform for automating modern web projects. Build and host static sites, deploy AWS lambda functions, and more, all from git repositories.
 * [Aerobatic](https://www.aerobatic.com) - Deploy static sites from the command line with plugins including password protection, CORS proxy, and [more](https://www.aerobatic.com/docs/plugins).
 * [Effe](https://github.com/siscia/effe) - a simple Open Source building block to emulate AWS Lambda.
-* [Vercel(Now)](https://vercel.com) - Serverless Node.js, Python and Go deployments
+* [Vercel](https://vercel.com) - Build and deploy 40 different web frameworks with zero configuration along with Node.js, Python, Go, and Ruby Serverless Functions
 * [OpenComponents](https://opencomponents.github.io) - Serverless microservices for front-end components.
 * [OpenFaaS Cloud](https://github.com/openfaas/openfaas-cloud) - OpenFaaS Cloud: multi-user serverless functions driven by git.
 * [Stackery](https://www.stackery.io/) - Stackery enables teams of developers to design, deploy, and monitor their serverless infrastructure on cloud services providers like AWS.
