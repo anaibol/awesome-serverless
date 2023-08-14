@@ -55,6 +55,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Klotho](https://github.com/KlothoPlatform/klotho) - Serverless-enabled Infrastructure-from-Code tool that transforms plain code into cloud native code.
 * [Back4App](https://www.back4app.com) - A Backend as a Service platform powered by Parse Open Source which you can use to build your app faster, host it with no hassles and keep full control over your Backend.
 * [LeanCloud](https://leancloud.app) - Serverless cloud for lightning-fast development.
+* [Nitric](https://nitric.io) - An Open Source framework for rapidly building serverless applications.
 * [Backendless](https://backendless.com) - Realtime database, authentication, hosting.
 * [Kinvey](http://www.kinvey.com) - Build your digital business faster with mobile Backend as a Service.
 * [Substation](https://github.com/brexhq/substation) - Substation is a cloud native data pipeline and transformation toolkit written in Go.
