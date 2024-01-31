@@ -423,6 +423,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Kubernetes in Action, Second Edition](https://www.manning.com/books/kubernetes-in-action-second-edition) - A fully-updated and comprehensive guide to developing and running applications in a Kubernetes environment.
 * [Cloud Observability in Action](https://www.manning.com/books/cloud-observability-in-action) - A book that teaches you how to set up an observability system that learns from a cloud application’s signals, logging, and monitoring using free and open source tools.
 * [Podman in Action](https://www.manning.com/books/podman-in-action) - A book about developing and managing rootless containers using Podman.
+* [Terraform in Depth](https://www.manning.com/books/terraform-in-depth) - A book about developing and managing rootless containers using Podman.
 
 ## Courses
 
