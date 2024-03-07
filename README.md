@@ -30,6 +30,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 - [SMS sending](#sms-sending)
 - [Push notifications](#push-notifications)
 - [Databases](#databases)
+- [Templates/Boilerplates](#templates)
 - [Others](#others)
 - [Related articles](#related-articles)
 - [Books](#books)
@@ -324,6 +325,10 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Upstash](https://upstash.com/) - Serverless Database for Redis
 * [HarperDB](https://www.harperdb.io/) - Peer-to-peer database that is independent of hardware and network providers, accommodates both NoSQL and SQL workloads. 
 * [Neon](https://neon.tech) - fully managed serverless PostgreSQL. Neon separates storage and compute to offer modern developer features such as serverless, branching, bottomless storage, and more.
+
+## Templates
+
+* [nx-serverless](https://github.com/sudokar/nx-serverless) - A monorepo style template project for serverless framework using [Nx](https://nx.dev)
 
 ## Others
 
