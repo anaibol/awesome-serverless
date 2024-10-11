@@ -194,6 +194,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [New Relic](https://newrelic.com/products/serverless-aws-lambda) - Monitor, visualize, troubleshoot, and alert on all your AWS Lambda functions.
 * [Thundra](https://www.thundra.io) - Thundra brings observability into your AWS Lambda functions by bringing metrics, logs, distributed tracing, and alerting together.
 * [Epsagon](https://www.epsagon.com) - Epsagon automatically analyses your serverless application, identifies potential issues, and allows fast troubleshooting.
+* [Lambda Live Debugger](https://www.srvrlss.io/blog/lambda-live-debugger/) - Real-time debugging tool for AWS Lambda functions, enabling live troubleshooting and observability without redeployment delays. Streamline your serverless development and catch issues as they happen.
 * [Lumigo](https://www.lumigo.io) - Lumigo provides a visual debugging platform for serverless monitoring, tracing and troubleshooting (Free tier available).
 * [serverless-es-logger](https://github.com/ccverak/serverless-es-logger) - serverless-es-logger is a package which allows you to send logs directly to Elasticsearch.
 * [Serverless Framework Pro](https://www.serverless.com/pro/) - Serverless Framework Pro give you detailed invocation/request troubleshooting and monitoring tools for serverless applications
