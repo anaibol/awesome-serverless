@@ -263,6 +263,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Getform](http://getform.io/) - Free form backend platform for your HTML forms and static websites. Provides Zapier and Webhook support and submissions API.
 * [Google Forms](https://docs.google.com/forms/) - Create and analyze online forms and surveys.
 * [Pageclip](https://pageclip.co/) - A Server for your HTML Forms - Collect info from users without a server—Pageclip is your server. Lead capture forms, surveys, newsletter forms, contact forms, etc. Setup any form in seconds.
+* [SurveyVista](https://surveyvista.com) - Salesforce Survey, Form, and Assessment - Turn Survey & Form Data into Actionable Insights.
 * [Typeform](https://www.typeform.com/) - Pretty, intuitive, slick forms for almost any use.
 * [Tectite FormMail](http://www.tectite.com/) - FormMail, form Encryption, hosted Forms.
 * [Wufoo](http://www.wufoo.com/).
