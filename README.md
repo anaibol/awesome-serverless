@@ -414,6 +414,8 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Kubernetes Native Microservices with Quarkus, and MicroProfile](https://www.manning.com/books/kubernetes-native-microservices-with-quarkus-and-microprofile) - An introduction to a modern approach to enterprise Java development using new tools designed for cloud-native applications.
 * [Pipeline as Code](https://www.manning.com/books/pipeline-as-code) - A hands-on experience on how to build CI/CD pipelines with Jenkins for cloud-native applications (including Serverless apps).
 * [Serverless Security](https://ServerlessSecurityBook.com) - An Apress book that discusses serverless security on AWS, Azure and Google Cloud.
+* [Mastering AWS Serverless](https://MasteringAWSServerlessBook.com) - Learn Serverless Step by Step.
+Build an event-driven architecture and application in the AWS cloud.
 * [Azure Infrastructure as Code](https://www.manning.com/books/azure-infrastructure-as-code) - Master ARM templates, Bicep scripting, and other Azure Infrastructure-as-Code tools, techniques, and practices to run application infrastructure on the Azure cloud.
 * [Securing Kubernetes Secrets](https://www.manning.com/books/securing-kubernetes-secrets) - Securing Kubernetes Secrets is a compact hands-on guide to storing and protecting sensitive data in a Kubernetes environment.
 * [Kubernets on Windows](https://www.manning.com/books/kubernetes-on-windows) - Guide to successfully running windows and .NET applications on a Kubernetes cluster.
