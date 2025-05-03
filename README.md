@@ -159,6 +159,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Riff](https://projectriff.io/) - Kubernetes based serverless framework supporting multiple languages.
 * [FuseLess](https://fuseless.org/) - toolkit for running functions written in CFML (ColdFusion Markup Language) on AWS Lambda.
 * [DropFaaS](https://dropfaas.com/) - Serverless framework for running functions written in any languages.
+* [Skeet](https://github.com/elsoul/skeet-cli/) - Full-stack TypeScript Serverless Framework on Google Cloud and Firebase.
 
 ## Security
 
