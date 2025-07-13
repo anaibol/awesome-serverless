@@ -179,6 +179,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [AWS Lambda Test Runner](https://github.com/automatictester/lambda-test-runner) - Run your unit tests with Maven or SBT directly on AWS Lambda.
 * [LambCI](https://github.com/lambci/lambci) - A continuous integration system built on AWS Lambda
 * [Serverless Framework Pro](https://www.serverless.com/pro/) - Serverless Framework Pro provides CI/CD, troubleshooting and monitoring for serverless applications
+* [Shipfox](https://www.shipfox.io/) - Run your GitHub actions 2x faster at half the price
 * [Stackery CICD](https://docs.stackery.io/docs/using-stackery/verification-pipeline/) - Stackery Verification and Deployment Pipelines
 
 ## Cost calculators
