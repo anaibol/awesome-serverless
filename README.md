@@ -200,6 +200,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Lumigo](https://www.lumigo.io) - Lumigo provides a visual debugging platform for serverless monitoring, tracing and troubleshooting (Free tier available).
 * [serverless-es-logger](https://github.com/ccverak/serverless-es-logger) - serverless-es-logger is a package which allows you to send logs directly to Elasticsearch.
 * [Serverless Framework Pro](https://www.serverless.com/pro/) - Serverless Framework Pro give you detailed invocation/request troubleshooting and monitoring tools for serverless applications
+* [Serverless Statistics](https://github.com/dominikhei/serverless-statistics) - Serveless Statistics is a Golang sdk to integrate Lambda metrics directly into your Go application code and get insights into cold starts, memory usage, errors, timeouts, and throttling with just a few lines of code.
 * [SLIC Watch](https://github.com/fourTheorem/slic-watch) - Automatic alarms and dashboards for Lambda, Kinesis and more AWS services.
 * [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) - In terminal developer dashboard for AWS Serverless architectures. *(Does not replace your framework or logging/monitoring, it's used in addition)*
 * [SenseDeep](https://www.sensedeep.com) - SenseDeep serverless developer studio helps to quickly diagnose, debug and deliver reliable serverless apps.
