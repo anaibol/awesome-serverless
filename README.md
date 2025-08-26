@@ -258,6 +258,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Form.io](https://form.io) - JSON Powered Form and Data Management Platform for Serverless applications.
 * [Formcake](https://formcake.com) - Form backend built for developers with spam protection, Zapier integration, and API access.
 * [Formcarry](https://formcarry.com) - Hassle-free HTML form endpoints for your form, powerful dashboard, reliable spam blocking, attachment uploads and Zapier integrations.
+* [Form-Data](https://form-data.com) - An AI-powered form builder that creates forms in seconds. Includes spam filtering, email alerts, and integrations. Developers can connect their own forms to a fully functional backend.
 * [Formspark](https://formspark.io) - A backend for your HTML forms.
 * [Formspree](https://formspree.io) - Functional HTML forms.
 * [FormKeep](https://formkeep.com) - Form endpoints for designers and developers. No iframes, JavaScript embeds, or CSS overrides.
