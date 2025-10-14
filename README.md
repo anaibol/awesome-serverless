@@ -180,6 +180,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [LambCI](https://github.com/lambci/lambci) - A continuous integration system built on AWS Lambda
 * [Serverless Framework Pro](https://www.serverless.com/pro/) - Serverless Framework Pro provides CI/CD, troubleshooting and monitoring for serverless applications
 * [Stackery CICD](https://docs.stackery.io/docs/using-stackery/verification-pipeline/) - Stackery Verification and Deployment Pipelines
+* [GitHub Workflows Assistant](https://github.com/puzl-cloud/github-workflow-assistant) - Bulk edit GitHub Actions workflows across repositories and branches via a UI.
 
 ## Cost calculators
 
