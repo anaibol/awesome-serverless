@@ -351,6 +351,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Serverless Examples](https://www.serverless.com/examples/) - A collection of boilerplates and examples of serverless architectures built with the Serverless Framework
 * [serverless.tf playground](https://github.com/antonbabenko/serverless.tf-playground) - serverless.tf playground to show Terraform with Serverless in action.
 * [Terraform AWS Lambda module](https://github.com/terraform-aws-modules/terraform-aws-lambda/) - Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations.
+* [Vedika API](https://vedika.io) - Vedic astrology intelligence API with 108+ endpoints, AI chatbot, and 22 language support. Deploy serverless astrology apps with free sandbox testing.
 * [Lambda Shim](https://github.com/ffleet/shim) - A node.js shim library to simplify Lambda function development
 * [Mutton](https://github.com/hmngwy/mutton) - A Python shim library for better AWS Lambda Handlers
 * [Serverless Permission Policy Generator](https://github.com/Open-SL/serverless-permission-generator) - An Online Application to generate AWS IAM permissions required for deploying a Serverless stack.
