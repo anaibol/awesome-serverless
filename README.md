@@ -279,6 +279,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Letter Avatar](https://github.com/kevincolemaninc/letter-avatar-serverless) - Generates Google-like binary avatar images
 * [Mux](https://mux.com) - Streaming video infrastructure for developers. Add a live stream or upload a video file, then get thumbnails, animated gifs and more via simple API calls.
 * [Uploadcare](https://uploadcare.com) - HTML5 widget, API to manage files in cloud storage, smart and fast CDN to deliver them to your end users. Crop, resize and transform uploaded images using URL commands.
+* [ShotOG](https://github.com/nicepkg/shotog) - Edge-native OG image generation API built on Cloudflare Workers with Hono and Satori. 8 templates, 50ms render, free tier 500/month.
 
 ## Realtime
 
