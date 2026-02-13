@@ -173,6 +173,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Awesome-Serverless-Security](https://github.com/puresec/awesome-serverless-security/) - A curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
 * [Protego](https://www.protego.io) - your apps became serverless. Your security also need to be serverless too.
 * [Nuweba](https://www.nuweba.com) - Unified solution for serverless security, monitoring and performance.
+* [APort](https://aport.io) - Agent identity verification and policy enforcement platform: portable agent passports with capabilities & limits, pre-built policy packs (refunds, data export, PR merges), sub-100ms real-time verification with global suspend, multi-level assurance (Email, GitHub, Domain), and platform-agnostic integrations.
 
 ## CI/CD
 
