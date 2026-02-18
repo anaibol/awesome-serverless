@@ -204,6 +204,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [SLIC Watch](https://github.com/fourTheorem/slic-watch) - Automatic alarms and dashboards for Lambda, Kinesis and more AWS services.
 * [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) - In terminal developer dashboard for AWS Serverless architectures. *(Does not replace your framework or logging/monitoring, it's used in addition)*
 * [SenseDeep](https://www.sensedeep.com) - SenseDeep serverless developer studio helps to quickly diagnose, debug and deliver reliable serverless apps.
+* [Gabe](https://github.com/Scolliq/gabe) - Lightweight cron job heartbeat monitor built on Cloudflare Workers. Alerts via Slack/Discord webhook when scheduled jobs fail.
 
 ## Optimization and Management
 * [Epsagon](https://www.epsagon.com) - Epsagon automatically analyses your serverless application, identifies potential issues, and allows fast troubleshooting.
