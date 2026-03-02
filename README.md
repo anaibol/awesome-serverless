@@ -171,6 +171,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Using AWS CloudTrail to enhance your serverless application security](https://serverless.com/blog/cloudtrail-security) - A guide on how to use CloudTrail to improve AWS Lambda security posture.
 * [OWASP ServerlessGoat](https://www.owasp.org/index.php/OWASP_Serverless_Goat) - OWASP ServerlessGoat is a deliberately insecure realistic AWS Lambda serverless application, maintained by OWASP and contributed by PureSec. Install ServerlessGoat and learn about the vulnerabilities, how to exploit them, and how to remediate each issue. Installation is just a 1-click through the [AWS Serverless Application Repository](https://serverlessrepo.aws.amazon.com/applications/arn:aws:serverlessrepo:us-east-1:761130837472:applications~serverless-goat)
 * [Awesome-Serverless-Security](https://github.com/puresec/awesome-serverless-security/) - A curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
+* [CloudSecure](https://github.com/carlosinfantes/cloudsecure) - Open-source AWS security assessment platform with AI-powered analysis, Prowler integration, and automated CIS benchmark scanning. Built serverless with CDK, Lambda, and Step Functions.
 * [Protego](https://www.protego.io) - your apps became serverless. Your security also need to be serverless too.
 * [Nuweba](https://www.nuweba.com) - Unified solution for serverless security, monitoring and performance.
 
