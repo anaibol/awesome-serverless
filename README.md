@@ -351,6 +351,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Project Flogo](https://github.com/TIBCOSoftware/flogo) - Project Flogo is an open source framework to simplify building efficient & modern serverless functions and edge microservices.
 * [Serverless Examples](https://www.serverless.com/examples/) - A collection of boilerplates and examples of serverless architectures built with the Serverless Framework
 * [serverless.tf playground](https://github.com/antonbabenko/serverless.tf-playground) - serverless.tf playground to show Terraform with Serverless in action.
+* [srvrlss.io](https://www.srvrlss.io) - Serverless platform directory with side-by-side comparisons on specs, pricing, and capabilities.
 * [Terraform AWS Lambda module](https://github.com/terraform-aws-modules/terraform-aws-lambda/) - Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations.
 * [Lambda Shim](https://github.com/ffleet/shim) - A node.js shim library to simplify Lambda function development
 * [Mutton](https://github.com/hmngwy/mutton) - A Python shim library for better AWS Lambda Handlers
