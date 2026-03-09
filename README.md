@@ -59,7 +59,6 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Backendless](https://backendless.com) - Realtime database, authentication, hosting.
 * [Kinvey](http://www.kinvey.com) - Build your digital business faster with mobile Backend as a Service.
 * [Substation](https://github.com/brexhq/substation) - Substation is a cloud native data pipeline and transformation toolkit written in Go.
-* [Syncano](https://syncano.io) - An all-in-one platform to create realtime apps without a server.
 * [Hoodie](http://hood.ie) - Hoodie is a complete backend for your apps: develop your frontend code.
 * [Para](https://paraio.com) - Flexible and lightweight backend service for rapid prototyping, based on open source software.
 * [Parse Server](https://parseplatform.org/) - Parse Server is an open source version of the Parse backend that can be deployed to any infrastructure that can run Node.js. You can find the source on the [GitHub repo](https://github.com/parse-community/parse-server).
@@ -73,7 +72,6 @@ A curated list of awesome services, solutions and resources for serverless / nob
 ## Hosting and code execution in the cloud
 
 * [Tau](https://github.com/taubyte/tau) - Easily Build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, Object Storage, K/V Database, and Pub-Sub Messaging.
-* [FaaStRuby](https://faastruby.io) - Serverless Software Development Platform for Ruby and Crystal developers.
 * [AWS Lambda](https://aws.amazon.com/lambda) - Run code without thinking about servers. Pay for only the compute time you consume.
 * [Google Cloud Functions](https://cloud.google.com/functions/docs) - Lightweight, event-based, asynchronous compute solution that allows you to create small, single-purpose functions that respond to cloud events without the need to manage a server or a runtime environment.
 * [MongoDB Stitch](https://www.mongodb.com/cloud/stitch) - Serverless platform from MongoDB.
@@ -82,7 +80,6 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Fission](http://fission.io) - Fast, extensible, open source serverless functions on any Kubernetes cluster
 * [IBM Cloud Functions](https://console.bluemix.net/openwhisk/) - Distributed compute service to execute application logic in response to events.
 * [Knative](https://knative.dev/) - Kubernetes-based platform to build, deploy, and manage modern serverless workloads
-* [Kubeless](https://kubeless.io/) - is a Kubernetes-native serverless solution.
 * [iron.io](https://www.iron.io/platform/ironworker) - Isolates code and dependencies of individual tasks so they can be processed on demand.
 * [weblab.io](https://weblab.io) - Microservices at your fingertips.
 * [Peer5](https://www.peer5.com) - The serverless CDN. Limitless, affordable video delivery. More traffic means a stronger network.
@@ -97,7 +94,6 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [OpenFaaS Cloud](https://github.com/openfaas/openfaas-cloud) - OpenFaaS Cloud: multi-user serverless functions driven by git.
 * [Stackery](https://www.stackery.io/) - Stackery enables teams of developers to design, deploy, and monitor their serverless infrastructure on cloud services providers like AWS.
 * [Algorithmia](https://algorithmia.com/) - Automating the use of AI/ML models at every scale with the Serverless AI Layer.
-* [TriggerMesh](https://www.triggermesh.com) - Serverless Management Platform with advanced event triggers.
 * [Cloudflare Workers](https://www.cloudflareworkers.com) - Workers allow you to deploy Serverless apps to 165+ data centers across the globe simultaneously, along with the ability to agument or alter exsisting websites and APIs on the fly.
 * [fn](https://fnproject.io) - The container native, cloud agnostic serverless platform.
 * [TinyFunction](https://tinyfunction.com) - Fastest way to create cloud functions. Write your function, deploy and call them from anywhere.
@@ -384,7 +380,6 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 * [Serverless](https://leanpub.com/serverless) - Patterns of Modern Application Design Using Microservices (Amazon Web Services Edition).
 * [Serverless Single Page Apps](https://pragprog.com/book/brapps/serverless-single-page-apps) - The Pragmatic Bookshelf.
-* [Going Serverless](https://www.goingserverless.co/) - Practical guide to building applications with the Serverless Framework.
 * [Serverless Architectures on AWS](https://www.manning.com/books/serverless-architectures-on-aws). Teaches you how to build, secure and manage serverless architectures that can power the most demanding web and mobile apps. Written by Peter Sbarski
 * [Building Serverless Architectures](https://www.amazon.co.uk/Building-Serverless-Architectures-Cagatay-Gurturk/dp/1787129195) Book about building serverless applications  in JAVA.
 * [AWS Lambda in Action](https://www.manning.com/books/aws-lambda-in-action) An example-driven tutorial that teaches you how to build applications that use an event-driven approach on the back end.
@@ -449,7 +444,6 @@ Build an event-driven architecture and application in the AWS cloud.
 
 ## Newsletters
 
-* [Serverless Status](https://serverless.email/) - A weekly digest of the latest serverless news and articles.
 * [Serverless Insights](https://symphonia.us15.list-manage.com/subscribe?u=8fe3a0d260ada7ca9aafdbf14&id=d4b4244107) - Symphonia's Serverless Insights.
 * [Off-by-none](https://www.jeremydaly.com/newsletter/) - Weekly newsletter that focuses on using serverless technology to build products in the cloud
 * [Serverless Transformation](https://www.getrevue.co/profile/serverless-transformation) - Weekly newsletter of a limited set of articles about serverless. Each article is graded on complexity level.
