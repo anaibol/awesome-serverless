@@ -231,6 +231,8 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [GCF-Stripe](https://github.com/rldaulton/GCF-Stripe) - serverless use of Stripe over Google Cloud Functions.
 * [Stripe Azure function](https://github.com/sdras/sample-stripe-handler) - An Azure Function that uses the Stripe api for a checkout process in a Vue application
 
+* [Arch Tools](https://archtools.dev) - The first x402 API hub — 58+ AI tools for search, scraping, analysis, and generation with native Coinbase x402 crypto payments on 15+ chains. MCP compatible.
+
 ## eCommerce
 
 * [Snipcart](https://snipcart.com) - Fully customizable, HTML and JavaScript-based shopping cart for any website.
