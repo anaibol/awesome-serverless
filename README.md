@@ -204,6 +204,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [SLIC Watch](https://github.com/fourTheorem/slic-watch) - Automatic alarms and dashboards for Lambda, Kinesis and more AWS services.
 * [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) - In terminal developer dashboard for AWS Serverless architectures. *(Does not replace your framework or logging/monitoring, it's used in addition)*
 * [SenseDeep](https://www.sensedeep.com) - SenseDeep serverless developer studio helps to quickly diagnose, debug and deliver reliable serverless apps.
+* [smplogs](https://www.smplogs.com) - local-based CloudWatch log analyzer for Lambda, API Gateway, and ECS. Severity-ranked findings, root cause analysis, and log clustering - logs never leave the browser.
 
 ## Optimization and Management
 * [Epsagon](https://www.epsagon.com) - Epsagon automatically analyses your serverless application, identifies potential issues, and allows fast troubleshooting.
