@@ -6,6 +6,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ***“No server is easier to manage than no server”***
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for serverless-style multi-agent orchestration with event-driven task delegation and automated coordination. MIT licensed.
 ## Table of contents
 
 - [What is "serverless" computing?](#what-is-serverless-computing)
