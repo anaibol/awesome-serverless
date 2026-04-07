@@ -332,6 +332,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ## Others
 
+* [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 * [Azure Function Library](http://functionlibrary.azurewebsites.net) - An open source set of common use cases for Azure Functions that are ready to deploy!
 * [Argonaut](https://argonaut.dev/) - Deploy apps and infrastructure on your cloud in minutes. Support for custom and third-party app deployments on Kubernetes and Lambda environments. Free tier allows unlimited apps and deployments for 5 environments and 2 users.
 * [Backstage Functions](https://github.com/backstage/functions) - An Open Source Serverless Platform able to store and execute code maintained by [Globo.com](http://www.globo.com)
