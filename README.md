@@ -205,6 +205,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) - In terminal developer dashboard for AWS Serverless architectures. *(Does not replace your framework or logging/monitoring, it's used in addition)*
 * [SenseDeep](https://www.sensedeep.com) - SenseDeep serverless developer studio helps to quickly diagnose, debug and deliver reliable serverless apps.
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=anaibol_awesome-serverless) - Follow devops folks on GitHub and see what infra tools they are starring.
 ## Optimization and Management
 * [Epsagon](https://www.epsagon.com) - Epsagon automatically analyses your serverless application, identifies potential issues, and allows fast troubleshooting.
 * [Sedai] https://www.sedai.io) - Sedai autnonomously manages your serverless application, optimizing for performance and cost, remediating potential issues, and providing release intelligence on each new version.
