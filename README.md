@@ -256,6 +256,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 ## Forms
 
 * [Airform.io](https://airform.io) - Functional HTML forms for Front-End Developers.
+* [Ansel Forms](https://anselforms.com) - A simple, free headless form backend and visual builder. Fast, privacy focused, and features custom branding with zero third party.
 * [Form.io](https://form.io) - JSON Powered Form and Data Management Platform for Serverless applications.
 * [Formcake](https://formcake.com) - Form backend built for developers with spam protection, Zapier integration, and API access.
 * [Formcarry](https://formcarry.com) - Hassle-free HTML form endpoints for your form, powerful dashboard, reliable spam blocking, attachment uploads and Zapier integrations.
