@@ -237,8 +237,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [CommerceJS](http://commercejs.com/) - Full-stack ecommerce api for developers & designers.
 * [EndlessCommerce](https://github.com/endless-commerce/endless) - Open source ecommerce platform based on Serverless framework.
 * [Medusa](https://medusajs.com/) - Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
-
-
+* [ShopSavvy](https://shopsavvy.com/data) - Product data API with serverless templates for AWS Lambda, Cloudflare Workers, Supabase Edge Functions, and Deno Deploy.
 
 ## Content Management Systems
 
