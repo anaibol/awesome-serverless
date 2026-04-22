@@ -342,6 +342,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Daggy](https://github.com/synacker/daggy) - Data Aggregation Utility. Remote or local data aggregation and streaming
 * [Docker Lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
 * [faas](https://github.com/alexellis/faas) - Run Docker containers as functions on Swarm Mode ([blog post](http://blog.alexellis.io/functions-as-a-service/))
+* [fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source local AWS cloud emulator. Real Lambda execution across 13 runtimes, with cross-service triggers (S3, SQS, SNS, EventBridge, DynamoDB Streams). Single binary, no account required.
 * [FunctionCI](https://github.com/rgfindl/functionci) - Continuous Integration for AWS Lambdas.
 * [gofn](https://github.com/nuveo/gofn) - Go package for function process via container provider (serverless minimalist)
 * [kube-fledged](https://github.com/senthilrch/kube-fledged) - A K8S add-on for creating and managing a cache of container images directly on cluster worker nodes
