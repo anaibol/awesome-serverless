@@ -285,6 +285,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Ably](https://www.ably.io/) - Global distributed realtime data delivery platform with pub/sub, presence, device awareness, history, connection state recovery, authentication and encryption.
 * [Pusher](https://pusher.com/) - Build Apps, Not Infrastructure.
 * [Pubnub](https://www.pubnub.com/) - PubNub utilizes a Publish/Subscribe[2] model for realtime data streaming.
+* [Vask](https://vask.dev) - Realtime websockets, Pusher-compatible, no-fan out fees, powered by Cloudflare.
 
 ## Scheduling
 
