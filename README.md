@@ -483,3 +483,5 @@ You want to contribute to this project? [Please follow these recommendations](CO
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+- [CausalLayer MCP](https://github.com/smq9sn5jck-coder/causallayer-mcp) - Deterministic AI liability attribution server on Cloudflare Workers. Immutable certificate chains for EU AI Act compliance.
