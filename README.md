@@ -213,6 +213,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 * [Auth0](https://auth0.com) - Single Sign On & Token Based Authentication.
 * [Amazon Cognito](https://aws.amazon.com/cognito/) - Amazon Cognito lets you easily add user sign-up and sign-in to your mobile and web apps.
+* [Clerk](https://clerk.com) - Auth and user management APIs with prebuilt UI components. Free up to 50,000 monthly retained users.
 * [DailyCred](https://www.dailycred.com/) - Registration, user management, single-sign-on.
 * [Firebase](https://firebase.com/).
 * [MojoAuth](https://mojoauth.com) - Passwordless authentication on your web, mobile or any application in minutes.
