@@ -329,6 +329,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Upstash](https://upstash.com/) - Serverless Database for Redis
 * [HarperDB](https://www.harperdb.io/) - Peer-to-peer database that is independent of hardware and network providers, accommodates both NoSQL and SQL workloads. 
 * [Neon](https://neon.tech) - fully managed serverless PostgreSQL. Neon separates storage and compute to offer modern developer features such as serverless, branching, bottomless storage, and more.
+* [baerly-storage](https://github.com/Gusto/baerly-storage) - Serverless document database that runs inside your request handler and stores state in an S3/R2 bucket, with no database server.
 
 ## Others
 
