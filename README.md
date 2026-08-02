@@ -222,6 +222,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ## IAM
 
+* [@interlace/serverless-iam-roles-per-function](https://github.com/ofri-peretz/serverless/tree/main/packages/serverless-iam-roles-per-function) - Per-function IAM roles for Serverless Framework v3 and v4, with TypeScript config types and IAM statement validation. Drop-in replacement for the community plugin of the same name.
 * [PureSec CLI](https://github.com/puresec/serverless-puresec-cli) - Magically creates least privileged IAM roles for you.
 
 ## Payments
