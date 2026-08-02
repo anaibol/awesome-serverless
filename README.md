@@ -206,6 +206,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [SenseDeep](https://www.sensedeep.com) - SenseDeep serverless developer studio helps to quickly diagnose, debug and deliver reliable serverless apps.
 
 ## Optimization and Management
+* [@interlace/serverless-api-gateway-caching](https://github.com/ofri-peretz/serverless/tree/main/packages/serverless-api-gateway-caching) - API Gateway response caching for Serverless Framework v3 and v4, with per-endpoint settings, config validation and CLI commands. TypeScript replacement for the community plugin of the same name.
 * [Epsagon](https://www.epsagon.com) - Epsagon automatically analyses your serverless application, identifies potential issues, and allows fast troubleshooting.
 * [Sedai] https://www.sedai.io) - Sedai autnonomously manages your serverless application, optimizing for performance and cost, remediating potential issues, and providing release intelligence on each new version.
 
