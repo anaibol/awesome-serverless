@@ -297,6 +297,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Serverless Mailer](https://github.com/eahefnawy/serverless-mailer) - Serverless Module for sending emails.
 * [Mailchimp Lambda](https://github.com/TaylorBriggs/mailchimp-lambda) - A Lambda function for subscribing to a MailChimp list.
 * [Mailchimp Lambda Single Opt-in](https://github.com/anaibol/lambda-mailchimp-single-opt-in) - An Amazon Lambda function for creating MailChimp subscriptions with single opt-in.
+* [Mailtrap](https://mailtrap.io/email-api/) - Email API and SMTP service for sending transactional emails from serverless applications. Free plan includes 4,000 emails/month, limited to 150 emails/day.
 
 ## SMS sending
 
