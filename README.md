@@ -297,6 +297,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Serverless Mailer](https://github.com/eahefnawy/serverless-mailer) - Serverless Module for sending emails.
 * [Mailchimp Lambda](https://github.com/TaylorBriggs/mailchimp-lambda) - A Lambda function for subscribing to a MailChimp list.
 * [Mailchimp Lambda Single Opt-in](https://github.com/anaibol/lambda-mailchimp-single-opt-in) - An Amazon Lambda function for creating MailChimp subscriptions with single opt-in.
+* [MailySend](https://github.com/GagnDeep/mailysend) - Self-hosted transactional and marketing email platform on Cloudflare Workers, with a Resend-compatible API, broadcasts, inbound mailboxes and deliverability analytics.
 
 ## SMS sending
 
