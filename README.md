@@ -440,6 +440,7 @@ Build an event-driven architecture and application in the AWS cloud.
 * [Serverless Applications with AWS](https://www.manning.com/livevideo/serverless-applications-with-AWS) - Serverless Applications with AWS teaches you to build serverless applications using AWS Lambda and other cloud-based services.
 * [Serverless-stack](https://serverless-stack.com) - Learn to Build complete Full-Stack Apps with Serverless and React on AWS.
 * [Develop a Serverless Backend using Node.js on AWS Lambda](https://egghead.io/courses/develop-a-serverless-backend-using-node-js-on-aws-lambda) - Learn how to create a serverless API and connecting it to DynamoDB using leveraging Lambda's new async/await syntax
+* [LabEx Cloudflare Learning Path](https://labex.io/learn/cloudflare) - Hands-on beginner courses covering Cloudflare Workers, storage, AI, stateful applications, deployment, operations, and troubleshooting.
 * [AWS in Motion](https://www.manning.com/livevideo/aws-in-motion) - A liveVideo course that guides you through your first steps of deploying a web application on AWS, teaching you the basics of the AWS ecosystem.
 * [Production-Ready Serverless](https://www.manning.com/livevideo/production-ready-serverless) - This liveVideo teaches you how to build applications that take advantage of AWS Lambda and other AWS platform features like API Gateway and Kinesis.
 
