@@ -237,6 +237,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [CommerceJS](http://commercejs.com/) - Full-stack ecommerce api for developers & designers.
 * [EndlessCommerce](https://github.com/endless-commerce/endless) - Open source ecommerce platform based on Serverless framework.
 * [Medusa](https://medusajs.com/) - Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
+* [Nitrogen](https://github.com/mksd0398/nitrogen) - Open source CLI that scaffolds, deploys and installs a Shopify app on Firebase (Cloud Functions, Firestore, Hosting) in one command.
 
 
 
