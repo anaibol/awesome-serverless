@@ -278,6 +278,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Kloudless](https://kloudless.com) - Integrate with one, universal API and connect to many file storage and CRM services.
 * [Letter Avatar](https://github.com/kevincolemaninc/letter-avatar-serverless) - Generates Google-like binary avatar images
 * [Mux](https://mux.com) - Streaming video infrastructure for developers. Add a live stream or upload a video file, then get thumbnails, animated gifs and more via simple API calls.
+* [Neon Object Storage](https://neon.com/docs/storage/overview) - S3-compatible object storage that branches with your Neon Postgres project. Every branch gets a copy-on-write view of its buckets, and uploads can trigger Neon Functions.
 * [Uploadcare](https://uploadcare.com) - HTML5 widget, API to manage files in cloud storage, smart and fast CDN to deliver them to your end users. Crop, resize and transform uploaded images using URL commands.
 
 ## Realtime
