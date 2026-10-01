@@ -102,6 +102,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [fn](https://fnproject.io) - The container native, cloud agnostic serverless platform.
 * [TinyFunction](https://tinyfunction.com) - Fastest way to create cloud functions. Write your function, deploy and call them from anywhere.
 * [Cycle.io](https://cycle.io) -  A Devops platform with integrated serverless-like functionality, alongside other DevOps features like container orchestration, load-balancing, monitoring and more.
+* [Acurast](https://acurast.com/) - Decentralized serverless compute on smartphones. Deploy Node.js or native Linux workloads with a CLI, paid in ACU or USDC.
 
 ## Isomorphic Engines
 
