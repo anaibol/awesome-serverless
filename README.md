@@ -283,6 +283,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 ## Realtime
 
 * [Ably](https://www.ably.io/) - Global distributed realtime data delivery platform with pub/sub, presence, device awareness, history, connection state recovery, authentication and encryption.
+* [EdgeChat](https://github.com/aozorae/Edgechat) - Open-source realtime team chat deployed on Cloudflare Workers, D1, KV, R2, and Durable Objects, with Telegram bridging and WebRTC voice calls.
 * [Pusher](https://pusher.com/) - Build Apps, Not Infrastructure.
 * [Pubnub](https://www.pubnub.com/) - PubNub utilizes a Publish/Subscribe[2] model for realtime data streaming.
 
