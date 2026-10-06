@@ -341,6 +341,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [serverless-slack-webhook](https://github.com/eahefnawy/serverless-slack-webhook) - Serverless Module that creates a webhook for Slack.
 * [Daggy](https://github.com/synacker/daggy) - Data Aggregation Utility. Remote or local data aggregation and streaming
 * [Docker Lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
+* [EdgeSSH](https://github.com/aozorae/EdgeSSH) - Self-hosted SSH workspace built on Cloudflare Workers, Durable Objects, D1, and TCP Sockets, with a browser terminal and SFTP file management.
 * [faas](https://github.com/alexellis/faas) - Run Docker containers as functions on Swarm Mode ([blog post](http://blog.alexellis.io/functions-as-a-service/))
 * [FunctionCI](https://github.com/rgfindl/functionci) - Continuous Integration for AWS Lambdas.
 * [gofn](https://github.com/nuveo/gofn) - Go package for function process via container provider (serverless minimalist)
