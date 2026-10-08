@@ -329,6 +329,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Upstash](https://upstash.com/) - Serverless Database for Redis
 * [HarperDB](https://www.harperdb.io/) - Peer-to-peer database that is independent of hardware and network providers, accommodates both NoSQL and SQL workloads. 
 * [Neon](https://neon.tech) - fully managed serverless PostgreSQL. Neon separates storage and compute to offer modern developer features such as serverless, branching, bottomless storage, and more.
+* [Prisma Postgres](https://www.prisma.io/postgres) - Managed serverless PostgreSQL with zero cold starts and a free plan, no credit card required.
 
 ## Others
 
