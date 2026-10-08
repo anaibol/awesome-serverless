@@ -102,6 +102,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [fn](https://fnproject.io) - The container native, cloud agnostic serverless platform.
 * [TinyFunction](https://tinyfunction.com) - Fastest way to create cloud functions. Write your function, deploy and call them from anywhere.
 * [Cycle.io](https://cycle.io) -  A Devops platform with integrated serverless-like functionality, alongside other DevOps features like container orchestration, load-balancing, monitoring and more.
+* [Prisma Compute](https://www.prisma.io/compute) - hosts TypeScript apps (Node.js, Bun, Next.js) next to Prisma Postgres. Free tier includes 1M requests/month.
 
 ## Isomorphic Engines
 
