@@ -356,6 +356,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Mutton](https://github.com/hmngwy/mutton) - A Python shim library for better AWS Lambda Handlers
 * [Serverless Permission Policy Generator](https://github.com/Open-SL/serverless-permission-generator) - An Online Application to generate AWS IAM permissions required for deploying a Serverless stack.
 * [DynamoDB Onetable](https://www.npmjs.com/package/dynamodb-onetable) - DynamoDB access library for single-table designs using NodeJS.
+* [webhook-relay](https://github.com/5012763083a-oss/webhook-relay) - Self-hosted webhook relay on Cloudflare Workers with signature checks, retries with backoff, idempotency and replay.
 
 ## Related articles
 
