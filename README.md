@@ -91,6 +91,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Surge](http://surge.sh) - Deploy static sites from the command line.
 * [Netlify](https://netlify.com) - All-in-one platform for automating modern web projects. Build and host static sites, deploy AWS lambda functions, and more, all from git repositories.
 * [Aerobatic](https://www.aerobatic.com) - Deploy static sites from the command line with plugins including password protection, CORS proxy, and [more](https://www.aerobatic.com/docs/plugins).
+* [Buddy](https://buddy.works) - App and website hosting with git repositories, sandbox VMs and CI/CD workflows, accessible via REST API, MCP server and CLI.
 * [Effe](https://github.com/siscia/effe) - a simple Open Source building block to emulate AWS Lambda.
 * [Vercel](https://vercel.com) - Build and deploy 40 different web frameworks with zero configuration along with Node.js, Python, Go, and Ruby Serverless Functions
 * [OpenComponents](https://opencomponents.github.io) - Serverless microservices for front-end components.
