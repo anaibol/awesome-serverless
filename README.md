@@ -184,6 +184,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 
 ## Cost calculators
 
+* [DynamoDB Pricing Calculator](https://dynobase.dev/dynamodb-pricing-calculator/) - Estimate DynamoDB costs in 19 AWS Regions for on-demand or provisioned capacity, storage and Streams reads.
 * [serverlesscalc](http://serverlesscalc.com) - Calculating cost for AWS Lambda, Azure Functions, Google Cloud Functions, and IBM Cloud Functions.
 * [servers.lol](https://servers.lol) - calculator to decide Lambda vs EC2.
 
