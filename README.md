@@ -97,6 +97,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [OpenFaaS Cloud](https://github.com/openfaas/openfaas-cloud) - OpenFaaS Cloud: multi-user serverless functions driven by git.
 * [Stackery](https://www.stackery.io/) - Stackery enables teams of developers to design, deploy, and monitor their serverless infrastructure on cloud services providers like AWS.
 * [Algorithmia](https://algorithmia.com/) - Automating the use of AI/ML models at every scale with the Serverless AI Layer.
+* [QIT](https://qit.energy/) - Serverless GPUs (scale-to-zero Pods) and Model API for AI inference; also reserved GPUs and liquid-cooled GPU containers.
 * [TriggerMesh](https://www.triggermesh.com) - Serverless Management Platform with advanced event triggers.
 * [Cloudflare Workers](https://www.cloudflareworkers.com) - Workers allow you to deploy Serverless apps to 165+ data centers across the globe simultaneously, along with the ability to agument or alter exsisting websites and APIs on the fly.
 * [fn](https://fnproject.io) - The container native, cloud agnostic serverless platform.
