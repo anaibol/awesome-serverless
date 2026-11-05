@@ -95,6 +95,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Vercel](https://vercel.com) - Build and deploy 40 different web frameworks with zero configuration along with Node.js, Python, Go, and Ruby Serverless Functions
 * [OpenComponents](https://opencomponents.github.io) - Serverless microservices for front-end components.
 * [OpenFaaS Cloud](https://github.com/openfaas/openfaas-cloud) - OpenFaaS Cloud: multi-user serverless functions driven by git.
+* [RunR](https://github.com/BRF-Tech/runr) - Self-hosted serverless platform on Kubernetes and Knative: functions, container images and WebAssembly with scale-to-zero, versions and rollbacks, sandboxes and multi-region. MIT.
 * [Stackery](https://www.stackery.io/) - Stackery enables teams of developers to design, deploy, and monitor their serverless infrastructure on cloud services providers like AWS.
 * [Algorithmia](https://algorithmia.com/) - Automating the use of AI/ML models at every scale with the Serverless AI Layer.
 * [TriggerMesh](https://www.triggermesh.com) - Serverless Management Platform with advanced event triggers.
