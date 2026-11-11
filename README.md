@@ -219,6 +219,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [OAuth.io](https://oauth.io/) - OAuth integration, user management, provides OAuth 2.0 layer to existing APIs.
 * [Okta](https://developer.okta.com/) - Provides authentication, authorization, and user management, merged with [Stormpath](https://stormpath.com/) in August 2017.
 * [Serverless Authentication Boilerplate with FaunaDB](https://serverless.com/blog/faunadb-serverless-authentication/) - Single sign on using Amazon API Gateway custom authorizer to provision database access tokens for your Lambda functions. [See TodoMVC integration in this meetup talk video.](https://fauna.com/blog/developing-serverless-authentication-and-persistence)
+* [Shtora Auth](https://github.com/orgShtora-1/auth) - TypeScript registration, login, and cookie-session handlers for Workers, with optional D1 adapters.
 
 ## IAM
 
