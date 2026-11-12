@@ -119,6 +119,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Chalice](https://github.com/awslabs/chalice) - Python serverless microframework from Amazon for AWS lambda.
 * [CIM](https://github.com/thestackshack/cim) - A CloudFormation first approach to AWS Lambdas.
 * [ClaudiaJS](https://github.com/claudiajs/claudia) - Deploy Node.js microservices to AWS easily.
+* [Clean Lambda Function](https://github.com/LeanMeanCleanApps/CleanLambdaFunction) - A `dotnet new` template for .NET 10 AWS Lambda functions with Lambda Annotations and Clean Architecture solution structure.
 * [DEEP](https://github.com/MitocGroup/deep-framework) - Full-stack Web Framework for Cloud-Native Applications and Platforms using Microservices Architecture.
 * [FaasJS](https://faasjs.com) - A Node.js Serverless Application Framework.
 * [flowbject](https://github.com/alex20465/flowbject) - A high-level library whose aim is to help with writing state-machine flows.
