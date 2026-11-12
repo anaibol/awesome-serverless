@@ -379,6 +379,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Level up your serverless game with a GraphQL data-as-a-service layer](https://hasura.io/blog/level-up-your-serverless-game-with-a-graphql-data-as-a-service-layer/)
 * [Serverless White Paper](https://www.unusual.vc/post/unusual-tech-serverless-white-paper) - Informative White Paper on Serverless with deep analysis by Unusual VC.
 * [Receiving Webhooks with Netlify Functions](https://www.svix.com/blog/receive-webhooks-with-netlify-functions/) - Using Netlify's serverless functions to receive webhooks and verify the signature.
+* [Where the subrequest counter stops](https://exia.de5.net/p/workers-subrequest-limit) - Measured fan-out limits inside a single serverless invocation: what counts toward the cap, what does not, and how concurrency changes the failure mode.
 
 ## Books
 
