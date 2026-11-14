@@ -262,6 +262,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Formspark](https://formspark.io) - A backend for your HTML forms.
 * [Formspree](https://formspree.io) - Functional HTML forms.
 * [FormKeep](https://formkeep.com) - Form endpoints for designers and developers. No iframes, JavaScript embeds, or CSS overrides.
+* [Formkove](https://formkove.com) - Form backend that holds spam back before delivery, tags each submission by content, routes to Slack, Discord, Sheets, Zapier, or webhooks, and gives agencies a workspace per client.
 * [Formplug](https://github.com/danielireson/formplug-serverless) - Form forwarding service for AWS Lambda.
 * [FormAssembly](http://www.formassembly.com/).
 * [Getform](http://getform.io/) - Free form backend platform for your HTML forms and static websites. Provides Zapier and Webhook support and submissions API.
