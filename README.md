@@ -278,6 +278,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [Kloudless](https://kloudless.com) - Integrate with one, universal API and connect to many file storage and CRM services.
 * [Letter Avatar](https://github.com/kevincolemaninc/letter-avatar-serverless) - Generates Google-like binary avatar images
 * [Mux](https://mux.com) - Streaming video infrastructure for developers. Add a live stream or upload a video file, then get thumbnails, animated gifs and more via simple API calls.
+* [PennyCompute](https://pennycompute.com) - Pay-per-job HTTP API for FFmpeg and Remotion video rendering (transcode, stitch, caption burn, audio mix). No servers or Lambda setup; billed by output length, failed jobs are free.
 * [Uploadcare](https://uploadcare.com) - HTML5 widget, API to manage files in cloud storage, smart and fast CDN to deliver them to your end users. Crop, resize and transform uploaded images using URL commands.
 
 ## Realtime
