@@ -102,6 +102,7 @@ A curated list of awesome services, solutions and resources for serverless / nob
 * [fn](https://fnproject.io) - The container native, cloud agnostic serverless platform.
 * [TinyFunction](https://tinyfunction.com) - Fastest way to create cloud functions. Write your function, deploy and call them from anywhere.
 * [Cycle.io](https://cycle.io) -  A Devops platform with integrated serverless-like functionality, alongside other DevOps features like container orchestration, load-balancing, monitoring and more.
+* [Sandscale](https://sandscale.dev) - Firecracker microVM sandboxes that AI coding agents create on demand to run code, billed per awake vCPU-hour, with a remote MCP server and an audit log.
 
 ## Isomorphic Engines
 
